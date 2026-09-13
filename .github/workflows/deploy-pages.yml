@@ -4,7 +4,7 @@ on:
     branches: [main]
   workflow_dispatch:
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 concurrency:
@@ -22,6 +22,24 @@ jobs:
         with:
           node-version: 22
       - run: npm run build && npm run check
+      - name: Materialize generated pages in main
+        if: github.event_name == 'push'
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          while IFS= read -r -d '' file; do
+            git add -- "$file"
+          done < <(find . -type f -name 'index.html' \
+            -not -path './.git/*' \
+            -not -path './node_modules/*' \
+            -not -path './content/*' -print0)
+          if git diff --cached --quiet; then
+            echo "Generated pages already match main."
+          else
+            git commit -m "chore: materialize generated pages"
+            git push origin HEAD:main
+          fi
       - uses: actions/configure-pages@v5
         with:
           enablement: true
