@@ -58,7 +58,7 @@ Review date: 2026-09-13
 - Structure clonée du skeleton « 3 raisons » : no ; la structure vient du brief Orsay.
 - Les trois cartes de mouvements servent une distinction réelle et ne sont pas utilisées comme règle de template pour les autres musées.
 
-## On-page / technical verification before PR gate
+## On-page / technical verification
 
 - H1 : `Musée d’Orsay`.
 - Title final attendu : `Musée d’Orsay : préparer sa visite en 2026 | Visite Musée` (57 caractères).
@@ -68,7 +68,7 @@ Review date: 2026-09-13
 - Source links externes : institutionnels pour les claims pratiques.
 - `noindex,follow` : conservé par le shell ; aucune instruction d'indexation.
 - `scripts/apply-content.mjs` smoke test local : PASS (injection body/title/canonical/schema/CSS).
-- Full repository `npm run build && npm run check` on PR: PENDING at creation of this artifact.
+- Full repository `npm run build && npm run check` on PR: PASS, GitHub Actions run `34777968332`.
 
 ## Information gain preserved
 
@@ -87,8 +87,6 @@ Review date: 2026-09-13
 - [x] Visit proposition remains specific and provable.
 - [x] Entity/collection visibility distinction preserved.
 - [x] Humanizer / general-writing / anti-ai-slop run separately.
-- [ ] PR machine gate `npm run build && npm run check` passed.
+- [x] PR machine gate `npm run build && npm run check` passed.
 
-**Status: READY_FOR_MACHINE_GATE.**
-
-`PUBLISH_REVIEW` must not return PASS until the PR machine gate succeeds.
+**Status: READY_FOR_PUBLISH_REVIEW.**
