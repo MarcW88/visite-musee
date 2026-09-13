@@ -1,1 +1,1 @@
-{"name":"visite-musee","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","check":"node scripts/check.mjs"}}
+{"name":"visite-musee","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs && node scripts/apply-content.mjs","check":"node scripts/check.mjs"}}
