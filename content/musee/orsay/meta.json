@@ -1,0 +1,35 @@
+{
+  "title": "Musée d’Orsay : visite, horaires et tarifs 2026",
+  "description": "Préparez votre visite du musée d’Orsay : collections 1848-1914, impressionnisme, horaires, tarifs, gratuité, accès et travaux 2026-2028.",
+  "canonical": "https://visite-musee.fr/musee/orsay/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée d’Orsay",
+    "url": "https://www.musee-orsay.fr/",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q23402"
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Esplanade Valéry Giscard d’Estaing",
+      "postalCode": "75007",
+      "addressLocality": "Paris",
+      "addressCountry": "FR"
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Tuesday", "Wednesday", "Friday", "Saturday", "Sunday"],
+        "opens": "09:30",
+        "closes": "18:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Thursday",
+        "opens": "09:30",
+        "closes": "21:45"
+      }
+    ]
+  }
+}
