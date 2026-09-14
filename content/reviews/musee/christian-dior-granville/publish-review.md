@@ -1,0 +1,2 @@
+# PUBLISH_REVIEW — musee/christian-dior-granville
+Traceability PASS. Intent PASS. Freshness PASS. Accessibility constraint PASS. Editorial/GEO PASS. Technical PASS pending CI. Decision PASS — READY_FOR_HUMAN_VALIDATION conditional on build/check. Keep noindex.

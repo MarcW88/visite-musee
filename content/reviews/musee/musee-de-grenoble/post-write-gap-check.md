@@ -1,0 +1,2 @@
+# Post-write gap check — musee/musee-de-grenoble
+Modern-art historical proposition COVERED. Permanent free COVERED. Hours/tariffs COVERED. Egyptian closure COVERED and dated. No unsupported duration/crowd claim. Status READY_FOR_PUBLISH_REVIEW.

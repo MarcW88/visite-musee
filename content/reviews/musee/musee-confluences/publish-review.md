@@ -1,0 +1,2 @@
+# PUBLISH_REVIEW — musee/musee-confluences
+Traceability PASS. Intent PASS. Freshness PASS. Editorial/GEO PASS. Technical PASS pending CI. Decision PASS — READY_FOR_HUMAN_VALIDATION conditional on build/check. Keep noindex.

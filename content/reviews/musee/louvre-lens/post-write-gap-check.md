@@ -1,0 +1,2 @@
+# Post-write gap check — musee/louvre-lens
+Galerie proposition COVERED. Free permanent access COVERED. Hours/tariff COVERED. Architecture/mining context COVERED. No unsupported current-display claim beyond official Galerie description. Status READY_FOR_PUBLISH_REVIEW.
