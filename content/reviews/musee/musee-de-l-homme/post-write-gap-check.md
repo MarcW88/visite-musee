@@ -1,0 +1,2 @@
+# Post-write gap check — musee/musee-de-l-homme
+Three-question journey COVERED. Collections/research identity COVERED. Hours/prices/access COVERED. No unsupported duration. Status READY_FOR_PUBLISH_REVIEW.

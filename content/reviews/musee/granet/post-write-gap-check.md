@@ -1,0 +1,2 @@
+# Post-write gap check — musee/granet
+Two-site distinction COVERED. Separate ticket COVERED. 2026 hour change COVERED. Main tariff COVERED. Collection/Planque role COVERED. Status READY_FOR_PUBLISH_REVIEW.

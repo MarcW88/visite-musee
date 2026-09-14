@@ -1,0 +1,2 @@
+# Post-write gap check — musee/cernuschi
+Collection identity COVERED. Permanent-entry free COVERED. Temp tariff distinction COVERED. Hours COVERED. Current-display overclaim none. Status READY_FOR_PUBLISH_REVIEW.

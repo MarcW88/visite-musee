@@ -1,0 +1,12 @@
+{
+  "title": "Musée du Louvre : choisir et préparer sa visite en 2026",
+  "description": "Préparez votre visite du Louvre : quel parcours choisir, horaires 2026, tarifs, réservation et ouverture des salles.",
+  "canonical": "https://visite-musee.fr/musee/louvre/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée du Louvre",
+    "url": "https://www.louvre.fr/",
+    "address": {"@type":"PostalAddress","streetAddress":"Rue de Rivoli","postalCode":"75001","addressLocality":"Paris","addressCountry":"FR"}
+  }
+}

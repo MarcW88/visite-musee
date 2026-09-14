@@ -1,0 +1,2 @@
+# PUBLISH_REVIEW — musee/musee-de-l-homme
+Traceability PASS. Intent PASS. Factuality/freshness PASS. Editorial/GEO PASS. Technical PASS pending CI. Decision PASS — READY_FOR_HUMAN_VALIDATION conditional on build/check. Keep noindex.

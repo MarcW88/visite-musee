@@ -1,0 +1,2 @@
+# Post-write gap check — musee/musee-confluences
+Interdisciplinary proposition COVERED. Permanent route COVERED. Current hours/tariffs COVERED. Upcoming Sociétés closure COVERED and dated. Architecture contextualised. No unsupported duration/crowd claim. Status READY_FOR_PUBLISH_REVIEW.

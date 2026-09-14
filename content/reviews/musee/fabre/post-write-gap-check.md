@@ -1,0 +1,2 @@
+# Post-write gap check — musee/fabre
+Bruyas/Courbet proposition COVERED. Broad collection/Soulages COVERED. Current hours/tariffs COVERED. First-Sunday free rule COVERED. Status READY_FOR_PUBLISH_REVIEW.

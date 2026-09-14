@@ -1,0 +1,2 @@
+# Post-write gap check — musee/arts-decoratifs
+Object/design proposition COVERED. Rotation caveat COVERED. Hours/nocturne COVERED. Price/free rule COVERED. No current-display overclaim. Status READY_FOR_PUBLISH_REVIEW.

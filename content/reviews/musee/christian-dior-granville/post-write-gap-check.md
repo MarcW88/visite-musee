@@ -1,0 +1,2 @@
+# Post-write gap check — musee/christian-dior-granville
+Annual-exhibition proposition COVERED. Season/hours/prices COVERED. Garden free COVERED. Reservation recommendation COVERED. PMR/pushchair inaccessibility prominent and sourced. Status READY_FOR_PUBLISH_REVIEW.
