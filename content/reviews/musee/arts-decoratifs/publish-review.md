@@ -8,9 +8,9 @@ Date: 2026-09-14
 - Factuality / freshness: PASS — hours, nocturne scope and tariff claims are dated; rotations are explicitly acknowledged.
 - GEO / entities: PASS — collection families are expressed as museum relationships without claiming permanent display.
 - Editorial / anti-cloning: PASS — six collection lenses replace the arbitrary three-card grouping.
-- SEO / technical: PENDING PR QUALITY GATE.
+- SEO / technical: PASS — PR Quality Gate run `34823251627` passed build and check on the reviewed content head.
 
 ## Decision
-**READY_FOR_FINAL_MACHINE_GATE**
+**PASS — READY_FOR_HUMAN_VALIDATION**
 
-Keep `noindex,follow` until the cluster gate passes.
+Keep `noindex,follow`; cluster indexation remains separately gated.
