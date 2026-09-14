@@ -1,0 +1,6 @@
+{
+  "title":"Musée Grévin : billets, horaires et visite en 2026",
+  "description":"Préparez votre visite du musée Grévin : expérience, plus de 250 figures, Palais des Mirages, tarifs 2026, horaires variables et accès.",
+  "canonical":"https://visite-musee.fr/musee/musee-grevin/",
+  "schema":{"@context":"https://schema.org","@type":"Museum","name":"Musée Grévin","url":"https://www.grevin-paris.com/","address":{"@type":"PostalAddress","streetAddress":"10 boulevard Montmartre","postalCode":"75009","addressLocality":"Paris","addressCountry":"FR"}}
+}

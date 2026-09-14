@@ -1,0 +1,6 @@
+{
+  "title":"Fondation Louis Vuitton : visite, fermeture et tarifs 2026",
+  "description":"Préparez votre visite de la Fondation Louis Vuitton : fermeture actuelle, réouverture le 9 octobre 2026, tarifs, architecture et accès.",
+  "canonical":"https://visite-musee.fr/musee/fondation-louis-vuitton/",
+  "schema":{"@context":"https://schema.org","@type":"Museum","name":"Fondation Louis Vuitton","url":"https://www.fondationlouisvuitton.fr/","address":{"@type":"PostalAddress","streetAddress":"8 avenue du Mahatma Gandhi","postalCode":"75116","addressLocality":"Paris","addressCountry":"FR"}}
+}

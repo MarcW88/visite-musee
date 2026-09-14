@@ -1,0 +1,2 @@
+# PUBLISH_REVIEW — musee/cernuschi
+Traceability PASS. Intent PASS. Factuality PASS. GEO/editorial PASS. Technical PASS pending CI. Decision PASS — READY_FOR_HUMAN_VALIDATION conditional on build/check. Keep noindex.
