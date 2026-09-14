@@ -9,9 +9,9 @@ Date: 2026-09-14
 - Accessibility: PASS — stair-only villa access and pushchair/PMR constraints are prominent.
 - GEO / entities: PASS — Christian Dior, Villa Les Rhumbs, museum and garden are clearly distinguished.
 - Editorial / anti-cloning: PASS — villa/garden/exhibition logic is structurally specific.
-- SEO / technical: PENDING PR QUALITY GATE.
+- SEO / technical: PASS — PR Quality Gate run `34823251627` passed build and check on the reviewed content head.
 
 ## Decision
-**READY_FOR_FINAL_MACHINE_GATE**
+**PASS — READY_FOR_HUMAN_VALIDATION**
 
-Keep `noindex,follow` until the cluster gate passes.
+Keep `noindex,follow`; cluster indexation remains separately gated.
