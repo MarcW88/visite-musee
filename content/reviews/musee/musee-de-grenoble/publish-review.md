@@ -8,9 +8,9 @@ Date: 2026-09-14
 - Factuality / freshness: PASS — permanent-entry rules, temporary-exhibition pricing and the Egyptian-department closure are treated as dated claims.
 - GEO / entities: PASS — museum and artists are contextualized without turning collection ownership into current display.
 - Editorial / anti-cloning: PASS — the revised page uses the free/permanent vs temporary/current constraints that are specific to Grenoble.
-- SEO / technical: PENDING PR QUALITY GATE.
+- SEO / technical: PASS — PR Quality Gate run `34823251627` passed build and check on the reviewed content head.
 
 ## Decision
-**READY_FOR_FINAL_MACHINE_GATE**
+**PASS — READY_FOR_HUMAN_VALIDATION**
 
-Keep `noindex,follow` until the cluster gate passes.
+Keep `noindex,follow`; cluster indexation remains separately gated.
