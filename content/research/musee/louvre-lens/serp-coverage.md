@@ -150,3 +150,10 @@ Current practical data: VERIFIED.
 Structural-cloning issue: MODERATE — architecture/parc should not be forced into a generic three-reason grid if a more natural gallery → site narrative works better.
 
 **Gate: READY_FOR_BRIEF — reconfirmed.**
+
+## Mise à jour documentaire 23 octobre 2026
+- https://www.louvrelens.fr/informations-pratiques/ : horaires, gratuité, TADAO et accès.
+- https://www.louvrelens.fr/la-galerie-du-temps/ : galerie chronologique renouvelée.
+- https://www.louvrelens.fr/les-expositions-temporaires/ : Comédie-Française, programmation 2026.
+- https://billetterie-louvrelens.tickeasy.com/fr-FR/produits : exposition Trop mignon ! du 23 septembre 2026 au 18 janvier 2027, tarifs.
+MUST vérifiés : spécificité Lens, gratuité permanente, ticket temporaire, horaires. SHOULD ajoutés : choix d'observation dans Galerie du Temps, transports et expositions datées. Classements SERP et features : non capturés.
