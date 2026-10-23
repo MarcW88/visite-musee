@@ -1,0 +1,18 @@
+{
+  "title": "Les Pêcheries Fécamp : collections, horaires et tarifs 2026",
+  "description": "Préparez votre visite aux Pêcheries de Fécamp : Terre-Neuvas, ancienne sécherie de morue, beaux-arts, collection Dufour, expositions et tarifs 2026.",
+  "canonical": "https://visite-musee.fr/musee/les-pecheries-fecamp/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Les Pêcheries, musée de Fécamp",
+    "url": "https://www.musee-fecamp.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3 quai Capitaine Jean Recher",
+      "postalCode": "76400",
+      "addressLocality": "Fécamp",
+      "addressCountry": "FR"
+    }
+  }
+}
