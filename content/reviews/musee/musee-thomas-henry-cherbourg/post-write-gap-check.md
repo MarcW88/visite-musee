@@ -1,0 +1,7 @@
+# Post-write gap check — Musée Thomas Henry Cherbourg
+2026-10-23 NEW_PAGE; 12646 body characters; research and brief created prior to drafting.
+Sources verified: Ville de Cherbourg updated 19/10/2026; collection and origin pages; current exhibition updated 08/10/2026; municipal programme PDF 2025–26 and Normandie Tourisme.
+MUST covered: museum opened 1835 after Thomas Henry donation, 300 paintings/sculptures 15th–20th century, exceptional Jean-François Millet fund, key artists; current exhibition L'Ange de la Révolte Satan dans les arts au XIXe siècle June 26–Nov 8 2026; Tuesday–Friday 10–12h30/14–18, Sat/Sun 13–18, Monday holidays closed; adult 6€, 4€ group reduced, under 26 and Wednesday free; annual 10€ museums pass including Liberation.
+Distinctive information gain: actual collection-reading route, local provenance and original didactic purpose, exhibition chronology and ticket caveats, differentiation from Fort du Roule.
+Content and copy, humanizer, general-writing and anti-ai-slop editorial passes manually applied; specialist agent autonomous executions not evidenced. No invented personal visit, future reopening, or claims that all collection objects are displayed. SEO title/canonical/Museum schema and institutional links; regional and national listing registered with regression guard. Noindex retained pending approval.
+GAPS: no measured SERP performance, dedicated Playwright Chromium not demonstrated; monitor CI build and Pages workflow.
