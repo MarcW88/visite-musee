@@ -3,7 +3,7 @@ const readPage = route => fs.readFileSync(path.join(root,route,'index.html'),'ut
 const directoryHtml = readPage('musees');
 const regionalSlugs = {
   'hauts-de-france': ['louvre-lens','palais-beaux-arts-lille','musee-picardie','musee-matisse-cateau','la-piscine-roubaix','musee-conde-chantilly','musee-flandre-cassel','historial-grande-guerre-peronne','familistere-guise','cite-langue-francaise'],
-  'normandie': ['musee-beaux-arts-rouen','muma-le-havre','memorial-caen','tapisserie-bayeux','christian-dior-granville'],
+  'normandie': ['musee-beaux-arts-rouen','muma-le-havre','memorial-caen','tapisserie-bayeux','christian-dior-granville','musee-beaux-arts-dentelle-alencon'],
 };
 const allMuseums = fs.readdirSync(path.join(root,'content','musee'),{withFileTypes:true})
   .filter(entry=>entry.isDirectory() && fs.existsSync(path.join(root,'content','musee',entry.name,'body.html')))
