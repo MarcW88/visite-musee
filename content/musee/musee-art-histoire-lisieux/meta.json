@@ -1,0 +1,18 @@
+{
+  "title": "Musée d’art et d’histoire de Lisieux : exposition et tarifs 2026",
+  "description": "Découvrez le Musée d'art et d'histoire de Lisieux : maison à pans de bois, céramiques, exposition Du Pré à l’œuvre et horaires 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-art-histoire-lisieux/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée d'art et d'histoire de Lisieux",
+    "url": "https://www.lisieux-normandie.fr/culture-loisirs/culture/reseau-des-musees/musee-dart-dhistoire-de-lisieux/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "38 boulevard Pasteur",
+      "postalCode": "14100",
+      "addressLocality": "Lisieux",
+      "addressCountry": "FR"
+    }
+  }
+}
