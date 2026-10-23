@@ -1,0 +1,18 @@
+{
+  "title": "Musée de la Libération de Cherbourg : horaires, tarifs et collections",
+  "description": "Visitez le Musée de la Libération au fort du Roule : Cherbourg en 1944, rôle du port, collections, horaires et tarifs 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-liberation-cherbourg/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée de la Libération de Cherbourg",
+    "url": "https://www.cherbourg.fr/culture-et-loisirs/musees/musee-de-la-liberation/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Fort du Roule, montée des Résistants",
+      "postalCode": "50100",
+      "addressLocality": "Cherbourg-en-Cotentin",
+      "addressCountry": "FR"
+    }
+  }
+}
