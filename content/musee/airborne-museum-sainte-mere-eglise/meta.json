@@ -1,0 +1,18 @@
+{
+  "title": "Airborne Museum Sainte-Mère-Église : tarifs et visite 2026",
+  "description": "Découvrez l'Airborne Museum à Sainte-Mère-Église : C-47, planeur Waco, parachutistes américains, exposition comics, horaires et prix 2026.",
+  "canonical": "https://visite-musee.fr/musee/airborne-museum-sainte-mere-eglise/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Airborne Museum",
+    "url": "https://airborne-museum.org/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "14 rue Eisenhower",
+      "postalCode": "50480",
+      "addressLocality": "Sainte-Mère-Église",
+      "addressCountry": "FR"
+    }
+  }
+}
