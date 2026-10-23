@@ -1,0 +1,18 @@
+{
+  "title": "Musée des Beaux-Arts de Rouen : œuvres, horaires et entrée gratuite",
+  "description": "Visiter le Musée des Beaux-Arts de Rouen : impressionnistes, Monet, Géricault, collections gratuites, horaires et accès en métro.",
+  "canonical": "https://visite-musee.fr/musee/musee-beaux-arts-rouen/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée des Beaux-Arts de Rouen",
+    "url": "https://musees-rouen-normandie.fr/fr",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Esplanade Marcel Duchamp",
+      "postalCode": "76000",
+      "addressLocality": "Rouen",
+      "addressCountry": "FR"
+    }
+  }
+}
