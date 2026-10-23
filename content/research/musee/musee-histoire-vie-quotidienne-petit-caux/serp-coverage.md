@@ -1,0 +1,7 @@
+# Analyse SEO/GEO — MHVQ Petit-Caux
+2026-10-23 NEW_PAGE. Primary musée histoire de la vie quotidienne petit caux horaires 2026. Secondary 1300 objets, Maison Mercier, expo La Ménagère, billet 3 musées 8€, accessibilité.
+Sources réelles: https://www.museehistoireviequotidienne.fr/ ; https://www.museehistoireviequotidienne.fr/horaires-et-tarifs/ ; https://www.petitcaux.fr/mes-loisirs/culture/musee-dhistoire-de-la-vie-quotidienne/ ; https://www.musees-normandie.fr/musees-normandie/musee-d-histoire-de-la-vie-quotidienne/ ; https://www.normandie-tourisme.fr/sites-lieux-de-visites/musee-dhistoire-de-la-vie-quotidienne/. Site musée, site municipal, réseau des musées, tourisme Normandie. Recherche vérifiée le 2026-10-23. Nombre d’objets: source officielle ville = 1300 exposés en sous-sol, tourisme autre comptage 2000: choix chiffre municipal explicitement sourcé. Volumes SERP/rangs non mesurés.
+MUST entité/localisation, 4 thèmes, Maison Mercier: COVERED; horaires 2026 et fermetures, tarif 5/2.50 et -18: COVERED; accès et PMR: COVERED. SHOULD expo La Ménagère 2026–27 : COVERED; billet 3 musées: COVERED; réduction mobilité durable et animations: COVERED.
+Information gain : placer les objets dans les transformations sociales, pas catalogue, expliquer publicité ciblée femmes au foyer vs travail domestique invisible ; distinguer maison XVIe du parcours XIX/XX.
+Ownership MHVQ différent Horlogerie et Château Dieppe et Martainville.
+STABLE histoire bâtiments ; SEMI_STABLE collections/accès ; VOLATILE dates prix et expo vérifiés 2026-10-23. READY_FOR_BRIEF.

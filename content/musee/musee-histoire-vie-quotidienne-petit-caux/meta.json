@@ -1,0 +1,18 @@
+{
+  "title": "Musée d’Histoire de la Vie Quotidienne : horaires et tarifs 2026",
+  "description": "Visitez le musée d’Histoire de la Vie Quotidienne à Petit-Caux : 1 300 objets, Maison Mercier, exposition La Ménagère, horaires et prix 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-histoire-vie-quotidienne-petit-caux/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée d’Histoire de la Vie Quotidienne",
+    "url": "https://www.museehistoireviequotidienne.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3 rue de l'Ancienne Foire",
+      "postalCode": "76370",
+      "addressLocality": "Petit-Caux",
+      "addressCountry": "FR"
+    }
+  }
+}
