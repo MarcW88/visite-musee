@@ -1,0 +1,18 @@
+{
+  "title": "Musée Thomas Henry à Cherbourg : collections, exposition et tarifs",
+  "description": "Visitez le musée Thomas Henry à Cherbourg : Jean-François Millet, peintures européennes, exposition Satan 2026, horaires et entrée.",
+  "canonical": "https://visite-musee.fr/musee/musee-thomas-henry-cherbourg/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée Thomas Henry",
+    "url": "https://www.cherbourg.fr/culture-et-loisirs/musees/musee-thomas-henry/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Le Quasar, esplanade de la Laïcité",
+      "postalCode": "50100",
+      "addressLocality": "Cherbourg-en-Cotentin",
+      "addressCountry": "FR"
+    }
+  }
+}
