@@ -1,0 +1,18 @@
+{
+  "title": "Palais Galliera – Musée de la Mode de Paris : collections et conseils de visite",
+  "description": "Découvrez Palais Galliera – Musée de la Mode de Paris : collections, intérêt de la visite, comparaison avec d’autres musées et informations pratiques officielles.",
+  "canonical": "https://visite-musee.fr/musee/palais-galliera/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Palais Galliera – Musée de la Mode de Paris",
+    "url": "https://www.palaisgalliera.paris.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "10 avenue Pierre-Ier-de-Serbie",
+      "postalCode": "75116",
+      "addressLocality": "Paris",
+      "addressCountry": "FR"
+    }
+  }
+}
