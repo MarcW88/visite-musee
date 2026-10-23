@@ -1,0 +1,18 @@
+{
+  "title": "Musée Villa Montebello Trouville : exposition et tarifs 2026",
+  "description": "Visitez le Musée Villa Montebello à Trouville : bains de mer, peintures, exposition Beautés météorologiques, horaires et tarifs 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-villa-montebello-trouville/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée Villa Montebello",
+    "url": "https://www.trouville.fr/MuseeVillaMontebello/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "64 rue du Général Leclerc",
+      "postalCode": "14360",
+      "addressLocality": "Trouville-sur-Mer",
+      "addressCountry": "FR"
+    }
+  }
+}
