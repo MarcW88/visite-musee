@@ -1,0 +1,18 @@
+{
+  "title": "Musée de la Tapisserie de Bayeux : fermé en 2026, réouverture 2027",
+  "description": "Le musée de la Tapisserie de Bayeux est fermé jusqu'en octobre 2027. Découvrez l'œuvre brodée de 1066, les travaux et les visites alternatives en 2026.",
+  "canonical": "https://visite-musee.fr/musee/tapisserie-bayeux/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée de la Tapisserie de Bayeux",
+    "url": "https://www.bayeuxmuseum.com/la-tapisserie-de-bayeux/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "13 bis rue de Nesmond",
+      "postalCode": "14400",
+      "addressLocality": "Bayeux",
+      "addressCountry": "FR"
+    }
+  }
+}
