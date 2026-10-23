@@ -1,0 +1,18 @@
+{
+  "title": "Musée Matisse au Cateau-Cambrésis : collections, tarifs et visite",
+  "description": "Visiter le Musée Henri Matisse : trois collections Matisse, Herbin et Tériade, horaires, tarifs, rénovation de 2024 et conseils pratiques.",
+  "canonical": "https://visite-musee.fr/musee/musee-matisse-cateau/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée départemental Henri Matisse",
+    "url": "https://museematisse.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Palais Fénelon, place du Commandant Richez",
+      "postalCode": "59360",
+      "addressLocality": "Le Cateau-Cambrésis",
+      "addressCountry": "FR"
+    }
+  }
+}
