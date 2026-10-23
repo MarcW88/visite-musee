@@ -1,0 +1,18 @@
+{
+  "title": "Musée des Beaux-Arts de Caen : collections, tarifs et accès en 2026",
+  "description": "Découvrez les collections de peinture et de gravure du Musée des Beaux-Arts de Caen, les horaires, les tarifs et les travaux d'accessibilité 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-beaux-arts-caen/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée des Beaux-Arts de Caen",
+    "url": "https://caen.fr/index.php/annuaire-equipement/musee-des-beaux-arts",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Château de Caen",
+      "postalCode": "14000",
+      "addressLocality": "Caen",
+      "addressCountry": "FR"
+    }
+  }
+}
