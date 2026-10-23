@@ -1,0 +1,8 @@
+# Recherche SEO/GEO — Musée de la céramique de Ger
+2026-10-23 | NEW_PAGE /musee/musee-ceramique-ger/. Primary: musée céramique Ger. Variantes grès Ger, fours potiers, horaires 2026, tarifs, ateliers modelage, visite enfants.
+Sources et SERP consultées : https://musee-ceramique.manche.fr/ (musée officiel), https://musee-ceramique.manche.fr/infos-pratiques/preparer-ma-visite/ (horaires/animaux), https://musee-ceramique.manche.fr/la-programmation/ (événements 2026), https://www.musees-normandie.fr/musees-normandie/musee-de-la-ceramique-centre-de-creation/ (histoire et accessibilité), https://www.ot-montsaintmichel.com/patrimoine-culturel/musee-de-la-ceramique-de-ger-centre-de-creation/ (tarifs/périodes 2026), https://www.normandie-tourisme.fr/sites-lieux-de-visites/musee-de-la-ceramique-de-ger-centre-de-creation/ (tourisme régional).
+Intent propriétaire fiche établissement et visite ; /regions/normandie/ hub ; fiche musée céramique Rouen différente, actuellement fermée.
+MUST savoir-faire de Ger et fours/ateliers : COVERED; périodes de visite/prix/gratuité/PMR : COVERED ; situation et accès : COVERED. SHOULD animations et création contemporaine : COVERED, aucune exposition 2026 inventée ; avertissement musée de Rouen fermé : COVERED.
+Gain : contexte de conservation alimentaire du grès ; dimensions techniques de la cuisson ; distinction résidence céramique contemporaine et four patrimonial ; divergence date fin saison vacances d'automne signalée.
+FRAÎCHEUR STABLE histoire, SEMI_STABLE parcours, VOLATILE ouverture tarifs et animations vérifiées le 23 octobre 2026.
+DATA_GAP : classements/volumes/SERP features non mesurés. READY_FOR_BRIEF.

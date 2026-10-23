@@ -1,0 +1,18 @@
+{
+  "title": "Musée de la céramique de Ger : horaires et tarifs 2026",
+  "description": "Découvrez le musée de la céramique de Ger : anciens fours de potiers, fabrication du grès, centre de création, ateliers et horaires 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-ceramique-ger/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée de la céramique – Centre de création",
+    "url": "https://musee-ceramique.manche.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Le Placître, 3 rue du Musée",
+      "postalCode": "50850",
+      "addressLocality": "Ger",
+      "addressCountry": "FR"
+    }
+  }
+}
