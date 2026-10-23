@@ -1,0 +1,18 @@
+{
+  "title": "Musée Alfred-Canel Pont-Audemer : horaires et expo Alice 2026",
+  "description": "Musée Alfred-Canel : maison d'écrivain, bibliothèque ancienne, arts et sciences, exposition Isabelle Simler Alice, horaires et entrée gratuite 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-alfred-canel-pont-audemer/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée Alfred-Canel",
+    "url": "https://www.ville-pont-audemer.fr/culture/musee-alfred-canel/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "64 rue de la République",
+      "postalCode": "27500",
+      "addressLocality": "Pont-Audemer",
+      "addressCountry": "FR"
+    }
+  }
+}
