@@ -1,0 +1,18 @@
+{
+  "title": "Musée de la Céramique de Rouen : fermé en 2026, collections de faïence",
+  "description": "Le musée de la Céramique de Rouen est fermé jusqu'à nouvel ordre. Découvrez ses collections de faïence, l'hôtel d'Hocqueville et les alternatives.",
+  "canonical": "https://visite-musee.fr/musee/musee-ceramique-rouen/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée de la Céramique de Rouen",
+    "url": "https://museedelaceramique.fr/fr",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1 rue Faucon",
+      "postalCode": "76000",
+      "addressLocality": "Rouen",
+      "addressCountry": "FR"
+    }
+  }
+}
