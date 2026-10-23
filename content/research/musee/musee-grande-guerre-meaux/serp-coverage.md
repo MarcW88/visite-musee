@@ -1,9 +1,13 @@
-# Recherche NEW_PAGE : Musée de la Grande Guerre
-Date: 2026-10-23
-Route: /musee/musee-grande-guerre-meaux/.
-Sources inspectées: https://www.museedelagrandeguerre.com/ et https://pop.culture.gouv.fr/notice/museo/M1171.
-Main query: Musée de la Grande Guerre visite. Entity and geography checked: Meaux · Seine-et-Marne.
-MUST: identifier musée, collection, proposition de visite, données de localisation, liens vers sources; COVERED.
-SHOULD: horaires, tarifs, accessibilité détaillée, programmation à une date précise; PARTIAL et non reproduits.
-SERP concurrentielle individuelle non complètement inspectée: PUBLISH_REVIEW cannot PASS.
-Non cannibalisation: région=choix inter-musées; cette page=visite spécifique à Musée de la Grande Guerre.
+# Research et couverture — Musée de la Grande Guerre, Meaux
+Date : 2026-10-23. Mode : DEEP_REWRITE.
+Intentions : visite musée grande guerre Meaux, tarifs, horaires, tranchée, collections, exposition, famille.
+Sources vérifiées :
+- https://www.museedelagrandeguerre.com/musee-grande-guerre/
+- https://www.museedelagrandeguerre.com/preparer-sa-visite/informations-pratiques/
+- https://www.museedelagrandeguerre.com/la-tranchee/
+- https://www.museedelagrandeguerre.com/programme/
+- https://www.museedelagrandeguerre.com/preparer-sa-visite/
+MUST : raison de visiter COVERED ; collections et architecture COVERED ; accès tranchée et horaires saisonniers COVERED ; tarifs/horaires COVERED ; propositions de parcours COVERED.
+SHOULD : programmation 2026 datée COVERED ; accessibilité détaillée PARTIAL ; visite scolaire COVERED.
+Information gain : distinguer sources intimes, équipements industriels et tranchée reconstituée ; expliquer les contraintes d'accès.
+Aucune analyse de classement SERP complète n'a été réalisée.
