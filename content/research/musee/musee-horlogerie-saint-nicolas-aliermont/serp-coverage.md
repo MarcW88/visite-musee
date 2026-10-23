@@ -1,0 +1,8 @@
+# Museum analysis / SEO-GEO — Saint-Nicolas-d’Aliermont
+Date 2026-10-23 NEW_PAGE /musee/musee-horlogerie-saint-nicolas-aliermont/
+Primary musée de l'Horlogerie Saint-Nicolas d'Aliermont. Variants tarifs, horaire octobre 2026, réveil Bayard, horlogerie normande, exposition oiseaux.
+Sources vérifiées https://www.musees-normandie.fr/musees-normandie/musee-de-l-horlogerie/ ; https://www.saint-nicolas-aliermont.fr/fr/musee-de-l-horlogerie-66a2 ; https://www.normandie-tourisme.fr/sites-lieux-de-visites/musee-de-lhorlogerie/ ; https://www.dieppetourisme.com/bouger/visiter/musee-de-lhorlogerie-saint-nicolas-daliermont-fr-3601803/ ; https://www.dieppetourisme.com/agenda/exposition-temporaire-on-a-entendu-chanter-les-oiseaux-saint-nicolas-daliermont-fr-6323669/ ; https://pop.culture.gouv.fr/notice/museo/M0735 ; https://www.seine-maritime-tourisme.com/offres/musee-de-lhorlogerie-saint-nicolas-daliermont-fr-5135223/.
+Types: réseau muséal, municipal, offices de tourisme, Muséofile M0735. Rangs, impressions, volumes et rich results non mesurés.
+MUST identité/adresse collections 400 objets: COVERED; métier industriel et Bayard: COVERED; 5€ plein /2,50€ réduit, gratuit -18 et billet 8€: COVERED; horaires saison et exceptions 01/11, 25/12: COVERED.
+SHOULD accès intégral PMR et familles: COVERED; expo temporaire 2026 jusqu'au 31/12: COVERED. Information gain distinction travail ouvrier/réveil industriel vs mécanisme d'art, logique énergétique des mouvements, comparaison Dieppe et Martainville, billet 3 musées.
+Volatile opening and tarifs checked 2026-10-23, semi-stable services and 400 items, stable industrial history. READY_FOR_BRIEF.

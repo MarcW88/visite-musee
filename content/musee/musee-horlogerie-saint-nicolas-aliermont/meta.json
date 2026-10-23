@@ -1,0 +1,19 @@
+{
+  "title": "Musée de l’Horlogerie Aliermont : horaires et tarifs 2026",
+  "description": "Musée de l’Horlogerie à Saint-Nicolas-d’Aliermont : réveils Bayard, 400 objets, exposition 2026, horaires d’octobre et billet commun à 8 €.",
+  "canonical": "https://visite-musee.fr/musee/musee-horlogerie-saint-nicolas-aliermont/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée de l’Horlogerie",
+    "url": "https://www.saint-nicolas-aliermont.fr/fr/musee-de-l-horlogerie-66a2",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "48 rue Édouard Cannevel",
+      "postalCode": "76510",
+      "addressLocality": "Saint-Nicolas-d’Aliermont",
+      "addressCountry": "FR"
+    },
+    "sameAs": "https://pop.culture.gouv.fr/notice/museo/M0735"
+  }
+}
