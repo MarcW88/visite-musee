@@ -1,0 +1,18 @@
+{
+  "title": "Paléospace Villers-sur-Mer : horaires et tarifs 2026",
+  "description": "Paléospace de Villers-sur-Mer : fossiles jurassiques, Anna l'ichtyosaure, dinosaures, planétarium, billets et horaires Toussaint 2026.",
+  "canonical": "https://visite-musee.fr/musee/paleospace-villers-sur-mer/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Paléospace",
+    "url": "https://www.paleospace-villers.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "5 avenue Jean Moulin",
+      "postalCode": "14640",
+      "addressLocality": "Villers-sur-Mer",
+      "addressCountry": "FR"
+    }
+  }
+}

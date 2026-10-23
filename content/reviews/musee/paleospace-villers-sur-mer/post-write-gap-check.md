@@ -1,0 +1,2 @@
+# Post-write gap check — Paléospace
+2026-10-23 NEW_PAGE. MUST entité et sujets collections : COVERED. MUST 2026 horaires et tarifs vérifiés officiel/tourisme : COVERED. MUST distinction forfaits et réservations : COVERED. SHOULD PMR, sorties et maillage : COVERED. Relectures éditoriales appliquant critères content-and-copy, humanizer, general-writing, anti-ai-slop ; pas de revendication d'exécution de sous-agents autonomes. Build/QA CI pending. KEEP_NOINDEX.
