@@ -1,8 +1,9 @@
-# Brief Musée de la Grande Guerre
+# Brief — Musée de la Grande Guerre à Meaux
 workflow_version: museum-v1
-Ownership: /musee/musee-grande-guerre-meaux/, single-museum visit decision.
-Primary job: déterminer si les collections première guerre mondiale et mémoire correspondent à la sortie désirée.
-Angle: Comprendre une guerre au-delà des seules opérations militaires.
-Required: evidence-backed specialism, location, clear sources, regional link, no unsourced first-person claims or ticket details.
-Excluded: generic Ile-de-France rankings and invented opening data.
-Sources: https://www.museedelagrandeguerre.com/ ; https://pop.culture.gouv.fr/notice/museo/M1171
+Mode : DEEP_REWRITE. Route : /musee/musee-grande-guerre-meaux/.
+Intent : décider pourquoi visiter ce musée et comment organiser collections, tranchée et exposition.
+MUST : 70000 objets/documents, différence histoire/mémoire, horaires, tarif, tranchée saisonnière, droit d'accès scolaire, liens officiels.
+SHOULD : expositions 2026, familles, parcours thématiques, accessibilité.
+Angle : comparer l'expérience quotidienne et les transformations industrielles du conflit.
+Source de vérité : liens institutionnels en research.
+Indexation : noindex jusqu'à revue et instruction distincte.
