@@ -1,22 +1,12 @@
-# Post-write gap review — musee-air-espace
-Date: 2026-10-23
-Action: DEEP_REWRITE after comparison with Louvre and Orsay.
-Source editorial file: content/musee/musee-air-espace/body.html
-
-## Actual corrections
-- Replaced generic interchangeable text with three museum-specific documented subjects.
-- Replaced vague instructions with concrete choice and itinerary considerations.
-- Removed implied guarantees that all pieces of a collection are currently exposed.
-- Kept official references immediately beside the subjects to which they relate.
-- Separate writing passes performed in the drafting process: remove generic pitch (humanizer), improve specificity and paragraph progression (general-writing), eliminate same-template promises and ungrounded claims (anti-ai-slop).
-
-## Gates
-- Identity and collection-specific discussion: COVERED.
-- Source-backed stable claims: PARTIAL; documentary references included, but exhaustive claim-by-claim source ledger remains outstanding.
-- SERP comparative matrix: PARTIAL; source searches performed, full competitor comparison not recorded.
-- Volatile details: intentionally not given without current verification; museum official site supplied.
-- Playwright/Chromium visual evidence on this revision: NOT YET VERIFIED.
-- Structural uniqueness: improved in content, but layout remains shared and requires a visual editorial review.
-- Human signoff: MISSING.
-
-Result: FAIL — KEEP_NOINDEX. Do not claim final PASS before actual browser and editorial evidence.
+# Contrôle après réécriture — Musée de l'Air et de l'Espace
+Date 2026-10-23. Source : content/musee/musee-air-espace/body.html.
+Analyse et recherche : consultations pages officielles collections, tarifs, Concorde, accès, horaires.
+Content-and-copy : texte spécifique aux halls, techniques, aéronefs et choix de billets.
+Humanizer : formulations d'orientation explicites, suppression du remplissage généraliste.
+General-writing : progression machines -> collections -> Concorde -> itinéraire -> pratique.
+Anti-ai-slop : aucune visite personnelle inventée ni accès intérieur aux deux Concorde garanti.
+Fact-check : prototype inaccessible au 23/10, Concorde Sierra Delta accessible sous conditions ; horaires d'hiver ; source officielle des billets.
+SEO/GEO : title/H1, passage sur contraintes de billets, liens utiles directs et vers région/Meaux.
+MUST : sujets principaux COVERED. SHOULD : programmation temporaire détaillée PARTIAL.
+Chromium final SHA, build et déploiement : non vérifiés à cette étape ; réclament exécution réelle.
+Gate de publication : KEEP_NOINDEX jusqu'à preuves techniques et validation humaine.
