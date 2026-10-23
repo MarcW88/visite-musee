@@ -1,0 +1,18 @@
+{
+  "title": "Musée de Dieppe au château : horaires, tarifs et collections 2026",
+  "description": "Découvrez le château-musée de Dieppe : ivoires, peintures, exposition photographique, horaires, tarifs 2026 et limites d'accessibilité.",
+  "canonical": "https://visite-musee.fr/musee/musee-chateau-dieppe/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Château-musée de Dieppe",
+    "url": "https://www.dieppe.fr/mes-activites/la-culture/le-musee",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue de Chastes",
+      "postalCode": "76200",
+      "addressLocality": "Dieppe",
+      "addressCountry": "FR"
+    }
+  }
+}
