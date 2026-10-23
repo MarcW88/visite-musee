@@ -1,0 +1,19 @@
+{
+  "title": "Musée d’ethnographie Honfleur : horaires et tarifs 2026",
+  "description": "Visitez le musée d'ethnographie de Honfleur : neuf pièces normandes, métiers, costumes, billets communs avec la Marine et horaires 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-ethnographie-honfleur/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée d’ethnographie et d’art populaire de Honfleur",
+    "url": "https://www.ot-honfleur.fr/site-culturel/musee-dethnographie/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue de la Prison",
+      "postalCode": "14600",
+      "addressLocality": "Honfleur",
+      "addressCountry": "FR"
+    },
+    "sameAs": "https://pop.culture.gouv.fr/notice/museo/M0662"
+  }
+}
