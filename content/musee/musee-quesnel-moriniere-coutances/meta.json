@@ -1,0 +1,19 @@
+{
+  "title": "Musée Quesnel-Morinière Coutances : horaires et expositions 2026",
+  "description": "Le musée Quesnel-Morinière à Coutances : 7 salles, peinture, céramiques, expositions 2026, horaires et entrée gratuite.",
+  "canonical": "https://visite-musee.fr/musee/musee-quesnel-moriniere-coutances/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée Quesnel-Morinière",
+    "url": "https://www.coutances.fr/se-divertir/musee/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2 rue Quesnel-Morinière",
+      "postalCode": "50200",
+      "addressLocality": "Coutances",
+      "addressCountry": "FR"
+    },
+    "sameAs": "https://pop.culture.gouv.fr/notice/museo/M0680"
+  }
+}
