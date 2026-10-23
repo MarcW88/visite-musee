@@ -1,0 +1,18 @@
+{
+  "title": "Musée Eugène-Boudin à Honfleur : visite, horaires et tarifs",
+  "description": "Découvrez le musée Eugène-Boudin à Honfleur : œuvres des peintres de l'estuaire, collections normandes, tarifs 2026, horaires et Pass Duo.",
+  "canonical": "https://visite-musee.fr/musee/musee-eugene-boudin-honfleur/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée Eugène-Boudin",
+    "url": "https://www.musees-honfleur.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue de l'Homme-de-Bois",
+      "postalCode": "14600",
+      "addressLocality": "Honfleur",
+      "addressCountry": "FR"
+    }
+  }
+}
