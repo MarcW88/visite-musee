@@ -1,8 +1,9 @@
-# Brief Musée de l’Air et de l’Espace
+# Brief — Musée de l'Air et de l'Espace
 workflow_version: museum-v1
-Ownership: /musee/musee-air-espace/, single-museum visit decision.
-Primary job: déterminer si les collections aviation, espace et techniques correspondent à la sortie désirée.
-Angle: Découvrir des objets techniques à l’échelle réelle.
-Required: evidence-backed specialism, location, clear sources, regional link, no unsourced first-person claims or ticket details.
-Excluded: generic Ile-de-France rankings and invented opening data.
-Sources: https://www.museeairespace.fr/ ; https://lannuaire.service-public.gouv.fr/gouvernement/f6599ccf-ea8f-4fd7-8b01-7e53f633f252
+Mode: DEEP_REWRITE
+Intention : choisir l'itinéraire et les billets au Bourget selon histoire aérienne, espace, Concorde ou famille.
+MUST : identité, histoire technique, halls, restriction du prototype Concorde, tarifs différenciés, horaires saisonniers, durée officielle, sources.
+SHOULD : accessibilité, travaux, transports, activités payantes, comparaison Meaux.
+Structure propre à ce musée : machines et histoire -> halls -> Concorde et restriction -> parcours -> tarifs Check In/Boarding Pass.
+Aucun temps de visite inventé ; ne pas promettre deux avions accessibles tant que l'avis officiel limite l'accès.
+Validation technique et humaine distinctes de la rédaction.
