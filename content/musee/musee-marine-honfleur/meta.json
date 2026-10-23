@@ -1,0 +1,19 @@
+{
+  "title": "Musée de la Marine Honfleur : visite, billets et horaires 2026",
+  "description": "Découvrez le Musée de la Marine de Honfleur dans l'église Saint-Étienne : pêche, maquettes, grand commerce, traite négrière et billets 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-marine-honfleur/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée de la Marine de Honfleur",
+    "url": "https://levieuxhonfleur.com/fr/rb/1625236/le-musee-de-la-marine-et-dhistoire-maritime",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "11 quai Saint-Étienne",
+      "postalCode": "14600",
+      "addressLocality": "Honfleur",
+      "addressCountry": "FR"
+    },
+    "sameAs": "https://pop.culture.gouv.fr/notice/museo/M0662"
+  }
+}
