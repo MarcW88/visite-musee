@@ -1,0 +1,18 @@
+{
+  "title": "Musée de la Corderie Vallois : visite gratuite et horaires 2026",
+  "description": "Visitez la Corderie Vallois : machines d'origine, roue hydraulique, démonstrations à 14 h, 15 h, 16 h et 17 h, informations pratiques.",
+  "canonical": "https://visite-musee.fr/musee/musee-corderie-vallois/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée de la Corderie Vallois",
+    "url": "https://corderievallois.fr/fr/informations-pratiques-5",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "185 route de Dieppe",
+      "postalCode": "76960",
+      "addressLocality": "Notre-Dame-de-Bondeville",
+      "addressCountry": "FR"
+    }
+  }
+}

@@ -1,0 +1,2 @@
+# Post-write gap check — Corderie Vallois
+2026-10-23. Identité, technologie, démonstrations, horaires, gratuité, PMR, réservations : COVERED. Liens internes et jardin : COVERED. Relecture selon critères content-and-copy, humanizer, general-writing, anti-ai-slop. Pas de revendication d'exécution de sous-agents indépendants. Editorial READY_FOR_HUMAN_VALIDATION; CI/browser pending. KEEP_NOINDEX.
