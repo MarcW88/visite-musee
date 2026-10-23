@@ -1,0 +1,5 @@
+# Recherche — Musée des Beaux-Arts et de la Dentelle d'Alençon
+2026-10-23; NEW_PAGE. Sources https://www.musees-normandie.fr/musees-normandie/musee-des-beaux-arts-et-de-la-dentelle/ ; https://www.alencontourisme.com/decouvrez/nos-incontournables/le-musee-des-beaux-arts-et-de-la-dentelle/ ; https://pop.culture.gouv.fr/notice/museo/M0694 ; https://www.normandie-tourisme.fr/sites-lieux-de-visites/musee-des-beaux-arts-et-de-la-dentelle/ .
+Three pillars: Point d'Alençon needle lace UNESCO 2010, European paintings and Khmer/ Cambodian collection from Adhémard Leclère. Cour Carrée, former Jesuit college.
+Volatile: 2026 exhibition Gustave Courbet. Une nature engagée 7 July 2026 to 3 Jan 2027. Museum permanent entry 4 euro full 3 reduced, free under 26 and first Sunday; exhibition special prices verify. Autumn hours Tues–Fri 10–12/14–18; weekends 10–12:30/13:30–18; closed Monday per museum-network and Normandie Tourisme; Alençon tourism listing mistakenly includes Monday so prefer museum network. Accessibility elevator with assistance; verify on day.
+SERP no measured rankings; visitor task choosing lace, art or Cambodia; no boilerplate.
