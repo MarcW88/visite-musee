@@ -1,0 +1,43 @@
+name: Museum visual browser QA
+on:
+  workflow_dispatch:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'assets/**'
+      - 'content/**'
+      - 'scripts/**'
+      - '.github/workflows/museum-visual-qa.yml'
+      - 'package.json'
+permissions:
+  contents: read
+jobs:
+  browser:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install Playwright test runner
+        run: npm install --no-save --no-package-lock @playwright/test
+      - name: Install Chromium with Linux libraries
+        run: npx playwright install --with-deps chromium
+      - name: Build site
+        run: npm run build && npm run check
+      - name: Serve generated site
+        run: |
+          python3 -m http.server 4173 --bind 127.0.0.1 > /tmp/museum-http.log 2>&1 &
+          echo $! > /tmp/museum-http.pid
+      - name: Chromium desktop and mobile checks
+        env:
+          VISUAL_BASE_URL: http://127.0.0.1:4173
+        run: node scripts/museum-visual-qa.mjs
+      - name: Preserve browser evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: museum-chromium-screenshots
+          path: .artifacts/museum-visual/
+          if-no-files-found: warn
