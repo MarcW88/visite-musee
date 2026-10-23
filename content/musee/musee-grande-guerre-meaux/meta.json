@@ -1,11 +1,18 @@
 {
-  "title": "Musée de la Grande Guerre : collections et préparer la visite",
-  "description": "Visiter Musée de la Grande Guerre : collections, intérêt de la visite, localisation et conseils pour préparer votre venue.",
+  "title": "Musée de la Grande Guerre à Meaux : tranchée, collections, billets",
+  "description": "Visiter le Musée de la Grande Guerre à Meaux : collections, tranchée pédagogique, horaires, tarifs, parcours et expositions 2026.",
   "canonical": "https://visite-musee.fr/musee/musee-grande-guerre-meaux/",
   "schema": {
     "@context": "https://schema.org",
     "@type": "Museum",
     "name": "Musée de la Grande Guerre",
-    "url": "https://www.museedelagrandeguerre.com/"
+    "url": "https://www.museedelagrandeguerre.com/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue Lazare-Ponticelli",
+      "postalCode": "77100",
+      "addressLocality": "Meaux",
+      "addressCountry": "FR"
+    }
   }
 }
