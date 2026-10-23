@@ -1,0 +1,4 @@
+# Brief NEW_PAGE — Musée du Débarquement Arromanches
+Workflow museum-v1; owner /musee/musee-debarquement-arromanches/. Primary JTBD : comprendre la logistique du Débarquement, distinguer site et musée, savoir quand venir et acheter billet.
+Structure: quick facts accurate 2026, May/June 1944 logistics Mulberry B, seven stages museum and evidence/materials, what remains visible off shore, contrast Caen Memorial and Arromanches 360, practical and actionable 2026 October / Sundays / groups. Do not claim any specific temporary display; do not confuse official museum price with other aggregator.
+Metadata/schema Museum, official outgoing references, link to Normandy and Caen. Noindex remains pending approval. Revisions successive fact-check, voice, humanizer, general-writing and anti-ai-slop and post-write gap check.
