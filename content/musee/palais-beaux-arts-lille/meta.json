@@ -1,0 +1,18 @@
+{
+  "title": "Palais des Beaux-Arts de Lille : salles ouvertes, collections et tarifs",
+  "description": "Visiter le Palais des Beaux-Arts de Lille en 2026 : travaux, galeries accessibles, plans-reliefs, prix, gratuité, horaires et conseils.",
+  "canonical": "https://visite-musee.fr/musee/palais-beaux-arts-lille/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Palais des Beaux-Arts de Lille",
+    "url": "https://pba.lille.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Place de la République",
+      "postalCode": "59000",
+      "addressLocality": "Lille",
+      "addressCountry": "FR"
+    }
+  }
+}
