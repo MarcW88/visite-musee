@@ -1,22 +1,26 @@
-# Post-write gap review — petit-palais
-Date: 2026-10-23
-Action: DEEP_REWRITE after comparison with Louvre and Orsay.
-Source editorial file: content/musee/petit-palais/body.html
+# Post-write gap review — Petit Palais
+Date : 2026-10-23. Action : DEEP_REWRITE après comparaison avec le Louvre et Orsay.
+Source : content/musee/petit-palais/body.html.
 
-## Actual corrections
-- Replaced generic interchangeable text with three museum-specific documented subjects.
-- Replaced vague instructions with concrete choice and itinerary considerations.
-- Removed implied guarantees that all pieces of a collection are currently exposed.
-- Kept official references immediately beside the subjects to which they relate.
-- Separate writing passes performed in the drafting process: remove generic pitch (humanizer), improve specificity and paragraph progression (general-writing), eliminate same-template promises and ungrounded claims (anti-ai-slop).
+## Contrôles sur le contenu réécrit
+- Positionnement unique vs Orsay / Louvre : COVERED.
+- Histoire de la construction et décor architectural : COVERED, source institutionnelle.
+- Collections nommées et provenance de fonds : COVERED, source institutionnelle.
+- Gratuité de la collection et paiement de l'exposition : COVERED, source institutionnelle.
+- Horaires et nocturnes : COVERED au 23 octobre 2026, à réactualiser.
+- Expositions Eva Gonzalès, Prune Nourry, Bruxelles 1900 : COVERED avec dates vérifiées sur accueil officiel.
+- Parcours « 12 chefs-d’œuvre » / « 30 indispensables » : COVERED par application officielle.
+- Internal links : Louvre, Orsay, Ile-de-France (cibles existantes au dépôt).
 
-## Gates
-- Identity and collection-specific discussion: COVERED.
-- Source-backed stable claims: PARTIAL; documentary references included, but exhaustive claim-by-claim source ledger remains outstanding.
-- SERP comparative matrix: PARTIAL; source searches performed, full competitor comparison not recorded.
-- Volatile details: intentionally not given without current verification; museum official site supplied.
-- Playwright/Chromium visual evidence on this revision: NOT YET VERIFIED.
-- Structural uniqueness: improved in content, but layout remains shared and requires a visual editorial review.
-- Human signoff: MISSING.
+## Passes éditoriales
+Content-and-copy : contenu recentré sur décisions concrètes, œuvres et provenance des collections.
+Humanizer : suppression des phrases interchangeables et des promesses promotionnelles ; syntaxe et angle différenciés.
+General-writing : progression des sections choix -> œuvres -> parcours -> pratique.
+Anti-ai-slop : vérification des répétitions, du faux vécu, des quotas et des superlatifs non sourcés.
+Fact-check : contrôle des faits importants contre les quatre sources officielles consignées en research.
 
-Result: FAIL — KEEP_NOINDEX. Do not claim final PASS before actual browser and editorial evidence.
+## Contrôles encore nécessaires avant PASS
+- Relecture visuelle réelle de cette révision en Chromium (desktop/mobile) : sans preuve d'exécution récente.
+- Résultat positif du build et du check sur le commit actuel : à confirmer dans GitHub Actions.
+- Approbation humaine pour publication/indexation : absente.
+Statut : FAIL — KEEP_NOINDEX avant preuve des contrôles restants. Ne pas prétendre à une réussite générale de l'automatisation.
