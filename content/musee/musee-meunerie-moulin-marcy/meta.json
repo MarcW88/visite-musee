@@ -1,0 +1,18 @@
+{
+  "title": "Musée de la Meunerie Moulin de Marcy : horaires et tarifs 2026",
+  "description": "Visitez le Moulin de Marcy au Molay-Littry : mécanismes d’un moulin à eau, plus de 500 objets, ouverture Toussaint 2026 et billets jumelés.",
+  "canonical": "https://visite-musee.fr/musee/musee-meunerie-moulin-marcy/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée de la Meunerie – Moulin de Marcy",
+    "url": "https://www.ville-molay-littry.fr/tourisme/musees/le-musee-de-la-meunerie/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Moulin de Marcy",
+      "postalCode": "14330",
+      "addressLocality": "Le Molay-Littry",
+      "addressCountry": "FR"
+    }
+  }
+}

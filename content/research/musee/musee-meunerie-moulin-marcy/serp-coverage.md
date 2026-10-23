@@ -1,0 +1,8 @@
+# SERP & Information gain — Musée de la Meunerie, Moulin de Marcy
+Date 2026-10-23 | NEW_PAGE | /musee/musee-meunerie-moulin-marcy/.
+Requêtes : moulin de Marcy musée, horaires Toussaint 2026, prix Musée de la Meunerie Molay-Littry, billet jumelé Mine.
+Sources vérifiées : https://www.ville-molay-littry.fr/tourisme/musees/le-musee-de-la-meunerie/ ; https://www.musees-normandie.fr/musees-normandie/1credit-photo-musee-de-la-meunerie-musee-de-la-meunerie/ ; https://www.normandie-tourisme.fr/sites-lieux-de-visites/musee-de-la-Meunerie/ ; https://isigny-omaha-tourisme.fr/visites-et-activites/mer-plage-activites-sportives-nautique-peche/Mus%C3%A9e-de-la-Meunerie-14330-LE-MOLAY-LITTRY/PCUNOR014FS0008U/. Requête et SERP qualitatives ; volumes, classement et PAA exacts non mesurés.
+MUST: localisation et moulin hydraulique du XIXe: COVERED; 500 objets: COVERED; inauguration 1986: COVERED; dates 19–29 oct lundi–jeudi 14–18, billetterie 17h15: COVERED; tarifs 6/3 et jumelé 9/4: COVERED.
+SHOULD: fonctionnement du moulin, complément avec musée Mine et Corderie Vallois, activités agricoles: COVERED.
+Information gain: parallélisme énergie hydraulique vs extraction charbon, distinction moulin ancien et musée 1986, précision vacances Toussaint et jours différents entre les deux musées.
+Faits stables: mécanismes / histoire ; semi-stables: collection / services ; volatiles: dates et prix vérifiés 2026-10-23. READY_FOR_BRIEF.

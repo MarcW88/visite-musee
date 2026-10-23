@@ -1,0 +1,3 @@
+# Post-write gap check — Meunerie Moulin de Marcy
+2026-10-23 NEW_PAGE KEEP_NOINDEX. MUST identité et patrimoine: COVERED, collectivité et réseau muséal. MUST horaires 19–29 oct du lundi au jeudi et prix: COVERED, Normandie Tourisme et mairie. MUST comparaison mine et disponibilité distincte: COVERED. SHOULD 500 objets, Victor Pannier et ouverture 1986: COVERED réseau. SHOULD maillage et conditions d'accès: COVERED.
+Passes éditoriales guidées selon critères content-and-copy, humanizer, general-writing et anti-ai-slop, sans déclaration trompeuse d'exécution de sous-agents logiciels autonomes. Revue éditoriale terminée ; vérification CI / navigateur à suivre.
