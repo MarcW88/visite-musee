@@ -52,7 +52,7 @@ for (const entry of fs.readdirSync(museumContentRoot, { withFileTypes: true })) 
   }
 
   html = html.replace('</head>', `${headExtras.join('')}</head>`);
-  html = html.replace(/<main>[\s\S]*?<\/main>/, `<main>${body}</main>`);
+  html = html.slice(0, html.indexOf('<main>')) + '<main>' + body + '</main>' + html.slice(html.indexOf('</main>') + 7);
 
   fs.writeFileSync(outputPath, html);
   applied += 1;
@@ -63,10 +63,10 @@ const regionalOutput = path.join(root, 'regions', 'ile-de-france', 'index.html')
 if (fs.existsSync(regionalBody) && fs.existsSync(regionalOutput)) {
   let html = fs.readFileSync(regionalOutput, 'utf8');
   const body = fs.readFileSync(regionalBody, 'utf8').trim();
-  html = html.replace(/<title>[\\s\\S]*?<\\/title>/, '<title>Musées en Île-de-France : où aller selon vos envies ? | Visite Musée</title>');
+  html = html.replace(html.slice(html.indexOf('<title>'),html.indexOf('</title>') + 8), '<title>Musées en Île-de-France : où aller selon vos envies ? | Visite Musée</title>');
   html = html.replace(/<meta name="description" content="[^"]*">/, '<meta name="description" content="Découvrez des musées d’art, d’histoire et de mode en Île-de-France, avec une sélection par type de visite et des liens vers les musées.">');
   html = html.replace('</head>', '<link rel="canonical" href="https://visite-musee.fr/regions/ile-de-france/"><link rel="stylesheet" href="../../assets/content.css"></head>');
-  html = html.replace(/<main>[\\s\\S]*?<\\/main>/, '<main>' + body + '</main>');
+  html = html.slice(0, html.indexOf('<main>')) + '<main>' + body + '</main>' + html.slice(html.indexOf('</main>') + 7);
   fs.writeFileSync(regionalOutput, html);
 }
 console.log(`${applied} fiche(s) musée personnalisée(s) appliquée(s).`);
