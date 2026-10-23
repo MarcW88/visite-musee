@@ -1,0 +1,19 @@
+{
+  "title": "Musée du château de Flers : exposition, horaires et gratuité 2026",
+  "description": "Visitez le musée du château de Flers : entrée gratuite, exposition L’amour à l’œuvre avec Julie Ozanne, horaires 2026 et restrictions d’accessibilité.",
+  "canonical": "https://visite-musee.fr/musee/musee-chateau-flers/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée du château de Flers",
+    "url": "https://www.flers-agglo.fr/mon-quotidien/culture/les-musees/musee-du-chateau-de-flers-2/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Avenue du Château",
+      "postalCode": "61100",
+      "addressLocality": "Flers",
+      "addressCountry": "FR"
+    },
+    "sameAs": "https://pop.culture.gouv.fr/notice/museo/M0695"
+  }
+}
