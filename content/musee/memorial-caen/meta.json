@@ -1,0 +1,18 @@
+{
+  "title": "Mémorial de Caen : parcours, horaires et tarifs 2026",
+  "description": "Préparez votre visite du Mémorial de Caen : Seconde Guerre mondiale, Débarquement, Guerre froide, tarifs 2026, horaires et durée de visite.",
+  "canonical": "https://visite-musee.fr/musee/memorial-caen/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Mémorial de Caen",
+    "url": "https://www.memorial-caen.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Esplanade Général Eisenhower",
+      "postalCode": "14000",
+      "addressLocality": "Caen",
+      "addressCountry": "FR"
+    }
+  }
+}
