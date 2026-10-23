@@ -1,0 +1,8 @@
+# SEO / GEO documentary research — Musée Thomas Henry, Cherbourg
+Research date 2026-10-23. Intent: Musée Thomas Henry hours tickets collections Millet Fra Angelico Satan 2026.
+Official https://www.cherbourg.fr/culture-et-loisirs/musees/musee-thomas-henry/presentation-du-musee-et-ses-collections/ ; https://www.cherbourg.fr/culture-et-loisirs/musees/musee-thomas-henry/collections/ ; https://www.cherbourg.fr/culture-et-loisirs/musees/musee-thomas-henry/les-expositions-temporaires/ ; local programme https://www.cherbourg.fr/fileadmin/mediatheque/kiosque/programme_2025-2026_A5_v3_BD.pdf ; Normandie tourism https://www.normandie-tourisme.fr/sites-lieux-de-visites/musee-thomas-henry/ .
+Museum opens 1835 after donation by art merchant Thomas Henry 1766-1836, educational intention; about 300 works fifteenth-twentieth centuries, Fra Angelico, Lippi, Jordaens, Chardin, Poussin, David, Signac, Jean-François Millet (second largest collection in France after Orsay).
+Current exhibition L'Ange de la Révolte. Satan dans les arts au XIXe siècle 26 Jun–8 Nov 2026, around 60 works loaned, show is specific not permanent. Exhibition fee may differ: do not assume normal ticket includes exhibition.
+Open Tues-Fri 10-12h30 14-18h weekends 13-18h, closed Mondays and holidays. Full 6€, reduced group 4€, free under26 and every Wed, museum pass 10€ valid 12mo Thomas Henry and Liberation.
+Address Le Quasar esplanade de la Laïcité 50100 Cherbourg, 10min walk train. Contrast the Fort du Roule museum Liberation.
+SEO gain: genuine detailed art and visitor decision, no generic promotion, exact temporary exhibit dates. No measured rankings. noindex pending signoff.
