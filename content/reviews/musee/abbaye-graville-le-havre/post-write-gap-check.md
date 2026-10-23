@@ -1,0 +1,2 @@
+# Post-write gap check — Graville
+2026-10-23. Identité, collections et désambiguïsation Harfleur : COVERED. Tarifs distincts et saison 2026 : COVERED. Maillage normand : COVERED. Relectures content-and-copy, humanizer, general-writing et anti-ai-slop réalisées comme critères éditoriaux, sans revendiquer l'exécution autonome des sous-agents. Editorial PASS; GitHub Actions et audit visuel à contrôler. KEEP_NOINDEX.

@@ -1,0 +1,2 @@
+# Brief — Abbaye de Graville
+2026-10-23 NEW_PAGE. Query Abbaye de Graville Le Havre. Intent visite 2026. MUST église romane, Guillaume Malet, statues, retable, Jules Gosselin, cimetière et jardins, tarifs libres 5/3 et guidés 7/5, hiver réservé groupes. SHOULD distinguer musée du Prieuré de Harfleur, maillage MuMa et région. Sources Ville du Havre, musées-mah, réseau des musées. KEEP_NOINDEX.

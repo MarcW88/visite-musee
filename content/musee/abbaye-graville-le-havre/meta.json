@@ -1,0 +1,19 @@
+{
+  "title": "Abbaye de Graville : musée, horaires et tarifs 2026",
+  "description": "Abbaye de Graville au Havre : art roman, sculptures médiévales, maquettes Jules Gosselin, visite libre 2026 et tarifs distincts du parcours guidé.",
+  "canonical": "https://visite-musee.fr/musee/abbaye-graville-le-havre/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Abbaye de Graville – Musée du Prieuré de Graville",
+    "url": "https://lehavre.fr/annuaire-equipements/abbaye-de-graville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "53 rue de l'Abbaye",
+      "postalCode": "76600",
+      "addressLocality": "Le Havre",
+      "addressCountry": "FR"
+    },
+    "sameAs": "https://pop.culture.gouv.fr/notice/museo/M0719"
+  }
+}
