@@ -145,3 +145,6 @@ Cannibalization: CONTROLLED.
 Structural-cloning issue: MODERATE — the page should read exhibition-first, then villa/garden, rather than defaulting to a generic three-reason grid.
 
 **Gate: READY_FOR_BRIEF — reconfirmed.**
+
+## Mise à jour du 23 octobre 2026
+Sources officielles revérifiées : https://www.musee-dior-granville.com/preparer-visite/ et https://www.musee-dior-granville.com/musee/expositions/ et https://www.musee-dior-granville.com/programme/ . Alerte officielle : fermeture exceptionnelle de la villa ET du jardin vendredi 23 octobre à cause des vents violents. Exposition 2026 4 avril–1 novembre ; environ 250 pièces, dont plus de 100 propres au musée ; dernière entrée octobre 17h15 ; 10€/7€ ; 28€ tribu ; durée 45 min musée et 1h30 site ; limite 50 simultanés ; PMR/poussette incompatibles avec escaliers. Différencier jardin gratuit et musée payant. Intent sensible à la date : priorité absolue à l'alerte fermeture du jour.
