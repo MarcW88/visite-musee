@@ -1,0 +1,18 @@
+{
+  "title": "Musée d’Art Moderne de Paris : collections et conseils de visite",
+  "description": "Découvrez Musée d’Art Moderne de Paris : collections, intérêt de la visite, comparaison avec d’autres musées et informations pratiques officielles.",
+  "canonical": "https://visite-musee.fr/musee/musee-art-moderne-paris/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée d’Art Moderne de Paris",
+    "url": "https://www.mam.paris.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "11 avenue du Président-Wilson",
+      "postalCode": "75116",
+      "addressLocality": "Paris",
+      "addressCountry": "FR"
+    }
+  }
+}
