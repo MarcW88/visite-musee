@@ -1,7 +1,7 @@
 import { chromium } from '@playwright/test';
 import { mkdir, writeFile } from 'node:fs/promises';
 const origin = process.env.VISUAL_BASE_URL || 'https://visite-musee.fr';
-const routes = ['/', '/musees/', '/musees/paris/', '/musee/louvre/', '/guides/', '/guides/comment-preparer-visite-musee/', '/regions/', '/themes/', '/visiter/'];
+const routes = ['/', '/musees/', '/musees/paris/', '/regions/', '/regions/ile-de-france/', '/musee/louvre/', '/musee/musee-carnavalet/', '/musee/petit-palais/', '/musee/musee-art-moderne-paris/', '/musee/palais-galliera/', '/musee/musee-archeologie-nationale/', '/musee/musee-grande-guerre-meaux/', '/musee/musee-air-espace/', '/guides/', '/guides/comment-preparer-visite-musee/', '/themes/', '/visiter/'];
 const issues=[]; const pages=[];
 const browser=await chromium.launch({headless:true});
 try {
