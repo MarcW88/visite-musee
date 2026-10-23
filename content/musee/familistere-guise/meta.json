@@ -1,0 +1,17 @@
+{
+  "title": "Familistère de Guise : visiter le Palais social de Godin",
+  "description": "Visiter le Familistère de Guise : Palais social, économats, buanderie-piscine, histoire de Godin, visites guidées et horaires 2026.",
+  "canonical": "https://visite-musee.fr/musee/familistere-guise/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Familistère de Guise",
+    "url": "https://www.familistere.com/",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Guise",
+      "postalCode": "02120",
+      "addressCountry": "FR"
+    }
+  }
+}
