@@ -1,0 +1,18 @@
+{
+  "title": "La Piscine de Roubaix : collections, bassin Art déco et tarifs",
+  "description": "Visiter La Piscine à Roubaix : musée d’art et d’industrie, bassin Art déco, expositions 2026, nocturne gratuite, horaires et tarifs.",
+  "canonical": "https://visite-musee.fr/musee/la-piscine-roubaix/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "La Piscine – Musée d'art et d'industrie André Diligent",
+    "url": "https://www.roubaix-lapiscine.com/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "23 rue de l'Espérance",
+      "postalCode": "59100",
+      "addressLocality": "Roubaix",
+      "addressCountry": "FR"
+    }
+  }
+}
