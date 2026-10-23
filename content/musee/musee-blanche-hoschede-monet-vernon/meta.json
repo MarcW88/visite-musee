@@ -1,0 +1,19 @@
+{
+  "title": "Musée Blanche Hoschedé-Monet Vernon : tarifs et exposition 2026",
+  "description": "Découvrez le musée Blanche Hoschedé-Monet à Vernon : peintures, art animalier, exposition Lionel Sabatté, horaires et tarifs 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-blanche-hoschede-monet-vernon/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée Blanche Hoschedé-Monet",
+    "url": "https://www.musees-normandie.fr/musees-normandie/musee-blanche-hoschede-monet/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "12 rue du Pont",
+      "postalCode": "27200",
+      "addressLocality": "Vernon",
+      "addressCountry": "FR"
+    },
+    "sameAs": "https://pop.culture.gouv.fr/notice/museo/M0708"
+  }
+}
