@@ -1,0 +1,18 @@
+{
+  "title": "Musée du Débarquement Arromanches : port artificiel, tarifs 2026",
+  "description": "Visitez le Musée du Débarquement d’Arromanches : port artificiel de 1944, maquettes, audioguide, horaires 2026 et tarifs officiels.",
+  "canonical": "https://visite-musee.fr/musee/musee-debarquement-arromanches/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée du Débarquement",
+    "url": "https://musee-arromanches.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Place du 6 Juin",
+      "postalCode": "14117",
+      "addressLocality": "Arromanches-les-Bains",
+      "addressCountry": "FR"
+    }
+  }
+}
