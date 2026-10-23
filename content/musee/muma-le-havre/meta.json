@@ -1,0 +1,18 @@
+{
+  "title": "MuMa Le Havre : collections impressionnistes, horaires et tarifs",
+  "description": "Visiter le MuMa du Havre : peintures de Boudin, Monet et Dufy, architecture face à la mer, tarifs, gratuité et accès aux salles en octobre 2026.",
+  "canonical": "https://visite-musee.fr/musee/muma-le-havre/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "MuMa - Musée d'art moderne André Malraux",
+    "url": "https://muma-lehavre.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2 boulevard Clemenceau",
+      "postalCode": "76600",
+      "addressLocality": "Le Havre",
+      "addressCountry": "FR"
+    }
+  }
+}
