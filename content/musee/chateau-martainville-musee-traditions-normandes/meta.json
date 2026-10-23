@@ -1,0 +1,19 @@
+{
+  "title": "Château de Martainville : musée, horaires et tarifs 2026",
+  "description": "Visitez le Château de Martainville, Musée des Traditions et Arts Normands : 28 salles, mobilier, costumes, horaires et tarifs d'octobre 2026.",
+  "canonical": "https://visite-musee.fr/musee/chateau-martainville-musee-traditions-normandes/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée des Traditions et Arts Normands – Château de Martainville",
+    "url": "https://www.chateaudemartainville.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "429 route du Château",
+      "postalCode": "76116",
+      "addressLocality": "Martainville-Épreville",
+      "addressCountry": "FR"
+    },
+    "sameAs": "https://pop.culture.gouv.fr/notice/museo/M0725"
+  }
+}
