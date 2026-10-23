@@ -1,27 +1,26 @@
-# NEW_PAGE — Musée Carnavalet – Histoire de Paris
-
+# Carnavalet — research / DEEP_REWRITE
 Date: 2026-10-23
-Route: /musee/musee-carnavalet/ — MUSEUM entity owner.
+Owner: MUSEUM /musee/musee-carnavalet/
+Primary intent: musée Carnavalet visite; variants: horaires, prix, collections, que voir, parcours, gratuit, famille.
 
-## Intent and query
-Primary: Musée Carnavalet – Histoire de Paris visite. Secondary: collections, que voir, où se trouve le musée, horaires, tarifs, exposition.
-User task: choisir si ce musée convient, puis organiser sa visite.
+## Résultats réellement inspectés
+- https://www.carnavalet.paris.fr/visiter/informations-pratiques (conditions d'entrée, horaires, accès, sécurité)
+- https://www.carnavalet.paris.fr/le-nouveau-parcours (sections chronologiques, objets et œuvres)
+- https://www.carnavalet.paris.fr/le-musee-carnavalet (parcours d'application, positionnement)
+- https://www.carnavalet.paris.fr/collections/publications/les-enseignes-du-musee-carnavalet (enseignes)
+- https://paris-le-guide.fr/lieux/carnavalet/ (résultat secondaire concurrent; signal durée et sujets d'Art nouveau, ne pas recopier)
 
-## Sources réellement consultées
-- https://www.carnavalet.paris.fr/ — institution, à recontrôler sur horaires/expositions
-- https://parismusees.paris.fr/fr/reseau — liste institutionnelle des musées municipaux, identité et coordonnées
-
-## Coverage
-| Need | Priority | Proposed location | Status |
+## Matrice MUST
+| Question | Priorité | État | Source |
 |---|---|---|---|
-| Différenciation de la visite | MUST | Introduction et choix | COVERED |
-| Identité / sujet du musée | MUST | Collections | COVERED |
-| Accès à la source officielle | MUST | Pratique | COVERED |
-| Horaires, prix et programmation datés | SHOULD | Lien institutionnel | PARTIAL : non reproduits |
-| Accessibilité détaillée | SHOULD | Site officiel | PARTIAL |
+| Musée adapté à l'histoire de Paris ? | MUST | COVERED | présentation institutionnelle |
+| Quelles collections spécifiques ? | MUST | COVERED | parcours officiel |
+| Comment choisir un parcours ? | MUST | COVERED | application officielle |
+| Horaires & gratuité vs expositions | MUST | COVERED à la date 2026-10-23 | informations pratiques |
+| Réservation des groupes, bagages | MUST | COVERED | informations pratiques |
+| Œuvres réellement visibles ce jour | SHOULD | PARTIAL, ne pas garantir | calendrier du musée |
+| Accessibilité individualisée | SHOULD | PARTIAL | musée à contacter |
 
-## Overlap / information gain
-Region page offers selection. This page owns the museum-specific decision. Le Louvre offre un panorama international des civilisations ; Carnavalet se concentre sur Paris et ses habitants.
-
-## SERP limitation
-La SERP concurrentielle individuelle n'a pas été inspectée exhaustivement : audit NEW_PAGE à compléter avant une approbation éditoriale complète. Ne pas convertir cette fiche en PASS automatique.
+Information gain: relier enseignes, objets de Bastille, décors Sévigné, Proust et histoire urbaine à une décision de parcours plutôt que lister des chefs-d'œuvre.
+Internal overlap: région=choisir un musée, Louvre=collections encyclopédiques, Orsay=1848-1914, Carnavalet=Paris comme sujet.
+SERP feature extraction non disponible; aucune FAQ artificielle imposée.
