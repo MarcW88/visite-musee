@@ -1,0 +1,18 @@
+{
+  "title": "Musée Richard Anacréon Granville : expositions et tarifs 2026",
+  "description": "Découvrez le musée Richard Anacréon de Granville : art moderne, Gisèle Freund, Charles Dufresne, horaires et tarifs d'octobre 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-richard-anacreon-granville/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée d'art moderne Richard Anacréon",
+    "url": "https://museesdegranville.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Place de l'Isthme",
+      "postalCode": "50400",
+      "addressLocality": "Granville",
+      "addressCountry": "FR"
+    }
+  }
+}
