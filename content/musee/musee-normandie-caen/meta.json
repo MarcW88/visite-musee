@@ -1,0 +1,18 @@
+{
+  "title": "Musée de Normandie à Caen : collections, horaires et tarifs 2026",
+  "description": "Découvrez le Musée de Normandie au château de Caen : archéologie, patrimoine régional, exposition 2026, horaires, tarifs et Pass Museo.",
+  "canonical": "https://visite-musee.fr/musee/musee-normandie-caen/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée de Normandie",
+    "url": "https://musee-de-normandie.caen.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Château de Caen",
+      "postalCode": "14000",
+      "addressLocality": "Caen",
+      "addressCountry": "FR"
+    }
+  }
+}
