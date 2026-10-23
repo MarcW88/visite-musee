@@ -1,8 +1,9 @@
-# Brief Musée d’Archéologie nationale
+# Brief — Musée d'Archéologie nationale
 workflow_version: museum-v1
-Ownership: /musee/musee-archeologie-nationale/, single-museum visit decision.
-Primary job: déterminer si les collections archéologie, préhistoire et histoire du territoire correspondent à la sortie désirée.
-Angle: Suivre les périodes plutôt que rechercher un monument isolé.
-Required: evidence-backed specialism, location, clear sources, regional link, no unsourced first-person claims or ticket details.
-Excluded: generic Ile-de-France rankings and invented opening data.
-Sources: https://musee-archeologienationale.fr/ ; https://lannuaire.service-public.gouv.fr/gouvernement/736ac40f-7fce-4a5d-94db-48fd494ad32f
+Mode: DEEP_REWRITE
+Intent: choisir des périodes archéologiques effectivement accessibles, comprendre les objets et préparer le trajet.
+MUST: restrictions de salles, exemples de périodes et techniques, différence original/moulage pour Brassempouy, tarifs officiels, horaires, accès RER.
+SHOULD: domaine, château, accessibilité, ArcheoMAN, maillage Île-de-France/Carnavalet/Meaux.
+Pas de durée inventée ou de garantie de disponibilité des œuvres.
+Structure distincte : avertissement salles -> collections -> Brassempouy -> château -> parcours -> renseignements.
+Noindex maintenu avant validation humaine et technique.
