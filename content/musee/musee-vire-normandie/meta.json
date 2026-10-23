@@ -1,0 +1,18 @@
+{
+  "title": "Musée de Vire Normandie : collections, horaires et tarifs 2026",
+  "description": "Découvrez le musée de Vire Normandie : Reconstruction, Bocage, Charles Léandre, exposition Sois belle !, horaires et tarifs 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-vire-normandie/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée de Vire Normandie",
+    "url": "https://musee.virenormandie.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Square Chanoine Jean Héroult",
+      "postalCode": "14500",
+      "addressLocality": "Vire Normandie",
+      "addressCountry": "FR"
+    }
+  }
+}

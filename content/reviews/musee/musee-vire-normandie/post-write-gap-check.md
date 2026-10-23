@@ -1,0 +1,5 @@
+# Post-write gap check — Musée de Vire Normandie
+2026-10-23 NEW_PAGE | noindex preserved.
+MUST identité et lieu: COVERED (facts+schema) musée officiel. MUST parcours et valeur singulière: COVERED (RDC et premier étage). MUST horaires jusqu'au 01/11, fermeture L/M, dernière entrée: COVERED (facts/pratique) source musée. MUST 4,80€/gratuit -26 / premier dimanche: COVERED, source musée. MUST accessibilité: COVERED avec réserve de besoins spécifiques, source OT. SHOULD histoire des collections et inventaire 2025: COVERED avec distinction exposé/inventorié, source musée. SHOULD exposition mode 2026 et entrée gratuite 1/11: COVERED source officielle. SHOULD liens: COVERED Caen, Saint-Lô, région, annuaire.
+Relecture content-and-copy, humanizer, general-writing puis anti-ai-slop effectuée éditorialement (pas exécution d'un processus logiciel indépendant), faits et dates conservés; pas de scène de visite inventée; headings non clonés.
+PUBLISH_REVIEW: PASS éditorial, READY_FOR_HUMAN_VALIDATION sous réserve vérification build/visuel. Indexation inchangée.
