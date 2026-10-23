@@ -1,27 +1,30 @@
-# NEW_PAGE — Musée d’Art Moderne de Paris
+# SERP / intent and factual coverage — MAM Paris
+Date: 2026-10-23. Mode: DEEP_REWRITE. Owner: exact museum entity.
+Primary search: musée art moderne paris. Intent variants: visite, gratuit, horaires, collections, Dufy, Matisse, expositions, réservation.
 
-Date: 2026-10-23
-Route: /musee/musee-art-moderne-paris/ — MUSEUM entity owner.
+## Sources inspected (actual)
+- https://www.mam.paris.fr/fr/node/20 : opening times, tickets, donations, group reservations, app
+- https://www.mam.paris.fr/fr/espace/salle-dufy : 250 panels, 600 m², 1937, composition
+- https://www.mam.paris.fr/fr/expositions-en-cours : dated exhibitions 2026
+- https://www.mam.paris.fr/fr/expositions/exposition-lubaina-himid : opening 23 October 2026
+- https://www.paris.fr/lieux/musee-d-art-moderne-de-paris-7 : municipal record/accessibility
+- https://www.visitparisregion.com/fr/musee-d-art-moderne-de-paris : regional visitor information
+- https://www.centrepompidou.fr/fr/lieu/musee-dart-moderne : 2026 partner programming and distinction from Centre Pompidou.
 
-## Intent and query
-Primary: Musée d’Art Moderne de Paris visite. Secondary: collections, que voir, où se trouve le musée, horaires, tarifs, exposition.
-User task: choisir si ce musée convient, puis organiser sa visite.
-
-## Sources réellement consultées
-- https://www.mam.paris.fr/ — institution, à recontrôler sur horaires/expositions
-- https://parismusees.paris.fr/fr/reseau — liste institutionnelle des musées municipaux, identité et coordonnées
-
-## Coverage
-| Need | Priority | Proposed location | Status |
+## Coverage matrix
+| Need | Importance | Content | Evidence |
 |---|---|---|---|
-| Différenciation de la visite | MUST | Introduction et choix | COVERED |
-| Identité / sujet du musée | MUST | Collections | COVERED |
-| Accès à la source officielle | MUST | Pratique | COVERED |
-| Horaires, prix et programmation datés | SHOULD | Lien institutionnel | PARTIAL : non reproduits |
-| Accessibilité détaillée | SHOULD | Site officiel | PARTIAL |
+| What makes this museum distinct? | MUST | COVERED | Dufy, Matisse, modern/contemporary works |
+| Collection highlights | MUST | COVERED | Dufy wall composition and Matisse dance |
+| Permanent vs temporary admissions | MUST | COVERED | Official practical page |
+| Opening hours/Thursday evenings | MUST | COVERED 2026-10-23 | Official practical page |
+| Visit-choice guidance | MUST | COVERED | Three task-led routes |
+| Group visit terms | SHOULD | COVERED | Official practical page |
+| Exhibitions dated | SHOULD | COVERED as of 2026-10-23 | Museum listing |
+| Accessibility specifics | SHOULD | PARTIAL | Municipal listing, institution contact |
+| Guaranteed room access | SHOULD | NOT GUARANTEED | Museum cautions on room closures |
 
-## Overlap / information gain
-Region page offers selection. This page owns the museum-specific decision. Le Petit Palais traite de périodes et de disciplines plus larges ; le MAM est centré sur l’art moderne et contemporain.
-
-## SERP limitation
-La SERP concurrentielle individuelle n'a pas été inspectée exhaustivement : audit NEW_PAGE à compléter avant une approbation éditoriale complète. Ne pas convertir cette fiche en PASS automatique.
+## Editorial information gain
+Explain Dufy's monumental painting as a reading exercise of science + myth, Matisse as movement integrated with architecture, and explicitly separate collections from ticketed temporary exhibitions. Do not overclaim current artwork visibility.
+Overlap: /regions/ile-de-france/ geographic comparison; Petit Palais older/general fine arts; Orsay narrower 1848-1914.
+SERP feature inventory not reliably available. Not a substitute for a full competitor ranking study.
