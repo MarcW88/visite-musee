@@ -1,0 +1,7 @@
+# Post-write gap check — Musée de la Libération Cherbourg
+2026-10-23 NEW_PAGE 12574 characters. Research and editorial brief prepared in advance.
+Fact-check priority: Cherbourg municipal sources (horaires last updated 09/10/2026, collections, history updated 26/06/2026, dated event announcement of special free 11 Nov 2026), Pop Muséofile and Normandy network.
+MUST COVERED: Fort du Roule historical setting, inaugurated 6 June 1954, 1944 Cherbourg port logistics summer 1944-winter 1945, Occupation materials West Point donations and later donations, daily life of civilians/soldiers; Tue-Fri 10–12h30 14–18, Sat Sun 13–18, closed Mon; full 5€ reduced 3€, everyone Wednesday free, under26 free, pass 10€ unlimited one year with Thomas Henry; historic Oct17-18 and Oct20-21 exceptional closures already passed; 11 Nov free official event and winter closure until 6 Feb 2027.
+Editorial: specific provenance and history, no invented personal experience or guaranteed particular artifact on display. Humanizer/general-writing/anti-ai-slop distinct editorial review applied to clarity and concision; independent skill executions not evidenced.
+SEO/GEO title, meta, JSON-LD Museum, interlinks Caen/Arromanches and region/index, listing registry and regression checks updated.
+GAPS: no measured competitive SERP positions, page-specific Chromium not verified, live deploy still pending; keep noindex until approval.
