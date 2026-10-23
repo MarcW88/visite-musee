@@ -69,4 +69,25 @@ if (fs.existsSync(regionalBody) && fs.existsSync(regionalOutput)) {
   html = html.slice(0, html.indexOf('<main>')) + '<main>' + body + '</main>' + html.slice(html.indexOf('</main>') + 7);
   fs.writeFileSync(regionalOutput, html);
 }
+
+const hautsBody = path.join(root, 'content', 'regions', 'hauts-de-france', 'body.html');
+const hautsOutput = path.join(root, 'regions', 'hauts-de-france', 'index.html');
+if (fs.existsSync(hautsBody) && fs.existsSync(hautsOutput)) {
+  let html = fs.readFileSync(hautsOutput, 'utf8');
+  const content = fs.readFileSync(hautsBody, 'utf8').trim();
+  const titleStart = html.indexOf('<title>');
+  const titleEnd = html.indexOf('</title>') + 8;
+  if (titleStart >= 0 && titleEnd >= 8) {
+    html = html.slice(0, titleStart) + '<title>Musées des Hauts-de-France : où aller selon vos envies ? | Visite Musée</title>' + html.slice(titleEnd);
+  }
+  html = html.replace(/<meta name="description" content="[^"]*">/, '<meta name="description" content="Quels musées visiter dans les Hauts-de-France ? Lens, Lille, Roubaix, Amiens, Chantilly et une sélection par centres d’intérêt.">');
+  html = html.replace('</head>', '<link rel="canonical" href="https://visite-musee.fr/regions/hauts-de-france/"><link rel="stylesheet" href="../../assets/content.css"></head>');
+  const mainStart = html.indexOf('<main>');
+  const mainEnd = html.indexOf('</main>');
+  if (mainStart >= 0 && mainEnd > mainStart) {
+    html = html.slice(0, mainStart) + '<main>' + content + '</main>' + html.slice(mainEnd + 7);
+  }
+  fs.writeFileSync(hautsOutput, html);
+}
+
 console.log(`${applied} fiche(s) musée personnalisée(s) appliquée(s).`);
