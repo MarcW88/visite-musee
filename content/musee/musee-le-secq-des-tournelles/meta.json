@@ -1,0 +1,18 @@
+{
+  "title": "Musée Le Secq des Tournelles à Rouen : collections et visite gratuite",
+  "description": "Découvrez les arts du fer au musée Le Secq des Tournelles à Rouen : enseignes, ferronneries, église Saint-Laurent, horaires et entrée gratuite.",
+  "canonical": "https://visite-musee.fr/musee/musee-le-secq-des-tournelles/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée Le Secq des Tournelles",
+    "url": "https://museelesecqdestournelles.fr/fr",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue Jacques-Villon",
+      "postalCode": "76000",
+      "addressLocality": "Rouen",
+      "addressCountry": "FR"
+    }
+  }
+}
