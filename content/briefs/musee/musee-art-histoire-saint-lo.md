@@ -1,0 +1,2 @@
+# Brief musée d'art et d'histoire de Saint-Lô
+workflow_version museum-v1. NEW_PAGE. User intent hours/fees + Saint-Lô history and rebuilt city, arts, children, access. Official Normandy museum network. MUST accurate 14-18 except Monday Oct, 6€/3€, closure 1 Nov, ramp elevator; 1944 95% destroyed, rebuilding, context of Gombault Macée tapestries and collections, no expired exhibits as current. Sections intro, quick facts, historical arc, works, separate from Caen memorial, logistics. Internal region/directory. Noindex until approval.
