@@ -1,0 +1,18 @@
+{
+  "title": "Musée Carnavalet – Histoire de Paris : collections et conseils de visite",
+  "description": "Découvrez Musée Carnavalet – Histoire de Paris : collections, intérêt de la visite, comparaison avec d’autres musées et informations pratiques officielles.",
+  "canonical": "https://visite-musee.fr/musee/musee-carnavalet/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée Carnavalet – Histoire de Paris",
+    "url": "https://www.carnavalet.paris.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "23 rue de Sévigné",
+      "postalCode": "75003",
+      "addressLocality": "Paris",
+      "addressCountry": "FR"
+    }
+  }
+}
