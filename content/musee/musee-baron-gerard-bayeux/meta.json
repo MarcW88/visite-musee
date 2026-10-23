@@ -1,0 +1,18 @@
+{
+  "title": "Musée Baron Gérard Bayeux : collections, horaires et tarifs 2026",
+  "description": "Visitez le MAHB à Bayeux : 14 étapes de la Préhistoire à l'art moderne, dentelle, ancien palais épiscopal, billets et horaires 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-baron-gerard-bayeux/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée d'art et d'histoire Baron Gérard",
+    "url": "https://www.bayeuxmuseum.com/musee-dart-et-dhistoire-baron-gerard/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "37 rue du Bienvenu",
+      "postalCode": "14400",
+      "addressLocality": "Bayeux",
+      "addressCountry": "FR"
+    }
+  }
+}
