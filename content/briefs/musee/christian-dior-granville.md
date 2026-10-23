@@ -66,3 +66,6 @@ Musée Christian Dior; Villa Les Rhumbs; Christian Dior; Jardin Christian Dior; 
 ## Success criteria
 
 The visitor understands exactly what is on in 2026, that the museum is seasonal, and whether the villa is physically accessible to their party before booking.
+
+## Révision du 23 octobre 2026
+Mode DEEP_REWRITE ciblé : préserver villa/jardin/accessibilité et enrichir exposition 2026 par matière, couleurs, 250 pièces, prêts, réinterprétations et modalités. MUST nouveau : avis de fermeture exceptionnel le 23 octobre en première section et rappel dans les horaires. Durée musée 45 min, ensemble 1h30, réservation renforcée (50 simultanés). Faits revalidés avec site officiel. Conserver l'ancienne URL et l'indexation telle quelle. Ne modifier aucune autre fiche.
