@@ -1,0 +1,18 @@
+{
+  "title": "Musée maritime de Tatihou : bateau, horaires et tarifs 2026",
+  "description": "Préparez votre visite du musée maritime de Tatihou : épaves de 1692, bateau amphibie, forfait 2026, jardin, tour Vauban et alertes météo.",
+  "canonical": "https://visite-musee.fr/musee/musee-maritime-tatihou/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée maritime de l'île Tatihou",
+    "url": "https://tatihou.manche.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Île Tatihou",
+      "postalCode": "50550",
+      "addressLocality": "Saint-Vaast-la-Hougue",
+      "addressCountry": "FR"
+    }
+  }
+}
