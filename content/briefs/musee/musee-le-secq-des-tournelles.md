@@ -1,0 +1,3 @@
+# Brief individuel — musée Le Secq des Tournelles
+workflow_version museum-v1. Route /musee/musee-le-secq-des-tournelles/. NEW_PAGE. Promesse : voir les arts du fer comme une histoire des métiers, du geste, de l'usage et du décor, dans l'ancienne église Saint-Laurent.
+Research-first. Sections : horaires/tarifs et accès immédiats ; ferronnerie d'usage et d'architecture ; collection Henri Le Secq ; lecture de cinq catégories distinctes ; architecture et parcours de visite ; accès et comparaison avec Céramique/Beaux-Arts. Canonical, schema Museum, sources officielles. Pas de faits non vérifiés sur réouverture du musée Céramique. Humanizer puis general-writing puis anti-ai-slop ; noindex inchangé jusqu'à validation.
