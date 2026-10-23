@@ -1,6 +1,8 @@
 name: Museum visual browser QA
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
   pull_request:
     branches: [main]
     paths:
