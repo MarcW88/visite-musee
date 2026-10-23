@@ -1,0 +1,19 @@
+{
+  "title": "Musée du Prieuré Harfleur : visite, horaires et tarifs 2026",
+  "description": "Musée du Prieuré à Harfleur : collections romaines, mérovingiennes et médiévales, horaires 2026, tarif 2 € et fermeture à partir du 2 novembre.",
+  "canonical": "https://visite-musee.fr/musee/musee-prieure-harfleur/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée du Prieuré",
+    "url": "https://www.harfleur.fr/lieux_remarquables_a_visiter.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "50 rue de la République",
+      "postalCode": "76700",
+      "addressLocality": "Harfleur",
+      "addressCountry": "FR"
+    },
+    "sameAs": "https://pop.culture.gouv.fr/notice/museo/M0717"
+  }
+}

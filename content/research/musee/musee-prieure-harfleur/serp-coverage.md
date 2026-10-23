@@ -1,0 +1,6 @@
+# SEO/GEO research — Musée du Prieuré, Harfleur
+2026-10-23 NEW_PAGE. Intent: Musée du Prieuré Harfleur horaires, tarifs, collections, musée archéologique près du Havre.
+Sources: https://www.harfleur.fr/lieux_remarquables_a_visiter.html ; https://www.musees-normandie.fr/musees-normandie/musee-du-prieure/ ; https://www.lehavre-etretat-tourisme.com/fr/fiche/harfleur/musee-du-prieure_TFOPCUNORM00FS0008M/ ; https://pop.culture.gouv.fr/notice/museo/M0717 ; https://pop.culture.gouv.fr/notice/merimee/PA00100690.
+Compétition de noms: musée du Prieuré Harfleur distinct de musée du Prieuré Graville au Havre. Le même nom 'Prieuré' entraîne risque d'ambiguïté d'entité — address Harfleur 50 rue République, Muséofile M0717 (Graville M0719).
+MUST adresse, bâtiment XV, antiques Mont Cabert, mérovingien VI-VIII, moyen âge, ferme Brefdent 1930–60 COVERED. MUST horaires scolaires et tarif actualisé, fermeture du 2 novembre au 8 janvier COVERED. SHOULD provenance fouilles, rôle d'Harfleur estuaire, distinction ancien édifice/reconstitution COVERED. DATA_GAPS : volume et rang SERP non mesurés, PMR non attesté intégralement.
+Information gain : parcours archéologique chronologique, source du mobilier de tombes et du port, évolution 2017. Stable collections; volatile ouverture 2026. READY_FOR_BRIEF.

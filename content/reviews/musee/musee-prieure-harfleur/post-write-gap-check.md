@@ -1,0 +1,2 @@
+# Post-write review — Musée du Prieuré Harfleur
+2026-10-23 NEW_PAGE. Identité et distinction Graville : COVERED. Maison XVe et collections: COVERED. Dates ouverture octobre et fermeture 2 novembre 2026–8 janvier 2027: COVERED mairie. Billets et âge: COVERED. Liens région/musées voisins: COVERED. Factual chronology and uncertainty checked. Passes éditoriales guidées selon content-and-copy, humanizer, general-writing, anti-ai-slop ; pas d'exécution autonome des sous-agents revendiquée. KEEP_NOINDEX. Editorial reviewed, technical CI/browser pending.
