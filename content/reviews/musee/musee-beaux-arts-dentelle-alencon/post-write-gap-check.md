@@ -1,0 +1,6 @@
+# Post-write gap check — Alençon (2026-10-23)
+NEW_PAGE. Editorial 10424 chars. Primary research from Normandie museum network, Alençon Tourism, Culture Ministry, Normandie Tourism.
+MUST covered: three collections including Point d'Alençon needle lace and UNESCO 2010, French/Dutch painting, Cambodia Adhémard Leclère provenance, Courbet temporary show dated July 7 2026-Jan 3 2027, permanent €4/€3 and young/first-Sunday exemption, season opening closed Mondays, accessibility.
+Conflict flagged: Alençon Tourisme listing shows Monday but museum network and Normandie Tourisme both specify closed Monday September-June. Museum network prioritized.
+Content-and-copy: visitor-guided interpretation of needle technique, visual observation and comparative contexts. Humanizer / general-writing / anti-ai-slop editorial passes: practical decisions, no invented first-hand details or unsupported current individual artwork claims. SEO/GEO metadata, schema, official source links and links to Normandy, Rouen and Granville. Directory and region added at source; check gate updated.
+Data gaps: exhaustive SERP position/features, dedicated Chromium screenshot for Alençon not yet verified. Noindex unchanged. Human signoff pending.
