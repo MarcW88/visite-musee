@@ -1,0 +1,2 @@
+# Post-write gap check — Musée du Verre
+2026-10-23. Identité et sources : COVERED. Collections et procédés verriers : COVERED. Horaires et tarifs 2026, fermeture 1 novembre, réservation souffleur : COVERED. Maillage normand : COVERED. Relecture éditoriale suivant grilles content-and-copy, humanizer, general-writing, anti-ai-slop ; ne prétend pas à l'exécution autonome de sous-agents. Editorial reviewed, technical CI/browser pending. KEEP_NOINDEX.

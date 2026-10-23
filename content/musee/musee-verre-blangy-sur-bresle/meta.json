@@ -1,0 +1,18 @@
+{
+  "title": "Musée du Verre Blangy-sur-Bresle : horaires et tarifs 2026",
+  "description": "Découvrez le Musée du Verre de Blangy-sur-Bresle : 30 000 flacons, techniques verrières, démonstrations sur réservation, prix et horaires 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-verre-blangy-sur-bresle/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée du Verre de la Vallée de la Bresle",
+    "url": "https://www.blangysurbresle.fr/tourisme-patrimoine/le-musee-du-verre/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "284 rue du Manoir",
+      "postalCode": "76340",
+      "addressLocality": "Blangy-sur-Bresle",
+      "addressCountry": "FR"
+    }
+  }
+}
