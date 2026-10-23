@@ -1,0 +1,17 @@
+{
+  "title": "Musée des Beaux-Arts et de la Dentelle d’Alençon : visite et tarifs",
+  "description": "Découvrez le Point d’Alençon, les collections de beaux-arts et du Cambodge, l’exposition Courbet 2026, les horaires et les tarifs du musée.",
+  "canonical": "https://visite-musee.fr/musee/musee-beaux-arts-dentelle-alencon/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée des Beaux-Arts et de la Dentelle",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "12 rue Charles Aveline",
+      "postalCode": "61000",
+      "addressLocality": "Alençon",
+      "addressCountry": "FR"
+    }
+  }
+}
