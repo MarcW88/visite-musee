@@ -1,0 +1,18 @@
+{
+  "title": "Musée de Picardie à Amiens : collections, tarifs et visite",
+  "description": "Que voir au Musée de Picardie ? Archéologie, peintures, exposition Égypte 2026, horaires, tarifs et gratuité à Amiens.",
+  "canonical": "https://visite-musee.fr/musee/musee-picardie/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée de Picardie",
+    "url": "https://www.amiens.fr/Vivre-a-Amiens/Culture-Patrimoine/Etablissements-culturels/Musee-de-Picardie/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2 rue Puvis-de-Chavannes",
+      "postalCode": "80000",
+      "addressLocality": "Amiens",
+      "addressCountry": "FR"
+    }
+  }
+}
