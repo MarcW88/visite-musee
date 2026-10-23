@@ -1,12 +1,11 @@
-# Brief — Palais Galliera – Musée de la Mode de Paris
+# Palais Galliera — DEEP_REWRITE brief
 workflow_version: museum-v1
-Route: /musee/palais-galliera/
-Primary intent: sélectionner ce musée et préparer une visite pertinente.
-Audience: visiteurs souhaitant différencier les musées franciliens.
-Ownership: fiche d'entité ; exclure classement régional, actualité des expositions, faux avis personnels.
-MUST: proposition spécifique, spécialité documentée, coordonnées, source institutionnelle, liaison région.
-SHOULD: horaires et tarifs uniquement si vérifiés et datés ; détails d'accessibilité à recontrôler.
-Angle: Comprendre ce que les vêtements disent d’une époque.
-Differentiation: Le Musée d’Art Moderne de Paris traite des arts plastiques ; Galliera interroge la création et la société à travers l’habillement.
+Date: 2026-10-23
 Research: content/research/musee/palais-galliera/serp-coverage.md
-Indexation: noindex,follow jusqu'à revue et décision humaines.
+Intent: decide whether currently programmed fashion exhibition meets visitor interests, then plan visit.
+MUST: exhibition-based nature, stable collection scope, why textiles rotate, current exhibition, exact differentiated prices, Friday evening, transport, booking.
+SHOULD: accessibility, object visibility warning, comparisons with Petit Palais and Musée d'Art Moderne.
+Narrative: programme first -> clothes as culture -> conservation -> choice of visit -> practical -> comparison.
+Fact classes: stable museum history/collection composition; volatile show dates, tickets, opening hours. Do not claim all 200,000 objects are displayed.
+Passes: content-and-copy, fact-check, seo-aeo-geo, internal-linking, humanizer, general-writing, anti-ai-slop, SEO, editorial QA.
+Keep noindex until technical QA and human approval.
