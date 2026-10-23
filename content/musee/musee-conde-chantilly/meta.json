@@ -1,0 +1,18 @@
+{
+  "title": "Musée Condé à Chantilly : collections, Cabinet des livres et billets",
+  "description": "Visiter le Musée Condé au château de Chantilly : tableaux de Raphaël et Poussin, Cabinet des livres, créneaux de réservation et tarifs 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-conde-chantilly/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée Condé",
+    "url": "https://chateaudechantilly.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Château de Chantilly",
+      "postalCode": "60500",
+      "addressLocality": "Chantilly",
+      "addressCountry": "FR"
+    }
+  }
+}
