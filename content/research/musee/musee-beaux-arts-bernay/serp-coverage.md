@@ -1,0 +1,8 @@
+# Museum analysis — musée des Beaux-Arts de Bernay
+2026-10-23 NEW_PAGE. Query owner /musee/musee-beaux-arts-bernay/. Requêtes : musée beaux arts Bernay collections horaires ouverture octobre exposition Lanoa tarif et abbaye.
+Sources réellement consultées: https://bernaylaville.fr/culture-patrimoine/musee/collections/ ; https://www.bernaylaville.fr/culture-patrimoine/musee/informations-pratiques-2/ ; https://www.bernaylaville.fr/culture-patrimoine/musee/petite-histoire-du-musee/ ; https://www.bernaylaville.fr/culture-patrimoine/musee/expositions/ ; https://www.bernaylaville.fr/culture-patrimoine/ville-dart-et-dhistoire/visiter-labbatiale/ ; https://www.bernaylaville.fr/wp-content/uploads/2025/08/musee-web.pdf ; délibération 2025 https://www.bernaylaville.fr/wp-content/uploads/2025/06/51-2025-VALIDATION-CONVENTION-DON-MT-LANOA.pdf.
+SERP: site municipal, documents de collectivité et tourisme. Rang/volume/features non mesurés.
+MUST identité et localisation COVERED ; collections et spécificité du fonds encyclopédique COVERED ; saison 2026 terminée et fermeture en octobre COVERED ; tarifs 2026 contextualisés COVERED ; contact et accès COVERED.
+SHOULD histoire musée 1866, logis 1891 et monastère COVERED ; exposition passée Lanoa et don municipal COVERED ; provenance MNR 426 COVERED ; alternatives ouvertes sous vérification COVERED.
+Information gain: mise en relation bâtiment/collection municipale, provenance MNR et nuance détenteur provisoire, précision sur fermeture et non-projection des tarifs en 2027. Entités Bernay, Assegond, Lottin de Laval, Henri de Maistre, André Mare, M. T. Lanoa.
+Fraîcheur: STABLE histoire/collections, SEMI_STABLE œuvres visibles, VOLATILE ouverture et saison vérifiés 2026-10-23. READY_FOR_BRIEF.

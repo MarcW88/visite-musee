@@ -1,0 +1,18 @@
+{
+  "title": "Musée des Beaux-Arts de Bernay : collections et horaires 2026",
+  "description": "Musée des Beaux-Arts de Bernay : peintures, faïences et ancien logis abbatial. Saison 2026 terminée, tarifs et exposition Marie-Thérèse Lanoa.",
+  "canonical": "https://visite-musee.fr/musee/musee-beaux-arts-bernay/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée des Beaux-Arts de Bernay",
+    "url": "https://www.bernaylaville.fr/culture-patrimoine/musee/informations-pratiques-2/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue Gambetta",
+      "postalCode": "27300",
+      "addressLocality": "Bernay",
+      "addressCountry": "FR"
+    }
+  }
+}
