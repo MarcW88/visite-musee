@@ -1,0 +1,18 @@
+{
+  "title": "Cité internationale de la langue française : visite et tarifs",
+  "description": "Visiter la Cité internationale de la langue française à Villers-Cotterêts : parcours interactif, château, billets, horaires et accès en train.",
+  "canonical": "https://visite-musee.fr/musee/cite-langue-francaise/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Cité internationale de la langue française",
+    "url": "https://www.cite-langue-francaise.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1 place Aristide Briand",
+      "postalCode": "02600",
+      "addressLocality": "Villers-Cotterêts",
+      "addressCountry": "FR"
+    }
+  }
+}
