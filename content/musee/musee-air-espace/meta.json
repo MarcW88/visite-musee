@@ -1,0 +1,11 @@
+{
+  "title": "Musée de l’Air et de l’Espace : collections et préparer la visite",
+  "description": "Visiter Musée de l’Air et de l’Espace : collections, intérêt de la visite, localisation et conseils pour préparer votre venue.",
+  "canonical": "https://visite-musee.fr/musee/musee-air-espace/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée de l’Air et de l’Espace",
+    "url": "https://www.museeairespace.fr/"
+  }
+}
