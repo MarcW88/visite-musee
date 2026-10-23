@@ -1,0 +1,18 @@
+{
+  "title": "Musée de Flandre à Cassel : collections, horaires et tarifs",
+  "description": "Visiter le Musée de Flandre à Cassel : collections d’art flamand, Hôtel de la Noble-Cour, horaires, prix et restriction des salles en octobre 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-flandre-cassel/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée de Flandre",
+    "url": "https://museedeflandre.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "26 Grand'Place",
+      "postalCode": "59670",
+      "addressLocality": "Cassel",
+      "addressCountry": "FR"
+    }
+  }
+}
