@@ -90,4 +90,19 @@ if (fs.existsSync(hautsBody) && fs.existsSync(hautsOutput)) {
   fs.writeFileSync(hautsOutput, html);
 }
 
+
+const normandyBody = path.join(root, 'content', 'regions', 'normandie', 'body.html');
+const normandyOutput = path.join(root, 'regions', 'normandie', 'index.html');
+if (fs.existsSync(normandyBody) && fs.existsSync(normandyOutput)) {
+  let html = fs.readFileSync(normandyOutput, 'utf8');
+  const content = fs.readFileSync(normandyBody, 'utf8').trim();
+  html = html.replace(/<title>[\s\S]*?<\/title>/, '<title>Musées de Normandie : sélection à Rouen, Caen, Bayeux et Granville | Visite Musée</title>');
+  html = html.replace(/<meta name="description" content="[^"]*">/, '<meta name="description" content="Quels musées visiter en Normandie ? Découvrez Rouen, le MuMa, Caen, Bayeux et Granville avec des fiches individuelles et leurs informations pratiques.">');
+  html = html.replace('</head>', '<link rel="canonical" href="https://visite-musee.fr/regions/normandie/"><link rel="stylesheet" href="../../assets/content.css"></head>');
+  const mainStart = html.indexOf('<main>');
+  const mainEnd = html.indexOf('</main>');
+  if (mainStart >= 0 && mainEnd > mainStart) html = html.slice(0, mainStart) + '<main>' + content + '</main>' + html.slice(mainEnd + 7);
+  fs.writeFileSync(normandyOutput, html);
+}
+
 console.log(`${applied} fiche(s) musée personnalisée(s) appliquée(s).`);
