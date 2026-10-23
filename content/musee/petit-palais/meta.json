@@ -1,0 +1,18 @@
+{
+  "title": "Petit Palais – Musée des Beaux-Arts de la Ville de Paris : collections et conseils de visite",
+  "description": "Découvrez Petit Palais – Musée des Beaux-Arts de la Ville de Paris : collections, intérêt de la visite, comparaison avec d’autres musées et informations pratiques officielles.",
+  "canonical": "https://visite-musee.fr/musee/petit-palais/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Petit Palais – Musée des Beaux-Arts de la Ville de Paris",
+    "url": "https://www.petitpalais.paris.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Avenue Winston Churchill",
+      "postalCode": "75008",
+      "addressLocality": "Paris",
+      "addressCountry": "FR"
+    }
+  }
+}
