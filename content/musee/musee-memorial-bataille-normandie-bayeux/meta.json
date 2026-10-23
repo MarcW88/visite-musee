@@ -1,0 +1,18 @@
+{
+  "title": "Musée Bataille de Normandie Bayeux : horaires et tarifs 2026",
+  "description": "Comprendre la Bataille de Normandie du 7 juin au 29 août 1944 : parcours, diorama de Falaise, archives, billets et horaires du musée de Bayeux.",
+  "canonical": "https://visite-musee.fr/musee/musee-memorial-bataille-normandie-bayeux/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée Mémorial de la Bataille de Normandie",
+    "url": "https://www.bayeuxmuseum.com/musee-memorial-de-la-bataille-de-normandie/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Boulevard Fabian Ware",
+      "postalCode": "14400",
+      "addressLocality": "Bayeux",
+      "addressCountry": "FR"
+    }
+  }
+}
