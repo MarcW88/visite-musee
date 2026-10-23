@@ -1,22 +1,11 @@
-# Post-write gap review — musee-grande-guerre-meaux
-Date: 2026-10-23
-Action: DEEP_REWRITE after comparison with Louvre and Orsay.
-Source editorial file: content/musee/musee-grande-guerre-meaux/body.html
-
-## Actual corrections
-- Replaced generic interchangeable text with three museum-specific documented subjects.
-- Replaced vague instructions with concrete choice and itinerary considerations.
-- Removed implied guarantees that all pieces of a collection are currently exposed.
-- Kept official references immediately beside the subjects to which they relate.
-- Separate writing passes performed in the drafting process: remove generic pitch (humanizer), improve specificity and paragraph progression (general-writing), eliminate same-template promises and ungrounded claims (anti-ai-slop).
-
-## Gates
-- Identity and collection-specific discussion: COVERED.
-- Source-backed stable claims: PARTIAL; documentary references included, but exhaustive claim-by-claim source ledger remains outstanding.
-- SERP comparative matrix: PARTIAL; source searches performed, full competitor comparison not recorded.
-- Volatile details: intentionally not given without current verification; museum official site supplied.
-- Playwright/Chromium visual evidence on this revision: NOT YET VERIFIED.
-- Structural uniqueness: improved in content, but layout remains shared and requires a visual editorial review.
-- Human signoff: MISSING.
-
-Result: FAIL — KEEP_NOINDEX. Do not claim final PASS before actual browser and editorial evidence.
+# Post-write gap check — Meaux
+Date : 2026-10-23
+Content-and-copy : ajout de données spécifiques collections / architecture / tranchée / exposition.
+Fact-check : horaires 9h30-18h sauf mardi, billet 12 euros, horaires tranchée et programme 2026 confrontés aux sources officielles.
+Humanizer / general-writing : répétitions réduites, passage des généralités aux objets et questions de visite.
+Anti-ai-slop : pas de visite personnelle inventée, pas de fausse garantie d'accès, distinction reconstitution/source originale.
+SEO/GEO : sous-intentions pratiques et collection développées, liens vers sources primaires.
+MUST : collections COVERED, tranchée COVERED, modalités pratiques COVERED, visiteurs avec enfants COVERED.
+Données volatiles : datées au 2026-10-23.
+PENDING : build sur dernier commit, QA Chromium desktop/mobile, revue humaine et indexation.
+Statut : KEEP_NOINDEX jusqu'aux preuves techniques et validation humaine.
