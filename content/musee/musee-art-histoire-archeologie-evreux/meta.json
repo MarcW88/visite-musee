@@ -1,0 +1,18 @@
+{
+  "title": "Musée d’Art, Histoire et Archéologie d’Évreux : visite gratuite",
+  "description": "Découvrez le musée d’Évreux : palais épiscopal, bronzes antiques, peinture, art abstrait, entrée gratuite et horaires 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-art-histoire-archeologie-evreux/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée d’Art, Histoire et Archéologie d’Évreux",
+    "url": "https://culture.evreux.fr/lieux/musee/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2 esplanade Anne Baudot",
+      "postalCode": "27000",
+      "addressLocality": "Évreux",
+      "addressCountry": "FR"
+    }
+  }
+}
