@@ -1,0 +1,18 @@
+{
+  "title": "Historial de la Grande Guerre à Péronne : visite, billets, collections",
+  "description": "Visiter l’Historial de Péronne : histoire comparée de 1914-1918, collections, Otto Dix, tarifs, horaires et billet combiné Thiepval.",
+  "canonical": "https://visite-musee.fr/musee/historial-grande-guerre-peronne/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Historial de la Grande Guerre — Péronne",
+    "url": "https://www.historial.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Château de Péronne, place André Audinot",
+      "postalCode": "80200",
+      "addressLocality": "Péronne",
+      "addressCountry": "FR"
+    }
+  }
+}
