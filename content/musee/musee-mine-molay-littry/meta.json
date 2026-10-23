@@ -1,0 +1,18 @@
+{
+  "title": "Musée de la Mine du Molay-Littry : horaires et tarifs 2026",
+  "description": "Musée de la Mine au Molay-Littry : pompe à feu des frères Périer, galerie reconstituée, billets et ouverture Toussaint 2026 hors samedis.",
+  "canonical": "https://visite-musee.fr/musee/musee-mine-molay-littry/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée de la Mine du Molay-Littry",
+    "url": "https://www.ville-molay-littry.fr/tourisme/musees/le-musee-de-la-mine/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue de la Fosse Frandemiche",
+      "postalCode": "14330",
+      "addressLocality": "Le Molay-Littry",
+      "addressCountry": "FR"
+    }
+  }
+}

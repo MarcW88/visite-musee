@@ -1,0 +1,2 @@
+# Post-write gap check — Mine du Molay-Littry
+2026-10-23 NEW_PAGE KEEP_NOINDEX. MUST entité/lieu collections : COVERED. MUST dates/tarifs saison 2026 : COVERED mairie et tourisme. MUST pompe et galerie : COVERED; divergence datation notée. SHOULD histoire sociale, itinéraires et maillage : COVERED. Relectures sur grilles content-and-copy, humanizer, general-writing, anti-ai-slop; sous-agents logiciels non invoqués séparément. Editorial review PASS, CI and browser pending.
