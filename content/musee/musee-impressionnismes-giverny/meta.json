@@ -1,0 +1,18 @@
+{
+  "title": "Musée des impressionnismes Giverny : exposition 2026, tarifs et visite",
+  "description": "Visiter le musée des impressionnismes Giverny : exposition Daniel Buren 2026, jardin, tarifs, horaires et différence avec la maison de Monet.",
+  "canonical": "https://visite-musee.fr/musee/musee-impressionnismes-giverny/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée des impressionnismes Giverny",
+    "url": "https://www.mdig.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "99 rue Claude Monet",
+      "postalCode": "27620",
+      "addressLocality": "Giverny",
+      "addressCountry": "FR"
+    }
+  }
+}
