@@ -1,0 +1,18 @@
+{
+  "title": "Musée d'art et d'histoire de Saint-Lô : collections et tarifs 2026",
+  "description": "Visitez le musée de Saint-Lô : reconstruction après 1944, beaux-arts, tapisseries, horaires d'octobre et tarifs 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-art-histoire-saint-lo/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée d'art et d'histoire de Saint-Lô",
+    "url": "https://www.musees-normandie.fr/musees-normandie/musee-d-art-et-d-histoire-de-saint-lo/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "La Source, place du Champ de Mars",
+      "postalCode": "50000",
+      "addressLocality": "Saint-Lô",
+      "addressCountry": "FR"
+    }
+  }
+}
