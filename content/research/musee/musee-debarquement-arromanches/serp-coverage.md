@@ -1,0 +1,8 @@
+# Recherche SEO/GEO — Musée du Débarquement Arromanches
+Date 2026-10-23; NEW_PAGE. Intentions : musée du Débarquement Arromanches tarifs horaires, Mulberry B, port artificiel, parcours, 360° distinction, durée.
+Sources officielles vérifiées : https://musee-arromanches.fr/tarifs-et-horaires-musee-du-debarquement/ ; https://musee-arromanches.fr/votre-visite/ ; https://musee-arromanches.fr/foire-aux-questions/ ; https://musee-arromanches.fr/ ; complément https://www.musees-normandie.fr/musees-normandie/musee-du-debarquement/ et https://www.normandie-tourisme.fr/sites-lieux-de-visites/musee-du-debarquement/ .
+MUST: 2026 tarifs officiel 12.90€ adulte, 8.30€ jeunes 6-18 et étudiants, famille 37€ deux adultes deux enfants, supplément 4€, 9.70€ militaires et anciens combattants, gratuit personnes handicap; audioguide inclus 10 langues. OCTOBRE 9h30-17h30, DIMANCHE ouverture 10h, caisse ferme 45min avant. Durée 1h30. Billetterie exclusivement sur place, AUCUNE réservation individuelle en ligne; groupes >=20 réserver >=7 jours avant.
+Museum reopened 2023 nouveau bâtiment sur port; premier musée commémoratif inauguré 1954; 7 séquences, film initial, 5 plages, maquettes animées, mapping sur maquette 25 m², vestiges du port artificiel au large, pas une visite guidée des plages ou Arromanches 360.
+Intent gap: pourquoi les ports artificiels ont permis ravitaillement même sans port en eau profonde; distinction mémoire et technique. Attention divergences tarifs site office tourisme 13€; priorité 2026 sur site du musée. Note Port Winston/Mulberry B.
+Other: parking PMR, accueil fauteuil selon tourisme; visiteurs n'ont pas besoin de réservation.
+Measured keyword ranks unavailable, noindex.
