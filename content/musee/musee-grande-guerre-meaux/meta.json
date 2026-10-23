@@ -1,0 +1,11 @@
+{
+  "title": "Musée de la Grande Guerre : collections et préparer la visite",
+  "description": "Visiter Musée de la Grande Guerre : collections, intérêt de la visite, localisation et conseils pour préparer votre venue.",
+  "canonical": "https://visite-musee.fr/musee/musee-grande-guerre-meaux/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée de la Grande Guerre",
+    "url": "https://www.museedelagrandeguerre.com/"
+  }
+}
