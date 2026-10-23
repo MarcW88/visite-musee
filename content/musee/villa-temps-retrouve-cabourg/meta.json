@@ -1,0 +1,18 @@
+{
+  "title": "Villa du Temps retrouvé Cabourg : horaires, tarifs et expositions 2026",
+  "description": "Visitez la Villa du Temps retrouvé à Cabourg : Marcel Proust, Belle Époque, Orient-Express, horaires, tarifs et programme 2026.",
+  "canonical": "https://visite-musee.fr/musee/villa-temps-retrouve-cabourg/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "La Villa du Temps retrouvé",
+    "url": "https://villadutempsretrouve.com/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "15 avenue du Président Raymond Poincaré",
+      "postalCode": "14390",
+      "addressLocality": "Cabourg",
+      "addressCountry": "FR"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+# SERP / information gain — Villa du Temps retrouvé Cabourg
+Date : 2026-10-23. museum-analysis-workflow / NEW_PAGE.
+Primary query : villa du temps retrouvé Cabourg. Variants : tarifs et horaires, Proust musée Cabourg, Belle Époque, Orient-Express 2026, accessibilité.
+Sources réellement consultées : https://villadutempsretrouve.com/horaires/ (site officiel : calendrier) ; https://villadutempsretrouve.com/tarifs/ (site officiel : prix) ; https://villadutempsretrouve.com/parcours-belle-epoque/ (site officiel : parcours, artistes et prêts) ; https://villadutempsretrouve.com/expositions-temporaires/ (programmation) ; https://www.cabourg.fr/fiche/patrimoine-culturel/la-villa-du-temps-retrouve/ (Ville de Cabourg) ; https://www.cabourg.fr/agenda/exposition-missions-aux-portes-de-lorient-capter-un-monde-qui-change/ (Ville : photos en jardins) ; https://www.normandie-tourisme.fr/sites-lieux-de-visites/la-villa-du-temps-retrouve/ ; https://www.normandie-cabourg-paysdauge-tourisme.fr/a-faire/culture/belle-epoque/architecture-belle-epoque/villa-du-temps-retrouve/ .
+Pages observées : site institutionnel, tourisme municipal et régional. Classements, snippets exacts et volume non mesurés, DATA_GAP non bloquant.
+MUST identité + lieu + musée distinct de maison Proust : COVERED ; programme de collections saisonnières : COVERED ; prix/gratuités/horaires et dernières admissions : COVERED ; réservation et accessibilité : COVERED. SHOULD expositions et dates 2026 : COVERED ; interprétation sociale Belle Époque : COVERED ; alternatives : COVERED.
+Information gain : éviter le mythe d'un intérieur reconstitué de Proust ; expliquer prêts saisonniers et différence œuvres/objets ; contrepoint ouvrier Dives-sur-Mer ; distinguer exposition extérieure gratuite et billet.
+Ownership : /musee/villa-temps-retrouve-cabourg/ = établissement ; /regions/normandie/ = sélection. Honfleur et Giverny voisins mais intentions différentes.
+STABLE : histoire littéraire, Villa Bon Abri ; SEMI_STABLE : parcours, services et PMR ; VOLATILE : tarifs, dates, expositions, horaires (vérification 2026-10-23).
+Data gap : divergence 18 juillet (musée) vs 1er septembre (ville) pour début exposition photo ; préciser, ne pas trancher arbitrairement.
+Result : READY_FOR_BRIEF.
