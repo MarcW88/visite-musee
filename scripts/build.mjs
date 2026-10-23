@@ -24,7 +24,7 @@ const home=`<section class="hero"><div class="wrap"><div class="eyebrow">Le mote
 write('index.html',shell({title:'Trouvez un musée à visiter en France',desc:'Explorez les musées de France par ville, thème et conditions de visite.',body:home}));
 const regionMuseums={
   'hauts-de-france':['louvre-lens','palais-beaux-arts-lille','musee-picardie','musee-matisse-cateau','la-piscine-roubaix','musee-conde-chantilly','musee-flandre-cassel','historial-grande-guerre-peronne','familistere-guise','cite-langue-francaise'],
-  'normandie':['musee-beaux-arts-rouen','muma-le-havre','memorial-caen','tapisserie-bayeux','christian-dior-granville','musee-beaux-arts-dentelle-alencon'],
+  'normandie':['musee-beaux-arts-rouen','muma-le-havre','memorial-caen','tapisserie-bayeux','christian-dior-granville','musee-beaux-arts-dentelle-alencon','musee-eugene-boudin-honfleur','musee-impressionnismes-giverny'],
   'ile-de-france':['louvre','orsay','fondation-louis-vuitton','musee-grevin','cernuschi','musee-de-l-homme','bourdelle','arts-decoratifs','musee-carnavalet','petit-palais','musee-art-moderne-paris','palais-galliera','musee-archeologie-nationale','musee-grande-guerre-meaux','musee-air-espace'],
   'auvergne-rhone-alpes':['musee-confluences','musee-de-grenoble'],
   'occitanie':['fabre'],
