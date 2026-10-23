@@ -1,0 +1,3 @@
+# Brief — Musée des impressionnismes Giverny
+museum-v1 NEW_PAGE /musee/musee-impressionnismes-giverny/. Explain museum’s changing exhibits rather than promise permanent Monet masterpieces, currently Daniel Buren intervention and collection dialogue. Art-nature relation via museum garden, not Fondation Claude Monet. Include 2026 opening dates, 12/9€, under18 free, train/shuttle, wheelchair, seasonal closure 2 Nov, duration not invented.
+Editorial: meaningful comparison with Rouen, Le Havre, Honfleur, practical decision structure, no fabricated visual first-person claims. Source-grounded facts and linked official sources. noindex kept.
