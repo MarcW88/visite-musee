@@ -1,0 +1,3 @@
+# Editorial brief — Thomas Henry
+NEW_PAGE museum workflow. Explain original 1835 civic mission (Thomas Henry), original educational logic and European master paintings (15th–20th), strong Jean-François Millet holding, sequence of genres and artworks not guaranteed to display each day. Cover 2026 Satan exhibition with dated closure November 8 and distinct ticket caveats. Visitor route and practicals.
+SEO title/H1, JSON-LD Museum and canonical; precise factual sources, contextual links to Rouen Fine Arts and Cherbourg Liberation; register national index and Normandy and test guards. Draft deep enough 8k-11k chars; no false viewing experience, no invented exhibits/ticket rights. Keep noindex.
