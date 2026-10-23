@@ -1,11 +1,18 @@
 {
-  "title": "Musée de l’Air et de l’Espace : collections et préparer la visite",
-  "description": "Visiter Musée de l’Air et de l’Espace : collections, intérêt de la visite, localisation et conseils pour préparer votre venue.",
+  "title": "Musée de l’Air et de l’Espace : Concorde, billets et visite",
+  "description": "Que voir au musée du Bourget ? Halls d’aviation et d’espace, Concorde, billets Check In et Boarding Pass, tarifs et horaires 2026.",
   "canonical": "https://visite-musee.fr/musee/musee-air-espace/",
   "schema": {
     "@context": "https://schema.org",
     "@type": "Museum",
     "name": "Musée de l’Air et de l’Espace",
-    "url": "https://www.museeairespace.fr/"
+    "url": "https://www.museeairespace.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3 esplanade de l’Air-et-de-l’Espace",
+      "postalCode": "93350",
+      "addressLocality": "Le Bourget",
+      "addressCountry": "FR"
+    }
   }
 }
