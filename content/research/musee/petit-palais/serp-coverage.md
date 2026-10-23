@@ -1,27 +1,30 @@
-# NEW_PAGE — Petit Palais – Musée des Beaux-Arts de la Ville de Paris
+# Recherche approfondie — Petit Palais
+Date de consultation : 2026-10-23. Route : /musee/petit-palais/. Mode : DEEP_REWRITE. Owner : MUSEUM.
 
-Date: 2026-10-23
-Route: /musee/petit-palais/ — MUSEUM entity owner.
+## Intention et SERP
+Requête principale : petit palais paris. Sous-intentions : que voir, collections, entrée gratuite, horaires, billets, expositions, parcours, architecture, accès.
+Résultats officiels réellement examinés :
+- https://www.petitpalais.paris.fr/visiter/preparer-votre-visite : horaires, gratuité, limites des nocturnes, application de visite.
+- https://www.petitpalais.paris.fr/le-petit-palais/histoire-des-collections-et-expositions : legs Dutuit, dons Courbet, Tuck, Vollard, Carpeaux ; chronologie muséale.
+- https://www.petitpalais.paris.fr/explorer/le-petit-palais/lhistoire-du-petit-palais : Girault, Besnard, Cormon, Roll, Baudoüin, péristyle.
+- https://www.petitpalais.paris.fr/ : œuvres illustratives et expositions datées au 23/10/2026.
 
-## Intent and query
-Primary: Petit Palais – Musée des Beaux-Arts de la Ville de Paris visite. Secondary: collections, que voir, où se trouve le musée, horaires, tarifs, exposition.
-User task: choisir si ce musée convient, puis organiser sa visite.
+Limite méthodologique : cet ensemble vérifie des sources primaires ; il ne remplace pas une analyse exhaustive et comparative de la SERP de concurrents, ni une extraction des SERP features.
 
-## Sources réellement consultées
-- https://www.petitpalais.paris.fr/ — institution, à recontrôler sur horaires/expositions
-- https://parismusees.paris.fr/fr/reseau — liste institutionnelle des musées municipaux, identité et coordonnées
-
-## Coverage
-| Need | Priority | Proposed location | Status |
+## Matrice de couverture
+| Besoin | Priorité | Résultat après réécriture | Évidence |
 |---|---|---|---|
-| Différenciation de la visite | MUST | Introduction et choix | COVERED |
-| Identité / sujet du musée | MUST | Collections | COVERED |
-| Accès à la source officielle | MUST | Pratique | COVERED |
-| Horaires, prix et programmation datés | SHOULD | Lien institutionnel | PARTIAL : non reproduits |
-| Accessibilité détaillée | SHOULD | Site officiel | PARTIAL |
+| Pourquoi choisir ce musée | MUST | COVERED | Positionnement vs Orsay et Louvre |
+| Œuvres et collections caractérisées | MUST | COVERED | Dutuit, Courbet, Carpeaux et arts décoratifs |
+| Architecture comme partie intégrante | MUST | COVERED | Girault, pavillons et péristyle |
+| Gratuité, différence permanent/temporaire | MUST | COVERED | Page officielle pratique |
+| Horaires et nocturnes | MUST | COVERED | Page officielle pratique, consultée 23/10/2026 |
+| Parcours de visite non inventés | MUST | COVERED | Application officielle : 12 chefs-d’œuvre / 30 indispensables |
+| Programmation à date | SHOULD | COVERED | Homepage officielle, dates explicites |
+| Accessibilité individuelle complète | SHOULD | PARTIAL | LSF / audiodescription, vérifier les prestations |
+| Disponibilité des œuvres par salle | SHOULD | PARTIAL | Aucune garantie de présence en salle |
 
-## Overlap / information gain
-Region page offers selection. This page owns the museum-specific decision. Orsay se concentre sur une période déterminée de l’histoire de l’art ; le Petit Palais ouvre d’autres dialogues entre beaux-arts et arts décoratifs.
-
-## SERP limitation
-La SERP concurrentielle individuelle n'a pas été inspectée exhaustivement : audit NEW_PAGE à compléter avant une approbation éditoriale complète. Ne pas convertir cette fiche en PASS automatique.
+## Information gain et limites
+La page relie décision de visite, histoire de formation des fonds, parcours par architecture ou donations, et réalité tarifaire.
+Ne pas inventer de durée standard, de disponibilité d'œuvre, d'expérience vécue, de prix pour chaque exposition.
+La page /regions/ile-de-france/ possède le choix régional ; /musee/petit-palais/ possède la décision propre à cette entité.
