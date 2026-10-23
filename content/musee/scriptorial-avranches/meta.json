@@ -1,0 +1,18 @@
+{
+  "title": "Scriptorial Avranches : manuscrits, horaires et tarifs 2026",
+  "description": "Visitez le Scriptorial d'Avranches : manuscrits du Mont-Saint-Michel, salle du Trésor, exposition 2026, horaires et tarifs officiels.",
+  "canonical": "https://visite-musee.fr/musee/scriptorial-avranches/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Scriptorial d'Avranches — musée des manuscrits du Mont-Saint-Michel",
+    "url": "https://www.scriptorial.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Place d'Estouteville",
+      "postalCode": "50300",
+      "addressLocality": "Avranches",
+      "addressCountry": "FR"
+    }
+  }
+}
