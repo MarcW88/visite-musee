@@ -1,0 +1,18 @@
+{
+  "title": "Musée Utah Beach : horaires, tarifs et visite 2026",
+  "description": "Musée du Débarquement Utah Beach : dix séquences, avion B-26, histoire du 6 juin 1944, tarifs et fermeture du 16 novembre au 14 décembre.",
+  "canonical": "https://visite-musee.fr/musee/musee-debarquement-utah-beach/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée du Débarquement Utah Beach",
+    "url": "https://utah-beach.com/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Plage de la Madeleine",
+      "postalCode": "50480",
+      "addressLocality": "Sainte-Marie-du-Mont",
+      "addressCountry": "FR"
+    }
+  }
+}

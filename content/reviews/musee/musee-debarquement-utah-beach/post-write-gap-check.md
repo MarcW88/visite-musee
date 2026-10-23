@@ -1,0 +1,2 @@
+# Post-write gap check — Utah Beach
+2026-10-23 NEW_PAGE. Histoire du site, collections, pratique et maillage: COVERED. Prix 2026 et fermeture confirmés via site officiel, divergence ancienne fiche régionale notée. Relectures guidées content-and-copy, humanizer, general-writing, anti-ai-slop: clarification dates, acteurs et distinction musée/plage. Aucune invocation autonome de sous-agent revendiquée. Editorial reviewed; CI/browser pending. KEEP_NOINDEX.
