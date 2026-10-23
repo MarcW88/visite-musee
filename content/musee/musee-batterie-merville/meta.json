@@ -1,0 +1,18 @@
+{
+  "title": "Batterie de Merville : visite, horaires et tarifs 2026",
+  "description": "Découvrez le musée de la Batterie de Merville : assaut du 6 juin 1944, casemates, C-47 Dakota, horaires, tarifs et accessibilité en 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-batterie-merville/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée de la Batterie de Merville",
+    "url": "https://www.batterie-merville.com/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Place du 9e Bataillon",
+      "postalCode": "14810",
+      "addressLocality": "Merville-Franceville-Plage",
+      "addressCountry": "FR"
+    }
+  }
+}
