@@ -1,8 +1,22 @@
-# Post-write review — Palais Galliera – Musée de la Mode de Paris
+# Post-write gap review — palais-galliera
 Date: 2026-10-23
-MUST: différenciation COVERED ; sujet COVERED ; sources COVERED ; liens région COVERED.
-Humanizer: rédaction spécifique et absence d'expérience personnelle inventée vérifiées par relecture rédactionnelle ; pas de certificat d'exécution agent autonome.
-Anti-AI-Slop: promesses abstraites et répétition atténuées, mais structure partagée à inspecter visuellement.
-Factualité: données volatiles non reproduites ; source institutionnelle liée.
-Open blockers: SERP exhaustive, vérification visuelle/Chromium, validation humaine et audit approfondi de factualité.
-Result: FAIL — KEEP_NOINDEX until blockers are resolved.
+Action: DEEP_REWRITE after comparison with Louvre and Orsay.
+Source editorial file: content/musee/palais-galliera/body.html
+
+## Actual corrections
+- Replaced generic interchangeable text with three museum-specific documented subjects.
+- Replaced vague instructions with concrete choice and itinerary considerations.
+- Removed implied guarantees that all pieces of a collection are currently exposed.
+- Kept official references immediately beside the subjects to which they relate.
+- Separate writing passes performed in the drafting process: remove generic pitch (humanizer), improve specificity and paragraph progression (general-writing), eliminate same-template promises and ungrounded claims (anti-ai-slop).
+
+## Gates
+- Identity and collection-specific discussion: COVERED.
+- Source-backed stable claims: PARTIAL; documentary references included, but exhaustive claim-by-claim source ledger remains outstanding.
+- SERP comparative matrix: PARTIAL; source searches performed, full competitor comparison not recorded.
+- Volatile details: intentionally not given without current verification; museum official site supplied.
+- Playwright/Chromium visual evidence on this revision: NOT YET VERIFIED.
+- Structural uniqueness: improved in content, but layout remains shared and requires a visual editorial review.
+- Human signoff: MISSING.
+
+Result: FAIL — KEEP_NOINDEX. Do not claim final PASS before actual browser and editorial evidence.
