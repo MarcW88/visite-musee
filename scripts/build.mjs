@@ -9,7 +9,7 @@ const pages={
   'expositions':['paris','lyon','marseille'],
   'inspiration':['meilleurs-musees-france','musees-insolites-france','musees-a-faire-en-famille','week-end-culturel','musees-a-voir-une-fois'],
   'guides':['comment-preparer-visite-musee','combien-de-temps-pour-visiter-un-musee','musees-gratuits-premier-dimanche','pass-musees','visiter-musee-avec-enfant'],
-  'musee':['louvre','orsay','fondation-louis-vuitton','musee-grevin','musee-confluences','louvre-lens','cernuschi','musee-de-l-homme','bourdelle','granet','fabre','musee-de-grenoble','christian-dior-granville','arts-decoratifs','musee-carnavalet','petit-palais','musee-art-moderne-paris','palais-galliera','musee-archeologie-nationale','musee-grande-guerre-meaux','musee-air-espace','palais-beaux-arts-lille','musee-picardie','musee-matisse-cateau','la-piscine-roubaix']
+  'musee':['louvre','orsay','fondation-louis-vuitton','musee-grevin','musee-confluences','louvre-lens','cernuschi','musee-de-l-homme','bourdelle','granet','fabre','musee-de-grenoble','christian-dior-granville','arts-decoratifs','musee-carnavalet','petit-palais','musee-art-moderne-paris','palais-galliera','musee-archeologie-nationale','musee-grande-guerre-meaux','musee-air-espace','palais-beaux-arts-lille','musee-picardie','musee-matisse-cateau','la-piscine-roubaix','musee-conde-chantilly']
 };
 const labels={musees:'Musées',regions:'Régions',departements:'Départements',themes:'Thèmes',visiter:'Préparer une visite',expositions:'Expositions',inspiration:'Inspiration',guides:'Guides',musee:'Musée'};
 const human=s=>s.replaceAll('-',' ').replace(/\b\w/g,m=>m.toUpperCase()).replace('D ','d’').replace('L ','l’');
