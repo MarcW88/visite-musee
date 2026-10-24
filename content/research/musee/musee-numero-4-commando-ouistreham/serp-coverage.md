@@ -1,0 +1,7 @@
+# NEW_PAGE / Musée du N°4 Commando, Ouistreham
+2026-10-24 | decision READY_FOR_BRIEF | intent exact MUSEUM | KEEP_NOINDEX.
+Query primary musée numéro 4 commando Ouistreham prix horaires visite 2026; secondary Kieffer 177 commandos français Sword Beach, Achnacarry, casino Ouistreham, musée vétérans.
+Primary sources 2026 https://www.normandie-tourisme.fr/sites-lieux-de-visites/musee-du-n4-commando/ and https://www.caenlamer-tourisme.fr/patrimoine-culturel/musee-du-n4-commando-franco-britannique/ . Context official https://www.cheminsdememoire.gouv.fr/fr/musee-ndeg-4-commando .
+Competitive differentiation: museum-specific focus on N°4 Commando, not generic D-Day or the Centre Juno/other battlefield museums. Historical actors Royal Marine/No4 Commando, 177 Kieffer French. Material donations by veterans, 28min documentary, 3.60m x 1.10m terrain model, 60min visit.
+2026 dates 7 Feb–11 Nov every day 10–13 and 14–18:30, adult €5, €3 students/children aged 10+, free under10, adult groups €4. Address Place Alfred Thomas opposite casino, 14150 Ouistreham, +33 2 31 96 63 10. Data gap closed-season hours after Nov 11, accessibility beyond site detail; no unsupported 2027 claims or film language selection.
+Current temporal 24 October 2026. No rights-verified picture to embed. Sources support contextual story Achnacarry, Colleville-sur-Orne, casino, Pegasus Bridge and Amfreville. Information gain from precise chronology and 1-hour routing. 
