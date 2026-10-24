@@ -1,0 +1,19 @@
+{
+  "title": "Manufacture des Parapluies de Cherbourg : visite et tarifs 2026",
+  "description": "Découvrez la Manufacture des Parapluies de Cherbourg : savoir-faire, musée, visites libres et guidées, tarifs 2026, horaires et accès.",
+  "canonical": "https://visite-musee.fr/musee/musee-manufacture-parapluies-cherbourg/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "TouristAttraction",
+    "name": "Musée – Manufacture des Parapluies de Cherbourg",
+    "url": "https://parapluiedecherbourg.com/visiter-la-manufacture/",
+    "telephone": "+33 2 33 93 66 60",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "22 quai Alexandre III",
+      "postalCode": "50100",
+      "addressLocality": "Cherbourg-en-Cotentin",
+      "addressCountry": "FR"
+    }
+  }
+}
