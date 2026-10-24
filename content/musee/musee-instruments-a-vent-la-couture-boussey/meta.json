@@ -1,0 +1,19 @@
+{
+  "title": "Musée des instruments à vent : fermé depuis septembre 2026",
+  "description": "Le Musée des instruments à vent de La Couture-Boussey est fermé depuis le 25 septembre 2026. Découvrez ses collections et les infos de réouverture.",
+  "canonical": "https://visite-musee.fr/musee/musee-instruments-a-vent-la-couture-boussey/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée des instruments à vent",
+    "url": "https://www.lemiv.fr/fr/",
+    "telephone": "+33 2 32 36 28 80",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2 rue d'Ivry",
+      "postalCode": "27750",
+      "addressLocality": "La Couture-Boussey",
+      "addressCountry": "FR"
+    }
+  }
+}
