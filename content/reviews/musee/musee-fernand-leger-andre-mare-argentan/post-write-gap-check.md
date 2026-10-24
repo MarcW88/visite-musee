@@ -1,0 +1,2 @@
+# Post-write gap check — Léger Mare Argentan
+2026-10-24 NEW_PAGE KEEP_NOINDEX. Historical and collections claims grounded by museum sources: COVERED. Hours 2026 and free November 1 confirmed city: COVERED. Distinction Argentan Maison des Dentelles closed: COVERED. Tickets, access, regional interlinks: COVERED. Editorial self-review to museum-analysis-workflow and museum-content-workflow factual/entity/GEO/style criteria and humanizer/anti-ai-slop, without claiming autonomous subagent execution. CI/visual validation pending.

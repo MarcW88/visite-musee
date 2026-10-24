@@ -1,0 +1,5 @@
+# Analyse SEO/GEO — Musée Fernand Léger – André Mare
+2026-10-24 NEW_PAGE. Intent musée Fernand Léger André Mare Argentan horaires tarifs collection, art moderne, maison enfance. Sources: https://musees-argentan.fr/musee-leger-mare/ ; https://musees-argentan.fr/musee-leger-mare/infos-pratiques/ ; https://musees-argentan.fr/musee-leger-mare/le-musee/le-musee-et-ses-collections/ ; https://www.musees-normandie.fr/musees-normandie/musee-fernand-leger-andre-mare/ ; https://www.argentan.fr/manifestations/culturelle/musee-fernand-leger-andre-mare-gratuit-le-1er-novembre/. SERP positions/volumes non mesurés.
+MUST entités Léger + Mare, Argentan et maison d'enfance, cubisme vs art déco, collections : COVERED.
+MUST saison 2026 ouverture jusqu'au 1 novembre, mardi–dimanche 13h30–17h, dernière entrée 16h30, 5,50€ plein 3,50€ réduit moins 12 gratuits : COVERED. Dernier jour 1/11 gratuit, puis fermeture hiver : COVERED.
+SHOULD attention Maison des Dentelles Argentan définitivement fermée, autre musée : COVERED. Information gain différences artistes, correspondances interactives, fermeture hivernale, distinction musée légers et musée dentelle. READY_FOR_BRIEF.

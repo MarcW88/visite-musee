@@ -1,0 +1,18 @@
+{
+  "title": "Musée Fernand Léger – André Mare Argentan : horaires et tarifs 2026",
+  "description": "À Argentan, découvrez le musée Fernand Léger – André Mare : cubisme, Art déco, collections, ouverture d'octobre 2026 et gratuité le 1er novembre.",
+  "canonical": "https://visite-musee.fr/musee/musee-fernand-leger-andre-mare-argentan/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée Fernand Léger – André Mare",
+    "url": "https://musees-argentan.fr/musee-leger-mare/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6 rue de l'Hôtel de Ville",
+      "postalCode": "61200",
+      "addressLocality": "Argentan",
+      "addressCountry": "FR"
+    }
+  }
+}
