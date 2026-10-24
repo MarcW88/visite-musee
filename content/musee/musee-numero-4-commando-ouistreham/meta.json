@@ -1,0 +1,19 @@
+{
+  "title": "Musée du N°4 Commando à Ouistreham : visite et tarifs 2026",
+  "description": "Musée du N°4 Commando à Ouistreham : les commandos Kieffer, le débarquement sur Sword Beach, objets de vétérans, horaires et tarifs 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-numero-4-commando-ouistreham/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée du N°4 Commando franco-britannique",
+    "url": "https://www.cheminsdememoire.gouv.fr/fr/musee-ndeg-4-commando",
+    "telephone": "+33 2 31 96 63 10",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Place Alfred Thomas, face au casino",
+      "postalCode": "14150",
+      "addressLocality": "Ouistreham",
+      "addressCountry": "FR"
+    }
+  }
+}
