@@ -1,0 +1,19 @@
+{
+  "title": "Musée du Verre François Décorchemont à Conches : visite 2026",
+  "description": "À Conches-en-Ouche, découvrez le Musée du Verre François Décorchemont : vitraux, pâte de verre, expositions 2026, horaires, tarifs et accès.",
+  "canonical": "https://visite-musee.fr/musee/musee-verre-francois-decorchemont-conches/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée du Verre François Décorchemont",
+    "url": "https://www.museeduverre.fr/fr",
+    "telephone": "+33 2 32 30 90 41",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "25 rue Paul Guilbaud",
+      "postalCode": "27190",
+      "addressLocality": "Conches-en-Ouche",
+      "addressCountry": "FR"
+    }
+  }
+}
