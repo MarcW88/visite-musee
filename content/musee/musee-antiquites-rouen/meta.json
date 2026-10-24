@@ -1,0 +1,18 @@
+{
+  "title": "Musée des Antiquités de Rouen : fermé pour travaux en 2026",
+  "description": "Le Musée des Antiquités de Rouen est fermé pour travaux. Découvrez ses collections archéologiques et le futur musée Beauvoisine, prévu en 2028.",
+  "canonical": "https://visite-musee.fr/musee/musee-antiquites-rouen/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée des Antiquités de Rouen",
+    "url": "https://museedesantiquites.fr/fr",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "198 rue Beauvoisine",
+      "postalCode": "76000",
+      "addressLocality": "Rouen",
+      "addressCountry": "FR"
+    }
+  }
+}
