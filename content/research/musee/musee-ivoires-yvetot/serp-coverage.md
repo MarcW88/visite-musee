@@ -1,0 +1,7 @@
+# NEW_PAGE — Musée des Ivoires d'Yvetot
+Date: 2026-10-24. Route MUSEUM /musee/musee-ivoires-yvetot/, noindex preserved.
+Primary query : musée des Ivoires Yvetot horaires tarifs 2026. Secondary : collection Féron, ivoire Dieppe, œuvres Graillon, Eugène Blot, accessibilité.
+Sources: ville https://www.yvetot.fr/le-musee-des-ivoires/ ; office https://www.yvetot-normandie-tourisme.fr/a-voir-a-faire/patrimoine-culturel/musee-municipal-des-ivoires/ ; Réseau https://www.musees-normandie.fr/musees-normandie/musee-des-ivoires-d-yvetot/ ; Ministère https://pop.culture.gouv.fr/notice/museo/M0737 .
+CRITICAL FACT CONFLICT: ville and tourism office announce open and free 2026 (Oct Tue 9:30–12:30, Wed 9:30–12:30/14–17, Fri 14–17, Sat 9:30–12:30/14–17), while regional network states closed for renovation. No real-time open guarantee. Advise checking by phone 02 35 95 08 40 before trip. Historic PDF tariffs 2.45€, out of date compared 2026 free.
+Museum of France since 2003, collection donated 1929 by Louis Féron, around 300 ivories historically, more than 200 displayed described by network (not imply all currently displayed). Include other pottery, terracotta, paintings, library. Museum ivory collection historic; discuss historic animal material without commercializing.
+Data gaps: restoration and physical availability, exhibition current, complete wheelchair facilities. Information gain: conflict as main practical lead, not oversell.
