@@ -1,0 +1,18 @@
+{
+  "title": "Muséum Emmanuel-Liais à Cherbourg : fermeture et collections",
+  "description": "Le Muséum Emmanuel-Liais est fermé pour sécurité. Découvrez son histoire, ses collections et les horaires distincts du parc et des serres de Cherbourg.",
+  "canonical": "https://visite-musee.fr/musee/museum-emmanuel-liais-cherbourg/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Muséum Emmanuel-Liais",
+    "url": "https://www.cherbourg.fr/culture-et-loisirs/musees/museum-emmanuel-liais/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue de l'Abbaye",
+      "postalCode": "50100",
+      "addressLocality": "Cherbourg-en-Cotentin",
+      "addressCountry": "FR"
+    }
+  }
+}
