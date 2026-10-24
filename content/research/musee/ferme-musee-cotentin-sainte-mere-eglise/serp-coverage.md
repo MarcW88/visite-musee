@@ -1,0 +1,7 @@
+# SERP/intent — Ferme-musée du Cotentin
+2026-10-24 NEW_PAGE MUSEUM. Requêtes : ferme musée Cotentin Sainte-Mère-Église, horaires Toussaint 2026, tarifs enfant, ferme manoir, collections objets agricoles, animaux normands.
+Résultats inspectés : site officiel du Département (horaires, collections, visite libre), Réseau des musées de Normandie, dossier de presse 2026. Intent : sélectionner une sortie d'histoire rurale et préparer la visite, différencier musée agricole et musées du Débarquement.
+MUST : musée de France depuis 2014, près de 2700 objets selon source officielle actualisée (ancien listing réseau 2500), bâtiments ferme-manoir, travail laitier, cidre, mécanisation, animaux locaux, horaires selon saisons, adulte 6€, enfant 7-18 ans 3€, réduit 4€, pass famille 12/18€, ateliers 2-3€ en sus, samedi fermé, adresse, téléphone.
+SHOULD : accessibilité selon besoins, parking réservé, chiens en laisse, supports langues FR EN DE NL, événements 2026 sous réserve, groupes 15 personnes sur réservation.
+Information gain : distinguer animaux visibles/collection de musée; expliciter horaires des vacances d'automne 2026 et dernière vente une heure avant fermeture ; ne pas déduire pass famille du tarif individuel.
+Sources : https://ferme-musee.manche.fr/infos-pratiques/preparer-ma-visite/ ; https://ferme-musee.manche.fr/ferme-musee-du-cotentin/les-collections/ ; https://ferme-musee.manche.fr/visiter-la-ferme-musee/visite-libre-ferme-musee-du-cotentin/ ; https://www.musees-normandie.fr/musees-normandie/ferme-musee-du-cotentin/ . READY_FOR_BRIEF KEEP_NOINDEX.
