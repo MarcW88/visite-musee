@@ -1,0 +1,18 @@
+{
+  "title": "Mémorial de Falaise : civils dans la guerre, horaires et tarifs 2026",
+  "description": "Mémorial de Falaise : témoignages civils, Occupation, bombardements, exode et Reconstruction. Horaires de Toussaint 2026 et billets dès 8,50 €.",
+  "canonical": "https://visite-musee.fr/musee/memorial-civils-guerre-falaise/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Mémorial de Falaise – Les civils dans la guerre",
+    "url": "https://www.memorial-falaise.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Place Guillaume-le-Conquérant",
+      "postalCode": "14700",
+      "addressLocality": "Falaise",
+      "addressCountry": "FR"
+    }
+  }
+}
