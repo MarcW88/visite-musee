@@ -1,0 +1,3 @@
+# Post-write gap check — Moulin de pierre de Hauville
+2026-10-24 NEW_PAGE KEEP_NOINDEX. All MUST covered: dating 1258, roof/tower and milling gears, restoration 1981–1985, 2026 closing Sunday 25 October 14–18, ticket 3€, under16 free, non-PMR accessible, group options and contact. Explained conflicting 18h80 data and date in operator's two pages, no automatic milling claimed.
+SEO: museum-specific H1, title, meta, internal links Roumois; manual fact-check and style/humanizer/anti-slop reviews. No autonomous agent executions asserted. Photo rights not verified, therefore no external image integrated.
