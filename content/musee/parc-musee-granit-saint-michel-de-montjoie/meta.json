@@ -1,0 +1,20 @@
+{
+  "title": "Parc-musée du Granit à Saint-Michel-de-Montjoie : visite 2026",
+  "description": "Découvrez le Parc-musée du Granit : carrières du Bleu de Vire, outils, sculptures, parcours famille, entrée gratuite et horaires 2026.",
+  "canonical": "https://visite-musee.fr/musee/parc-musee-granit-saint-michel-de-montjoie/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Parc-musée du Granit",
+    "url": "https://www.ot-montsaintmichel.com/patrimoine-culturel/parc-musee-du-granit/",
+    "telephone": "+33 6 79 69 51 36",
+    "isAccessibleForFree": true,
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "55 impasse du Musée",
+      "postalCode": "50670",
+      "addressLocality": "Saint-Michel-de-Montjoie",
+      "addressCountry": "FR"
+    }
+  }
+}
