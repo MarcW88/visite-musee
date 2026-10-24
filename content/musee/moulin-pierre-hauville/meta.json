@@ -1,0 +1,19 @@
+{
+  "title": "Moulin de pierre de Hauville : visite, horaires et tarifs 2026",
+  "description": "Visiter le moulin à vent médiéval de Hauville : mécanismes de meunerie, restauration, dernière ouverture 2026, tarifs, accès et réservations.",
+  "canonical": "https://visite-musee.fr/musee/moulin-pierre-hauville/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Moulin de pierre de Hauville",
+    "url": "https://www.terresvivantes-normandie.fr/",
+    "telephone": "+33 2 32 56 57 32",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2 route du Moulin",
+      "postalCode": "27350",
+      "addressLocality": "Hauville",
+      "addressCountry": "FR"
+    }
+  }
+}
