@@ -1,0 +1,19 @@
+{
+  "title": "Musée du Sabot à La Haye-de-Routot : visite et tarifs 2026",
+  "description": "Découvrez le Musée du Sabot de La Haye-de-Routot : outils de sabotiers, plus de 300 paires, horaires 2026, billets et accès.",
+  "canonical": "https://visite-musee.fr/musee/musee-sabot-la-haye-de-routot/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée du Sabot",
+    "url": "https://www.terresvivantes-normandie.fr/infos-pratiques/",
+    "telephone": "+33 2 32 57 59 67",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "15 Grande Rue",
+      "postalCode": "27350",
+      "addressLocality": "La Haye-de-Routot",
+      "addressCountry": "FR"
+    }
+  }
+}
