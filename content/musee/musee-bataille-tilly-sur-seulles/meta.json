@@ -1,0 +1,18 @@
+{
+  "title": "Musée de la Bataille de Tilly-sur-Seulles : visite et horaires 2026",
+  "description": "À Tilly-sur-Seulles, découvrez les combats de juin 1944, les objets du musée et les conditions de visite 2026 dans la chapelle Notre-Dame-du-Val.",
+  "canonical": "https://visite-musee.fr/musee/musee-bataille-tilly-sur-seulles/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée de la Bataille de Tilly-sur-Seulles",
+    "url": "https://www.tilly1944.com/mus%C3%A9e/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "18 rue du 18 Juin 1944",
+      "postalCode": "14250",
+      "addressLocality": "Tilly-sur-Seulles",
+      "addressCountry": "FR"
+    }
+  }
+}
