@@ -1,0 +1,19 @@
+{
+  "title": "Château de Crèvecœur et Musée Schlumberger : visite 2026",
+  "description": "Château de Crèvecœur dans le Pays d'Auge : domaine médiéval, Musée Schlumberger, expositions, horaires et tarifs 2026, accès et conseils de visite.",
+  "canonical": "https://visite-musee.fr/musee/chateau-crevecoeur-musee-schlumberger/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Château de Crèvecœur – Musée Schlumberger",
+    "url": "https://www.chateaudecrevecoeur.com/fr/",
+    "telephone": "+33 2 31 63 02 45",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Route de Paris",
+      "postalCode": "14340",
+      "addressLocality": "Crèvecœur-en-Auge",
+      "addressCountry": "FR"
+    }
+  }
+}
