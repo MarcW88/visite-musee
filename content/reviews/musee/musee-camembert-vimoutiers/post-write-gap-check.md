@@ -1,0 +1,2 @@
+# Post-write gap check — Musée du Camembert
+2026-10-24 NEW_PAGE KEEP_NOINDEX. Identity and disambiguation Vimoutiers/Camembert COVERED. Production, artefacts, Marie Harel, labels COVERED. Official 2026 prices opening and separate tasting COVERED. Internal regional links COVERED. Editorial passes using museum workflow criteria content-and-copy, general-writing, humanizer, anti-ai-slop, without claiming autonomous sub-agent execution. CI and visual audit pending.

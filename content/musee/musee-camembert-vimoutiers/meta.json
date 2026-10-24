@@ -1,0 +1,18 @@
+{
+  "title": "Musée du Camembert Vimoutiers : horaires et tarifs 2026",
+  "description": "Musée du Camembert à Vimoutiers : fabrication du fromage AOP, collection d'étiquettes, dégustations, horaires 14 h–18 h et billets 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-camembert-vimoutiers/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée du Camembert",
+    "url": "https://www.museeducamembert.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "10 avenue du Général de Gaulle",
+      "postalCode": "61120",
+      "addressLocality": "Vimoutiers",
+      "addressCountry": "FR"
+    }
+  }
+}
