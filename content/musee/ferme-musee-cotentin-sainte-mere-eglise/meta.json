@@ -1,0 +1,19 @@
+{
+  "title": "Ferme-musée du Cotentin : visite et tarifs 2026",
+  "description": "À Sainte-Mère-Église, la Ferme-musée du Cotentin retrace la vie rurale : ferme-manoir, outils, animaux, horaires 2026, prix et accès.",
+  "canonical": "https://visite-musee.fr/musee/ferme-musee-cotentin-sainte-mere-eglise/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Ferme-musée du Cotentin",
+    "url": "https://ferme-musee.manche.fr/",
+    "telephone": "+33 2 33 95 40 20",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1 chemin de Beauvais",
+      "postalCode": "50480",
+      "addressLocality": "Sainte-Mère-Église",
+      "addressCountry": "FR"
+    }
+  }
+}
