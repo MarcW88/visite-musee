@@ -1,0 +1,18 @@
+{
+  "title": "Manufacture Bohin : visite des ateliers, tarifs et horaires 2026",
+  "description": "Manufacture Bohin à Saint-Sulpice-sur-Risle : production d'aiguilles et d'épingles, musée industriel, visites guidées ou libres et tarifs 2026.",
+  "canonical": "https://visite-musee.fr/musee/manufacture-bohin-saint-sulpice-sur-risle/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "La visite des ateliers BOHIN – Manufacture Bohin",
+    "url": "https://www.bohin.com/pages/organiser-sa-visite",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1 Le Bourg",
+      "postalCode": "61300",
+      "addressLocality": "Saint-Sulpice-sur-Risle",
+      "addressCountry": "FR"
+    }
+  }
+}

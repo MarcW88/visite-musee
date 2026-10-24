@@ -1,0 +1,2 @@
+# Post-write gap check — Manufacture Bohin
+2026-10-24 NEW_PAGE KEEP_NOINDEX. Entity/production/historical facts: COVERED. Actual living industrial workshop vs video holidays: COVERED. Separate guided and self-guided pricing: COVERED. Conflicting 6–17 year self-guided ticket 7 or 9: explicitly disclosed. Sources and regional linking: COVERED. Editorial passes by factual/entity/GEO/style/SEO criteria corresponding to museum-content-workflow, humanizer, general-writing, anti-ai-slop, without claiming autonomous sub-agent execution. CI and visual QA pending.

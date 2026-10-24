@@ -1,0 +1,6 @@
+# SERP / couverture SEO-GEO — Manufacture Bohin
+2026-10-24 NEW_PAGE. Intention Manufacture Bohin visite usine, ateliers aiguilles, tarifs, horaires 2026 Saint-Sulpice-sur-Risle. Sources : https://www.bohin.com/pages/organiser-sa-visite ; https://www.bohin.com/products/billet-la-visite-guidee-des-ateliers-bohin ; https://www.bohin.com/products/visites-libres ; https://www.bohin.com/pages/notre-histoire ; https://www.musees-normandie.fr/musees-normandie/la-visite-des-ateliers-bohin/ ; https://www.normandie-sud-tourisme.fr/patrimoine-culturel/manufacture-bohin/. SERP positions and volumes not measured.
+MUST musée et ateliers actifs, 1833, patrimoine Risle, 2500 m2, fabrication aiguilles et épingles: COVERED.
+MUST guidé 14h 15€ adulte / 10€ jeune, libre 14h30–18h 12€ adulte, saison 30 mars–30 octobre: COVERED.
+FACT CONFLICT child 6–17 free tour 9€ official checkout vs 7€ museum network and tourism: clearly flagged. No false certainty.
+SHOULD machine workers holidays, accessibility and dog restrictions, group versus individuals: COVERED. Information gain: living factory vs museum, how different products made, source pricing difference. READY_FOR_BRIEF.
