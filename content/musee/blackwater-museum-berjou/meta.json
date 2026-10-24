@@ -1,0 +1,19 @@
+{
+  "title": "Blackwater Museum Berjou : visite, horaires et tarifs 2026",
+  "description": "Visitez le Blackwater Museum 39/45 à Berjou : objets et témoignages de la Libération, horaires d'octobre 2026, prix et accessibilité.",
+  "canonical": "https://visite-musee.fr/musee/blackwater-museum-berjou/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Blackwater Museum 39/45 Berjou",
+    "url": "https://www.blackwaterbersjou3945.com/",
+    "telephone": "+33 6 66 62 94 09",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1 rue Les Cours",
+      "postalCode": "61430",
+      "addressLocality": "Berjou",
+      "addressCountry": "FR"
+    }
+  }
+}
