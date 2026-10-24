@@ -1,0 +1,18 @@
+{
+  "title": "Maison du Patrimoine Sourdin : horaires et visite gratuite 2026",
+  "description": "Maison du Patrimoine Sourdin à Villedieu-les-Poêles : cuivre, dentelle, meubles normands, six espaces interactifs, entrée gratuite et horaires 2026.",
+  "canonical": "https://visite-musee.fr/musee/maison-patrimoine-sourdin-villedieu/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Maison du Patrimoine Sourdin",
+    "url": "https://www.villedieu-les-poeles.fr/mes-loisirs/culture/maison-du-patrimoine-sourdin/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "35 place du Presbytère",
+      "postalCode": "50800",
+      "addressLocality": "Villedieu-les-Poêles-Rouffigny",
+      "addressCountry": "FR"
+    }
+  }
+}

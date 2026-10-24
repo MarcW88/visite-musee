@@ -1,0 +1,2 @@
+# Revue post-write — Maison du Patrimoine Sourdin
+2026-10-24 NEW_PAGE KEEP_NOINDEX. Identité/migration 2023-2024 : COVERED. Six sujets/collection et apprentissage : COVERED. Octobre 2026 lun-ven 10-12/14-18 entrée libre gratuite, groupes payants : COVERED. Accessibilité : COVERED. Maillage et anti-confusion : COVERED. Critères du museum-analysis-workflow et museum-content-workflow appliqués par revue éditoriale ; sous-agents externes non revendiqués. CI and browser QA pending.
