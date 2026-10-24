@@ -1,0 +1,2 @@
+# Post-write gap check — Granville art and history
+2026-10-24 NEW_PAGE KEEP_NOINDEX. Entity and historic building/collection: COVERED. 2015 indefinite public closure, no ticket/hours invented: COVERED. 2026 summer Maison du Projet and Halle au Blé completion ≠ museum reopening: COVERED. Distinct Dior and Anacréon: COVERED. Manual factual/entity/GEO/style/SEO and anti-ai-slop criteria applied; autonomous subagents not separately executed. GitHub CI and browser QA pending.

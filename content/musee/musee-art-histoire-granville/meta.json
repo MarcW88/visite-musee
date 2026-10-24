@@ -1,0 +1,18 @@
+{
+  "title": "Musée d’art et d’histoire de Granville : fermé en 2026",
+  "description": "Musée d’art et d’histoire de Granville : Logis du Roi, costumes, coiffes et mobilier normands. Fermé depuis 2015, pas de réouverture annoncée en 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-art-histoire-granville/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée d’art et d’histoire de Granville",
+    "url": "https://museesdegranville.fr/mahg/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2 rue Lecarpentier",
+      "postalCode": "50400",
+      "addressLocality": "Granville",
+      "addressCountry": "FR"
+    }
+  }
+}
