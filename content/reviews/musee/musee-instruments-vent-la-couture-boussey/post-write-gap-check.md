@@ -1,0 +1,2 @@
+# Post-write gap review — Instruments à vent
+NEW_PAGE 2026-10-24 KEEP_NOINDEX. Facts and entity checked institution sources. 25 Sep closure clearly supersedes general October season. Free admission conditional, side activities distinguished. historical collections and industrial evolution: COVERED. Accessible galleries vs non adapted WC: COVERED. Internal links: COVERED. Editorial passes based on museum-analysis-workflow and museum-content-workflow criteria, no autonomous subagent claims. CI/browser pending.
