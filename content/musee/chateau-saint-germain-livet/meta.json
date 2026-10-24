@@ -1,0 +1,19 @@
+{
+  "title": "Château-Musée de Saint-Germain-de-Livet : fermeture et visite",
+  "description": "Le Château-Musée de Saint-Germain-de-Livet est fermé en 2026. Découvrez son architecture, les collections Riesener et la réouverture annoncée en mai 2027.",
+  "canonical": "https://visite-musee.fr/musee/chateau-saint-germain-livet/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Château-Musée de Saint-Germain-de-Livet",
+    "url": "https://www.lisieux-normandie.fr/culture-loisirs/culture/reseau-des-musees/chateau-musee-de-saint-germain-de-livet/",
+    "telephone": "+33 2 31 62 07 70",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "D268",
+      "postalCode": "14100",
+      "addressLocality": "Saint-Germain-de-Livet",
+      "addressCountry": "FR"
+    }
+  }
+}
