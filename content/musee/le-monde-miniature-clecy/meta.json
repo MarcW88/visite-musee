@@ -1,0 +1,19 @@
+{
+  "title": "Le Monde Miniature à Clécy : trains, visite et tarifs 2026",
+  "description": "Découvrez Le Monde Miniature à Clécy : trains animés, maquettes, petit train extérieur et fours à chaux. Tarifs, horaires de la saison 2026 et conseils.",
+  "canonical": "https://visite-musee.fr/musee/le-monde-miniature-clecy/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "TouristAttraction",
+    "name": "Le Monde Miniature - Clécy",
+    "url": "https://www.lemondeminiature.com/",
+    "telephone": "+33 2 31 69 07 13",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "25 rue d'Ermington",
+      "postalCode": "14570",
+      "addressLocality": "Clécy",
+      "addressCountry": "FR"
+    }
+  }
+}
