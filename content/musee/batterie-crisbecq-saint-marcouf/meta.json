@@ -1,0 +1,18 @@
+{
+  "title": "Batterie de Crisbecq : horaires et tarifs 2026",
+  "description": "Visitez la Batterie de Crisbecq à Saint-Marcouf : blockhaus du Débarquement, tranchées, histoire de juin 1944, ouverture et prix en 2026.",
+  "canonical": "https://visite-musee.fr/musee/batterie-crisbecq-saint-marcouf/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Batterie de Crisbecq",
+    "url": "https://www.batteriedecrisbecq.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Route de Crisbecq",
+      "postalCode": "50310",
+      "addressLocality": "Saint-Marcouf",
+      "addressCountry": "FR"
+    }
+  }
+}

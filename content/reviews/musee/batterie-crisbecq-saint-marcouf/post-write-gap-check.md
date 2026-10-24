@@ -1,0 +1,2 @@
+# Post-write gap check — Batterie Crisbecq
+2026-10-24 NEW_PAGE KEEP_NOINDEX. MUST identité et contexte militaire: COVERED. MUST horaire et tarifs 2026 sourcés tourisme et site: COVERED. MUST distinction 22 ouvrages, rééquipements: COVERED. SHOULD accès, maillage et saison événementielle: COVERED. Relecture humaine avec critères content-and-copy, humanizer, general-writing, anti-ai-slop. Exécution autonome de sous-agents non affirmée. Éditorial prêt, CI/visuel à confirmer.
