@@ -1,0 +1,20 @@
+{
+  "title": "Espace-musée Charles Léandre à Condé : visite gratuite et horaires",
+  "description": "À Condé-en-Normandie, découvrez l'Espace-musée Charles Léandre : peintures, caricatures, galerie Garrido, maquette de Condé et horaires 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-charles-leandre-conde-en-normandie/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Espace-musée Charles Léandre",
+    "url": "https://latelier-conde.fr/musee/",
+    "telephone": "+33 2 31 69 41 16",
+    "isAccessibleForFree": true,
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "9-11 rue Saint-Martin",
+      "postalCode": "14110",
+      "addressLocality": "Condé-en-Normandie",
+      "addressCountry": "FR"
+    }
+  }
+}
