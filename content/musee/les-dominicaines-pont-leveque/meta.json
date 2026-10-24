@@ -1,0 +1,19 @@
+{
+  "title": "Les Dominicaines à Pont-l’Évêque : exposition et tarifs 2026",
+  "description": "Visitez Les Dominicaines à Pont-l'Évêque : centre d'art, artothèque, exposition Cambrousse jusqu'en décembre 2026, horaires et tarifs.",
+  "canonical": "https://visite-musee.fr/musee/les-dominicaines-pont-leveque/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "ArtGallery",
+    "name": "Les Dominicaines, centre d'art et artothèque",
+    "url": "https://www.lesdominicaines.fr/",
+    "telephone": "+33 2 31 64 89 33",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Place du Tribunal",
+      "postalCode": "14130",
+      "addressLocality": "Pont-l'Évêque",
+      "addressCountry": "FR"
+    }
+  }
+}
