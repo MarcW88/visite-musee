@@ -1,0 +1,19 @@
+{
+  "title": "Musée du Bocage normand Saint-Lô : fermé pour travaux en 2026",
+  "description": "Le Musée du Bocage normand à la ferme de Boisjugan est fermé pour travaux en octobre 2026. Découvrez ses collections agricoles et les contacts officiels.",
+  "canonical": "https://visite-musee.fr/musee/musee-bocage-normand-saint-lo/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée du Bocage normand",
+    "url": "https://www.saint-lo.fr/decouvrir-bouger/culture/musee-du-bocage-normand",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ferme de Boisjugan, boulevard de la Commune",
+      "postalCode": "50000",
+      "addressLocality": "Saint-Lô",
+      "addressCountry": "FR"
+    },
+    "sameAs": "https://pop.culture.gouv.fr/notice/museo/M0686"
+  }
+}

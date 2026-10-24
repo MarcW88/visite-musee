@@ -1,0 +1,2 @@
+# Post-write review — Musée du Bocage normand
+2026-10-24 NEW_PAGE KEEP_NOINDEX. MUST entité/statut fermé pour travaux : COVERED. MUST contexte historique sources institutionnelles : COVERED. MUST chiffres collection/exposition correctement distingués : COVERED. SHOULD alternative de visite et contact : COVERED. Relecture factualité / intent / GEO / content-and-copy / humanizer / anti-ai-slop réalisée sur critères du workflow ; pas de revendication d'exécution autonome de sous-agents. Browser QA and CI pending.
