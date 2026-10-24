@@ -1,0 +1,19 @@
+{
+  "title": "Musée de la Poëslerie à Villedieu : cuivre, visite et accès",
+  "description": "Découvrir la Cour du Foyer et le Musée de la Poëslerie à Villedieu-les-Poêles : dinanderie, ateliers anciens et informations pratiques à vérifier.",
+  "canonical": "https://visite-musee.fr/musee/musee-poeslerie-villedieu/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée de la Poëslerie",
+    "url": "https://museesvilledieu.sitew.fr/Nos_musees.C.htm",
+    "telephone": "+33 2 33 69 33 44",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "25 rue du Général Huard, cour du Foyer",
+      "postalCode": "50800",
+      "addressLocality": "Villedieu-les-Poêles-Rouffigny",
+      "addressCountry": "FR"
+    }
+  }
+}
