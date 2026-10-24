@@ -1,0 +1,19 @@
+{
+  "title": "Musée de l’Écorché d’Anatomie au Neubourg : visite 2026",
+  "description": "Musée de l’Écorché d’Anatomie au Neubourg : modèles démontables du docteur Auzoux, collections, exposition automne 2026, horaires, tarifs et accès.",
+  "canonical": "https://visite-musee.fr/musee/musee-ecorche-anatomie-neubourg/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée de l’Écorché d’Anatomie",
+    "url": "https://www.leneubourg.fr/culture-patrimoine/musees/musee-danatomie/",
+    "telephone": "+33 2 32 35 93 95",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "54 avenue de la Libération",
+      "postalCode": "27110",
+      "addressLocality": "Le Neubourg",
+      "addressCountry": "FR"
+    }
+  }
+}
