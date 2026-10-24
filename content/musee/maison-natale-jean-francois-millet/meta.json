@@ -1,0 +1,19 @@
+{
+  "title": "Maison natale Jean-François Millet : visite et tarifs 2026",
+  "description": "Visiter la maison natale de Jean-François Millet à Gruchy : histoire du peintre, collections, horaires des vacances d’automne 2026 et tarifs.",
+  "canonical": "https://visite-musee.fr/musee/maison-natale-jean-francois-millet/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Maison natale Jean-François Millet",
+    "url": "https://www.manche.fr/demarches/sortir-bouger/reseau-des-sites-et-musees/maison-natale-jean-francois-millet/",
+    "telephone": "+33 2 33 01 81 91",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "19 hameau de Gruchy",
+      "postalCode": "50440",
+      "addressLocality": "La Hague",
+      "addressCountry": "FR"
+    }
+  }
+}
