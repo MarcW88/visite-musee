@@ -1,0 +1,6 @@
+# NEW_PAGE — Musée du Sabot La Haye-de-Routot
+2026-10-24. MUSEUM intent; SEO query musée du sabot La Haye de Routot, horaire dimanche octobre 2026, prix entrée, collection sabotier.
+Sources : association gestionnaire https://www.terresvivantes-normandie.fr/infos-pratiques/; https://www.terresvivantes-normandie.fr/ ; https://www.musees-normandie.fr/musees-normandie/musee-du-sabot/ ; https://www.roumoiseine.fr/sejourner-et-visiter/visiter/latelier-du-sabot/ ; https://www.normandie-tourisme.fr/sites-lieux-de-visites/musee-du-sabot-association-roumois-terres-vivantes-en-normandie/ .
+Facts : grande rue / 15 Grande Rue, 27350 La Haye-de-Routot ; collection 300 à 350 paires selon sources (noter au moins 300), sabot-bateau, sabot-violon, outils manuels et machines ; film vidéo métier ; pas de sabotier exerçant dans la région selon Normandie Tourisme, donc pas promettre démonstration en continu ; saison mars à fin novembre 2026, octobre novembre dimanches 14–18h ; adultes 3 €, <16 ans gratuit, Pass'Musées réseau 9€ ; contact 02 32 57 59 67 ; groupes sur demande.
+Information gain : distinction musée du sabot et four à pain/chaumière aux orties/jardin voisins ; tarifs du pass et variations horaires anciennes ; source association prioritaire.
+Data gaps : accessibilité détaillée et animation le jour de visite, ne pas inférer. READY_FOR_BRIEF KEEP_NOINDEX.
