@@ -1,0 +1,6 @@
+# PUBLISH_REVIEW — Moulin de pierre de Hauville
+2026-10-24. Verdict FAIL — KEEP_NOINDEX (CI, deployment and Playwright not demonstrated).
+NEW_PAGE: research, SERP intent, brief, body, meta JSON-LD and post-write review published. Primary sources https://www.terresvivantes-normandie.fr/ , https://www.terresvivantes-normandie.fr/infos-pratiques/ , https://www.roumoiseine.fr/sejourner-et-visiter/visiter/le-moulin-de-hauville/ , https://www.musees-normandie.fr/musees-normandie/moulin-a-vent/ .
+Fact check: first attested 1258, windmill restored 1981–1985, mechanism, 2026 final Sunday October 25, usual 14h–18h, 3€ adult/free under16, site PMR inaccessible. Contradictions/typos in operator hours noted, no live operation guaranteed. Access and related sites Maison du Lin, Musée du Sabot.
+Editorial/content/SEO/GEO/humanizer/anti-slop checks done manually, no claim of autonomous skill execution. No right-cleared photo embedded.
+Publication main generated commit f60f9bf6cfd99a8ddf0e634620ee474ab478d8b4. Readback: individual, regional, directory HTML contain slug and noindex,follow. GitHub statuses [] and PR-only runs [] do not prove CI pass. Local build, HTTP public deployment, Playwright desktop/mobile unverified. No noindex removed. Request human approval before proceeding.
