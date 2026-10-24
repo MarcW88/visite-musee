@@ -1,0 +1,19 @@
+{
+  "title": "Musée régional du Cidre Valognes : fermé, réouverture avril 2027",
+  "description": "Musée régional du Cidre à Valognes : pressoirs, broyeurs et histoire du cidre normand. Fermé pour travaux en 2026, réouverture annoncée en avril 2027.",
+  "canonical": "https://visite-musee.fr/musee/musee-regional-cidre-valognes/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée régional du Cidre et du Calvados",
+    "url": "https://www.valognes.fr/decouvrir-valognes/musee-regional-cidre/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue du Petit-Versailles",
+      "postalCode": "50700",
+      "addressLocality": "Valognes",
+      "addressCountry": "FR"
+    },
+    "sameAs": "https://pop.culture.gouv.fr/notice/museo/M0691"
+  }
+}

@@ -1,0 +1,2 @@
+# Post-write gap review — Valognes cider
+2026-10-24 NEW_PAGE KEEP_NOINDEX. Historic collections and protected architecture COVERED. Current 2026 closure and tentative April 2027 reopening accurately separated from open visit hours COVERED. No invented ticket price, alternative museums and region internal links COVERED. Manual editorial factual/entity/GEO/style and SEO/humanizer/anti-ai-slop criteria applied against museum workflows; autonomous subagents not independently invoked. CI and browser QA to verify.
