@@ -1,0 +1,19 @@
+{
+  "title": "Musée des Automates de Falaise : horaires et visite 2026",
+  "description": "Découvrez les 300 automates du musée de Falaise, ses vitrines parisiennes animées et ses horaires et tarifs pendant les vacances d'automne 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-des-automates-falaise/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée des Automates de Falaise",
+    "url": "https://www.automates-avenue.fr/",
+    "telephone": "+33 2 31 90 02 43",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Boulevard de la Libération",
+      "postalCode": "14700",
+      "addressLocality": "Falaise",
+      "addressCountry": "FR"
+    }
+  }
+}
