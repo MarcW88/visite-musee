@@ -1,0 +1,18 @@
+{
+  "title": "Musée de la Percée du Bocage : horaires et tarifs 2026",
+  "description": "Musée de la Percée du Bocage à Saint-Martin-des-Besaces : opération Bluecoat, visite son et lumière, dates précises d'octobre 2026 et prix.",
+  "canonical": "https://visite-musee.fr/musee/musee-percee-bocage-saint-martin-des-besaces/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée de la Percée du Bocage",
+    "url": "https://laperceedubocage.fr/index.php/fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "9 rue du 19 Mars 1962",
+      "postalCode": "14350",
+      "addressLocality": "Souleuvre-en-Bocage",
+      "addressCountry": "FR"
+    }
+  }
+}

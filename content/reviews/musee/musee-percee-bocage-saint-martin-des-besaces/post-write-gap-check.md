@@ -1,0 +1,2 @@
+# Post-write gap — Percée du Bocage
+2026-10-24 NEW_PAGE KEEP_NOINDEX. Place and factual historical timeline COVERED. Eight rooms, 45-minute presentation, event-specific dates Oct/Nov 2026 COVERED. Tariffs and new address COVERED. Museum navigation and geographic disambiguation COVERED. Editorial factual/entity/GEO/style/SEO/humanization review conducted against workflow criteria; no claim of autonomous subagent execution. CI and browser review pending.
