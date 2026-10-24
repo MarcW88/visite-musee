@@ -1,0 +1,3 @@
+# Post-write gap check — Blackwater Museum 39/45 Berjou
+2026-10-24 NEW_PAGE KEEP_NOINDEX. Covered MUST: Berjou fighting 15–17 Aug 1944, historical traces and donated artefacts, opened 2011, opening Apr–Oct 2026 Tue–Sun, 6.50 adult / 4.50 aged 10–15 / under 10 free, last admission 30min, ~1h visit, contact and PMR. Covered SHOULD: 6.5km outdoor trail distinct from museum PMR access, nearby Musée de la Percée du Bocage.
+Fact-check against museum and tourism primary sources; manual copy, humanizer, general-writing, anti-ai-slop and SEO reviews. No licensed photo provided and none embedded. CI/Playwright verification required.
