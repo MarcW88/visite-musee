@@ -1,0 +1,19 @@
+{
+  "title": "Musée Nicolas Poussin Les Andelys : horaires et tarifs 2026",
+  "description": "Musée Nicolas Poussin aux Andelys : Coriolan supplié par sa famille, collections archéologiques et mobilier ancien, saison 2026 et billet adulte 4 €.",
+  "canonical": "https://visite-musee.fr/musee/musee-nicolas-poussin-les-andelys/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée Nicolas Poussin",
+    "url": "https://www.ville-andelys.fr/nicolas-poussin/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2 rue Sainte-Clotilde",
+      "postalCode": "27700",
+      "addressLocality": "Les Andelys",
+      "addressCountry": "FR"
+    },
+    "sameAs": "https://pop.culture.gouv.fr/notice/museo/M0705"
+  }
+}

@@ -1,0 +1,2 @@
+# Post-write review — Nicolas Poussin
+2026-10-24 NEW_PAGE KEEP_NOINDEX. Collections and entity crosschecked city, regional network, national museum registry. 2026 calendar corrected vs municipal stale 2025 content. Dates of 2026 temporary exhibitions and monetary prices sourced. Internal links covered. Editorial factual/entity/GEO/style review per museum workflow and humanizer/general-writing/anti-ai-slop criteria; no autonomous subagent claim. Build and visual browser QA to verify.
