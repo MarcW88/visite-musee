@@ -1,0 +1,20 @@
+{
+  "title": "Espace muséal de la Poterie du Mesnil de Bavent : visite 2026",
+  "description": "Découvrez l'espace muséal de la Poterie du Mesnil de Bavent : épis de faîtage, céramiques et savoir-faire depuis 1842. Accès libre, horaires et ateliers.",
+  "canonical": "https://visite-musee.fr/musee/espace-museal-poterie-mesnil-bavent/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Espace muséal de la Poterie du Mesnil de Bavent",
+    "url": "https://www.normandie-tourisme.fr/sites-lieux-de-visites/la-poterie-du-mesnil-de-bavent/",
+    "telephone": "+33 2 31 84 82 41",
+    "isAccessibleForFree": true,
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1 Côte du Mesnil, RD 513",
+      "postalCode": "14860",
+      "addressLocality": "Bavent",
+      "addressCountry": "FR"
+    }
+  }
+}
