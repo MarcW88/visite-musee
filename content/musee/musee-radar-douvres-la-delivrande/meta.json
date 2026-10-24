@@ -1,0 +1,19 @@
+{
+  "title": "Station Radar 44 : horaires, tarifs et visite du musée",
+  "description": "Station Radar 44 à Douvres-la-Délivrande : visite des bunkers, poste de commandement, histoire des radars du Débarquement, horaires et tarifs 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-radar-douvres-la-delivrande/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Station Radar 44 – Musée franco-allemand du Radar",
+    "url": "https://www.musee-radar.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Route de Bény – RD 83",
+      "postalCode": "14440",
+      "addressLocality": "Douvres-la-Délivrande",
+      "addressCountry": "FR"
+    },
+    "sameAs": "https://pop.culture.gouv.fr/notice/merimee/PA14000108"
+  }
+}

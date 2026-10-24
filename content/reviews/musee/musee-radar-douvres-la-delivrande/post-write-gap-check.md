@@ -1,0 +1,2 @@
+# Post-write coverage and factuality — Radar 44
+2026-10-24 NEW_PAGE. Entity/address/collection/historical context COVERED. 2026 prices, hours, Monday Toussaint nuance, winter closure, reservation and accessibility COVERED. Distinction station radar from artillery battery COVERED. Internal links COVERED. Editorial pass using the criteria of museum-content-workflow / content-and-copy / humanizer / general-writing / anti-ai-slop; no false claim of autonomous subagents. Quantitative SERP data not fabricated. CI/browser to be verified. KEEP_NOINDEX.
