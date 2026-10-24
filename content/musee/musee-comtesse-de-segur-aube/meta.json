@@ -1,0 +1,19 @@
+{
+  "title": "Musée de la Comtesse de Ségur à Aube : visite et tarifs 2026",
+  "description": "Au musée de la Comtesse de Ségur à Aube, découvrez Sophie Rostopchine, ses romans et les collections. Horaires 2026, tarifs et visites hors saison.",
+  "canonical": "https://visite-musee.fr/musee/musee-comtesse-de-segur-aube/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée de la Comtesse de Ségur",
+    "url": "https://www.musee-comtessedesegur.fr/horaires.html",
+    "telephone": "+33 2 33 24 60 09",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3 rue de l'Abbé Roger Derry",
+      "postalCode": "61270",
+      "addressLocality": "Aube",
+      "addressCountry": "FR"
+    }
+  }
+}
