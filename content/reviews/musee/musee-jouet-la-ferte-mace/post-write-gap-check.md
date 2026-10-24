@@ -1,0 +1,2 @@
+# Post-write coverage — Musée du Jouet La Ferté-Macé
+2026-10-24 NEW_PAGE KEEP_NOINDEX. Entité/adresse/statut institutionnel : COVERED. Patrimoine et histoire des collections : COVERED. Tarifs 2026, Toussaint 2026 : COVERED, mairie + réseau. Limites accessibilité et calendrier Noël : prudence respectée. Maillage Normandie : COVERED. Relecture selon critères museum-analysis-workflow / museum-content-workflow, content-and-copy, humanizer, general-writing, anti-ai-slop. Exécution autonome des sous-agents non revendiquée. CI et QA visuelle à contrôler.

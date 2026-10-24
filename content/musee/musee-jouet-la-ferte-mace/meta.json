@@ -1,0 +1,19 @@
+{
+  "title": "Musée du Jouet La Ferté-Macé : horaires et tarifs 2026",
+  "description": "Musée du Jouet de La Ferté-Macé : poupées, trains et jouets anciens, jeux en famille, horaires de Toussaint 2026, entrée adulte 3 €.",
+  "canonical": "https://visite-musee.fr/musee/musee-jouet-la-ferte-mace/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée du Jouet de La Ferté-Macé",
+    "url": "https://lafertemace.fr/musee-du-jouet-ouvertures-2026/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "32 rue de la Victoire",
+      "postalCode": "61600",
+      "addressLocality": "La Ferté-Macé",
+      "addressCountry": "FR"
+    },
+    "sameAs": "https://pop.culture.gouv.fr/notice/museo/M0697"
+  }
+}
