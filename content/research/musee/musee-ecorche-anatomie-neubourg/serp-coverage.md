@@ -1,0 +1,8 @@
+# NEW_PAGE / Analyse SEO-GEO — Musée de l’Écorché d’Anatomie
+Date 2026-10-24. Owner MUSEUM. Requête : musée écorché anatomie Neubourg ; alternatives musée Auzoux, modèles anatomiques démontables, visite horaire tarif, exposition 2026.
+SERP consultée : mairie du Neubourg (histoire et programmation), Réseau des musées de Normandie (tarifs, accès, collections), office Pays du Neubourg, Normandie Tourisme.
+MUST : Dr Louis Thomas Jérôme Auzoux (1797), prototypes 1824, modèles clastiques de carton pâte, moulage en série et assemblage numéroté ; collection humaine (grand écorché 1894 restauré 2016), animale et botanique ; musée fondé 1995 ; tarifs adulte 6 €, 10–18 ans 5 €, moins de 10 ans gratuits, du mercredi au dimanche 14–18h ; musée accessible PMR sauf salle expo temporaire à l'étage, sans ascenseur ; exposition « La nature en mouvement » du 24 octobre au 6 décembre 2026, entrée gratuite à cette exposition.
+SHOULD : parking face au musée, groupes min. 10 tarif 4/3€ sur réservation, contact 02 32 35 93 95 ; images non récupérées, ne pas afficher artefact non licencié.
+GEO entities : Auzoux, Saint-Aubin-d'Écrosville, le Neubourg, anatomie clastique, carton pâte, végétaux, Musée Écorché.
+Information gain : différencier entrée payante collection / exposition temporaire gratuite et expliquer fabrication pour comprendre sa singularité. Source de prix et collections https://www.musees-normandie.fr/musees-normandie/musee-de-l-ecorche-d-anatomie/ ; mairie https://www.leneubourg.fr/culture-patrimoine/musees/musee-danatomie/ ; expo https://www.leneubourg.fr/votre-ville/agenda/exposition-au-musee-de-lecorche-danatomie/exposition-au-musee-de-lecorche-danatomie-2026-10-24/ .
+READY_FOR_BRIEF KEEP_NOINDEX.
