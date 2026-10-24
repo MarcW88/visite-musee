@@ -8,6 +8,22 @@ if(museumSet.size!==126)errors.push('Taxonomie: attendu 126 identifiants de mus�
 for(const item of taxonomy.museums){if(!/^[a-z0-9-]+$/.test(item.slug))errors.push('Slug mal formé '+item.slug);for(const theme of item.themes){if(!taxonomy.themeSlugs.includes(theme))errors.push('Thème inconnu '+theme+' '+item.slug)}}
 for(const theme of taxonomy.themeSlugs){const html=readPage('themes/'+theme);const links=[...html.matchAll(/href="\.\.\/\.\.\/musee\/([^/]+)\/"/g)].map(m=>m[1]);const expected=taxonomy.museums.filter(item=>item.themes.includes(theme)).map(item=>item.slug);if(links.length!==expected.length||new Set(links).size!==links.length||expected.some(slug=>!links.includes(slug)))errors.push('Thème: incohérence des liens '+theme);if(!/noindex,follow/.test(html))errors.push('Thème: noindex absent '+theme)}
 if(!/noindex,follow/.test(readPage('themes')))errors.push('Hub Thèmes: noindex absent');
+
+// City/department classification and destinations checks. Duplicate identities are excluded from new shortlists.
+for(const entry of taxonomy.museums.filter(m=>!m.duplicate_candidate_of)){
+ for(const [field,route] of [['ville','musees'],['departement','departements']]){
+  if(!entry[field])continue;
+  const file=path.join(root,route,entry[field],'index.html');
+  if(!fs.existsSync(file)){errors.push('Destination sans page: '+route+'/'+entry[field]);continue}
+  const html=fs.readFileSync(file,'utf8');
+  if(!html.includes('href="../../musee/'+entry.slug+'/'))errors.push('Destination sans lien: '+route+'/'+entry[field]+' -> '+entry.slug);
+  if(!/noindex,follow/.test(html))errors.push('Destination sans noindex: '+route+'/'+entry[field]);
+ }
+}
+for(const region of [...new Set(taxonomy.museums.map(m=>m.region))]){
+ const file=path.join(root,'regions',region,'index.html');
+ if(!fs.existsSync(file))errors.push('Région absente: '+region);
+}
 const directoryHtml = readPage('musees');
 const regionalSlugs = {
   'hauts-de-france': ['louvre-lens','palais-beaux-arts-lille','musee-picardie','musee-matisse-cateau','la-piscine-roubaix','musee-conde-chantilly','musee-flandre-cassel','historial-grande-guerre-peronne','familistere-guise','cite-langue-francaise'],
