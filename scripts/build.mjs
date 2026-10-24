@@ -3,7 +3,7 @@ const root=path.resolve(import.meta.dirname,'..');
 const pages={
   'musees':['paris','lyon','marseille','toulouse','bordeaux','lille','nantes','strasbourg','montpellier','grenoble','angers','saint-etienne','troyes','saint-malo','chambery','rouen','caen','le-havre','bayeux','honfleur','granville','cherbourg','falaise','villedieu-les-poeles','saint-lo','ouistreham','azeville','pont-leveque','dieppe','evreux','coutances','alencon','argentan','lisieux','trouville-sur-mer','cabourg','fecamp','vernon','saint-pierre-benouville','clecy','bavent','saint-michel-de-montjoie','conde-en-normandie','berjou','routot','hauville','la-couture-boussey'],
   'regions':['ile-de-france','auvergne-rhone-alpes','hauts-de-france','occitanie','nouvelle-aquitaine','bretagne','normandie','grand-est','bourgogne-franche-comte','centre-val-de-loire','pays-de-la-loire','provence-alpes-cote-d-azur','corse'],
-  'departements':['nord','rhone','gironde','seine-maritime','hauts-de-seine','calvados','manche','orne','eure'],
+  'departements':['nord','rhone','gironde','seine-maritime','hauts-de-seine','calvados','manche','orne','eure','paris','isere'],
   'themes':['musees-beaux-arts','musees-art-moderne-contemporain','musees-histoire','musees-sciences','musees-histoire-naturelle','musees-archeologie','musees-arts-decoratifs','musees-automobile','musees-mode','musees-insolites'],
   'visiter':['musees-gratuits','musees-en-famille','musees-avec-enfants','musees-accessibles','visites-guidees','musees-ouverts-le-dimanche','musees-ouverts-le-lundi'],
   'expositions':['paris','lyon','marseille'],
