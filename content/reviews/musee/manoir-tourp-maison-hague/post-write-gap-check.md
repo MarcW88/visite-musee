@@ -1,0 +1,2 @@
+# Post-write gap — Tourp
+2026-10-24 NEW_PAGE KEEP_NOINDEX. Entity/historical manor and collections: COVERED; schedule 2026 refreshed against Géoparc and tourism vs stale 2025 website: COVERED. Prices clear free temporary exhibitions vs paid 8€ show: COVERED. Accessibility, amenities and regional links: COVERED. Manual factual, entity, GEO, SEO, style and anti-ai-slop/humanizer/general-writing criteria applied against museum workflows; autonomous subagents not independently executed. CI/browser pending.

@@ -1,0 +1,18 @@
+{
+  "title": "Le Tourp Maison de la Hague : horaires, expositions et tarifs 2026",
+  "description": "Le Tourp, Maison de la Hague : manoir du XVIe siècle, expositions gratuites, parcours immersif à 8 €, horaires Toussaint 2026 et informations pratiques.",
+  "canonical": "https://visite-musee.fr/musee/manoir-tourp-maison-hague/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Le Tourp, Maison de la Hague",
+    "url": "https://letourp.com/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Manoir du Tourp, Omonville-la-Rogue",
+      "postalCode": "50440",
+      "addressLocality": "La Hague",
+      "addressCountry": "FR"
+    }
+  }
+}
