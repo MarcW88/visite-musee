@@ -1,8 +1,8 @@
 {
-  "version": 1,
+  "version": 2,
   "updated_at": "2026-10-24",
   "scope": "126 museum slugs in scripts/build.mjs",
-  "method": "Curated slug-based candidate tags; not proof from a museum source. Conservatively exclude unresolved categories and empty categories. Manual review required before SEO indexation.",
+  "method": "Geographic mappings assigned only where locality established; all other fields null pending source-level fact-check. Thematic labels are editorial candidates, not independently fact-checked facts; manual verification needed before indexation.",
   "themeSlugs": [
     "musees-beaux-arts",
     "musees-art-moderne-contemporain",
@@ -19,57 +19,64 @@
     {
       "slug": "louvre",
       "region": "ile-de-france",
-      "departement": null,
-      "ville": null,
+      "departement": "paris",
+      "ville": "paris",
       "themes": [
         "musees-beaux-arts"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "orsay",
       "region": "ile-de-france",
-      "departement": null,
-      "ville": null,
+      "departement": "paris",
+      "ville": "paris",
       "themes": [
         "musees-beaux-arts"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "fondation-louis-vuitton",
       "region": "ile-de-france",
-      "departement": null,
-      "ville": null,
+      "departement": "paris",
+      "ville": "paris",
       "themes": [
         "musees-art-moderne-contemporain"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-grevin",
       "region": "ile-de-france",
-      "departement": null,
-      "ville": null,
-      "themes": [],
+      "departement": "paris",
+      "ville": "paris",
+      "themes": [
+        "musees-insolites"
+      ],
       "visit_intents": [],
-      "verification": "classification-pending",
-      "notes": "À classer après lecture de la fiche et vérification des collections."
+      "verification": "editorial-specific-review",
+      "notes": "À classer après lecture de la fiche et vérification des collections.",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-confluences",
       "region": "auvergne-rhone-alpes",
-      "departement": null,
-      "ville": null,
+      "departement": "rhone",
+      "ville": "lyon",
       "themes": [
         "musees-sciences",
         "musees-histoire-naturelle"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "louvre-lens",
@@ -85,34 +92,41 @@
     {
       "slug": "cernuschi",
       "region": "ile-de-france",
-      "departement": null,
-      "ville": null,
-      "themes": [],
+      "departement": "paris",
+      "ville": "paris",
+      "themes": [
+        "musees-beaux-arts"
+      ],
       "visit_intents": [],
-      "verification": "classification-pending",
-      "notes": "À classer après lecture de la fiche et vérification des collections."
+      "verification": "editorial-specific-review",
+      "notes": "À classer après lecture de la fiche et vérification des collections.",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-de-l-homme",
       "region": "ile-de-france",
-      "departement": null,
-      "ville": null,
+      "departement": "paris",
+      "ville": "paris",
       "themes": [
         "musees-sciences",
         "musees-histoire-naturelle"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "bourdelle",
       "region": "ile-de-france",
-      "departement": null,
-      "ville": null,
-      "themes": [],
+      "departement": "paris",
+      "ville": "paris",
+      "themes": [
+        "musees-beaux-arts"
+      ],
       "visit_intents": [],
-      "verification": "classification-pending",
-      "notes": "À classer après lecture de la fiche et vérification des collections."
+      "verification": "editorial-specific-review",
+      "notes": "À classer après lecture de la fiche et vérification des collections.",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "granet",
@@ -139,80 +153,87 @@
     {
       "slug": "musee-de-grenoble",
       "region": "auvergne-rhone-alpes",
-      "departement": null,
-      "ville": null,
+      "departement": "isere",
+      "ville": "grenoble",
       "themes": [
         "musees-beaux-arts"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "christian-dior-granville",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "manche",
+      "ville": "granville",
       "themes": [
         "musees-arts-decoratifs",
         "musees-mode"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "arts-decoratifs",
       "region": "ile-de-france",
-      "departement": null,
-      "ville": null,
+      "departement": "paris",
+      "ville": "paris",
       "themes": [
         "musees-arts-decoratifs"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-carnavalet",
       "region": "ile-de-france",
-      "departement": null,
-      "ville": null,
+      "departement": "paris",
+      "ville": "paris",
       "themes": [
         "musees-histoire"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "petit-palais",
       "region": "ile-de-france",
-      "departement": null,
-      "ville": null,
+      "departement": "paris",
+      "ville": "paris",
       "themes": [
         "musees-beaux-arts"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-art-moderne-paris",
       "region": "ile-de-france",
-      "departement": null,
-      "ville": null,
+      "departement": "paris",
+      "ville": "paris",
       "themes": [
         "musees-art-moderne-contemporain"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "palais-galliera",
       "region": "ile-de-france",
-      "departement": null,
-      "ville": null,
+      "departement": "paris",
+      "ville": "paris",
       "themes": [
         "musees-mode"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-archeologie-nationale",
@@ -230,9 +251,11 @@
       "region": "ile-de-france",
       "departement": null,
       "ville": null,
-      "themes": [],
+      "themes": [
+        "musees-histoire"
+      ],
       "visit_intents": [],
-      "verification": "classification-pending",
+      "verification": "editorial-specific-review",
       "notes": "À classer après lecture de la fiche et vérification des collections."
     },
     {
@@ -249,13 +272,14 @@
     {
       "slug": "palais-beaux-arts-lille",
       "region": "hauts-de-france",
-      "departement": null,
-      "ville": null,
+      "departement": "nord",
+      "ville": "lille",
       "themes": [
         "musees-beaux-arts"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-picardie",
@@ -284,9 +308,12 @@
       "region": "hauts-de-france",
       "departement": null,
       "ville": null,
-      "themes": [],
+      "themes": [
+        "musees-beaux-arts",
+        "musees-arts-decoratifs"
+      ],
       "visit_intents": [],
-      "verification": "classification-pending",
+      "verification": "editorial-specific-review",
       "notes": "À classer après lecture de la fiche et vérification des collections."
     },
     {
@@ -327,9 +354,11 @@
       "region": "hauts-de-france",
       "departement": null,
       "ville": null,
-      "themes": [],
+      "themes": [
+        "musees-histoire"
+      ],
       "visit_intents": [],
-      "verification": "classification-pending",
+      "verification": "editorial-specific-review",
       "notes": "À classer après lecture de la fiche et vérification des collections."
     },
     {
@@ -337,77 +366,88 @@
       "region": "hauts-de-france",
       "departement": null,
       "ville": null,
-      "themes": [],
+      "themes": [
+        "musees-histoire"
+      ],
       "visit_intents": [],
-      "verification": "classification-pending",
+      "verification": "editorial-specific-review",
       "notes": "À classer après lecture de la fiche et vérification des collections."
     },
     {
       "slug": "musee-beaux-arts-rouen",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "seine-maritime",
+      "ville": "rouen",
       "themes": [
         "musees-beaux-arts"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "muma-le-havre",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "seine-maritime",
+      "ville": "le-havre",
       "themes": [
         "musees-beaux-arts",
         "musees-art-moderne-contemporain"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "memorial-caen",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "calvados",
+      "ville": "caen",
       "themes": [
         "musees-histoire"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "tapisserie-bayeux",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
-      "themes": [],
+      "departement": "calvados",
+      "ville": "bayeux",
+      "themes": [
+        "musees-histoire",
+        "musees-arts-decoratifs"
+      ],
       "visit_intents": [],
-      "verification": "classification-pending",
-      "notes": "À classer après lecture de la fiche et vérification des collections."
+      "verification": "editorial-specific-review",
+      "notes": "À classer après lecture de la fiche et vérification des collections.",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-beaux-arts-dentelle-alencon",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "orne",
+      "ville": "alencon",
       "themes": [
         "musees-beaux-arts",
         "musees-mode"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-eugene-boudin-honfleur",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "calvados",
+      "ville": "honfleur",
       "themes": [
         "musees-beaux-arts"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-impressionnismes-giverny",
@@ -423,16 +463,53 @@
     {
       "slug": "musee-beaux-arts-caen",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "calvados",
+      "ville": "caen",
       "themes": [
         "musees-beaux-arts"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-normandie-caen",
+      "region": "normandie",
+      "departement": "calvados",
+      "ville": "caen",
+      "themes": [
+        "musees-histoire"
+      ],
+      "visit_intents": [],
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
+    },
+    {
+      "slug": "musee-ceramique-rouen",
+      "region": "normandie",
+      "departement": "seine-maritime",
+      "ville": "rouen",
+      "themes": [
+        "musees-arts-decoratifs"
+      ],
+      "visit_intents": [],
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
+    },
+    {
+      "slug": "musee-le-secq-des-tournelles",
+      "region": "normandie",
+      "departement": "seine-maritime",
+      "ville": "rouen",
+      "themes": [
+        "musees-arts-decoratifs"
+      ],
+      "visit_intents": [],
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
+    },
+    {
+      "slug": "musee-maritime-tatihou",
       "region": "normandie",
       "departement": null,
       "ville": null,
@@ -440,38 +517,7 @@
         "musees-histoire"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
-    },
-    {
-      "slug": "musee-ceramique-rouen",
-      "region": "normandie",
-      "departement": null,
-      "ville": null,
-      "themes": [
-        "musees-arts-decoratifs"
-      ],
-      "visit_intents": [],
-      "verification": "editorial-keyword-review"
-    },
-    {
-      "slug": "musee-le-secq-des-tournelles",
-      "region": "normandie",
-      "departement": null,
-      "ville": null,
-      "themes": [
-        "musees-arts-decoratifs"
-      ],
-      "visit_intents": [],
-      "verification": "editorial-keyword-review"
-    },
-    {
-      "slug": "musee-maritime-tatihou",
-      "region": "normandie",
-      "departement": null,
-      "ville": null,
-      "themes": [],
-      "visit_intents": [],
-      "verification": "classification-pending",
+      "verification": "editorial-specific-review",
       "notes": "À classer après lecture de la fiche et vérification des collections."
     },
     {
@@ -488,119 +534,141 @@
     {
       "slug": "musee-liberation-cherbourg",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "manche",
+      "ville": "cherbourg",
       "themes": [
         "musees-histoire"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-thomas-henry-cherbourg",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "manche",
+      "ville": "cherbourg",
       "themes": [
         "musees-beaux-arts"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-art-histoire-lisieux",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
-      "themes": [],
+      "departement": "calvados",
+      "ville": "lisieux",
+      "themes": [
+        "musees-histoire",
+        "musees-beaux-arts"
+      ],
       "visit_intents": [],
-      "verification": "classification-pending",
-      "notes": "À classer après lecture de la fiche et vérification des collections."
+      "verification": "editorial-specific-review",
+      "notes": "À classer après lecture de la fiche et vérification des collections.",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-villa-montebello-trouville",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
-      "themes": [],
+      "departement": "calvados",
+      "ville": "trouville-sur-mer",
+      "themes": [
+        "musees-beaux-arts"
+      ],
       "visit_intents": [],
-      "verification": "classification-pending",
-      "notes": "À classer après lecture de la fiche et vérification des collections."
+      "verification": "editorial-specific-review",
+      "notes": "À classer après lecture de la fiche et vérification des collections.",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-richard-anacreon-granville",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "manche",
+      "ville": "granville",
       "themes": [
         "musees-beaux-arts"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-art-histoire-archeologie-evreux",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "eure",
+      "ville": "evreux",
       "themes": [
         "musees-archeologie"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-art-histoire-saint-lo",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
-      "themes": [],
+      "departement": "manche",
+      "ville": "saint-lo",
+      "themes": [
+        "musees-histoire",
+        "musees-beaux-arts"
+      ],
       "visit_intents": [],
-      "verification": "classification-pending",
-      "notes": "À classer après lecture de la fiche et vérification des collections."
+      "verification": "editorial-specific-review",
+      "notes": "À classer après lecture de la fiche et vérification des collections.",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-baron-gerard-bayeux",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "calvados",
+      "ville": "bayeux",
       "themes": [
         "musees-beaux-arts"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-chateau-dieppe",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "seine-maritime",
+      "ville": "dieppe",
       "themes": [
         "musees-beaux-arts"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "les-pecheries-fecamp",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
-      "themes": [],
+      "departement": "seine-maritime",
+      "ville": "fecamp",
+      "themes": [
+        "musees-histoire",
+        "musees-beaux-arts"
+      ],
       "visit_intents": [],
-      "verification": "classification-pending",
-      "notes": "À classer après lecture de la fiche et vérification des collections."
+      "verification": "editorial-specific-review",
+      "notes": "À classer après lecture de la fiche et vérification des collections.",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "villa-temps-retrouve-cabourg",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "calvados",
+      "ville": "cabourg",
       "themes": [
         "musees-arts-decoratifs"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-vire-normandie",
@@ -629,21 +697,24 @@
       "region": "normandie",
       "departement": null,
       "ville": null,
-      "themes": [],
+      "themes": [
+        "musees-beaux-arts"
+      ],
       "visit_intents": [],
-      "verification": "classification-pending",
+      "verification": "editorial-specific-review",
       "notes": "À classer après lecture de la fiche et vérification des collections."
     },
     {
       "slug": "musee-memorial-bataille-normandie-bayeux",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "calvados",
+      "ville": "bayeux",
       "themes": [
         "musees-histoire"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-batterie-merville",
@@ -693,24 +764,26 @@
     {
       "slug": "musee-quesnel-moriniere-coutances",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "manche",
+      "ville": "coutances",
       "themes": [
         "musees-beaux-arts"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-blanche-hoschede-monet-vernon",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "eure",
+      "ville": "vernon",
       "themes": [
         "musees-beaux-arts"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-alfred-canel-pont-audemer",
@@ -726,23 +799,27 @@
     {
       "slug": "musee-ethnographie-honfleur",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "calvados",
+      "ville": "honfleur",
       "themes": [
         "musees-histoire"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-marine-honfleur",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
-      "themes": [],
+      "departement": "calvados",
+      "ville": "honfleur",
+      "themes": [
+        "musees-histoire"
+      ],
       "visit_intents": [],
-      "verification": "classification-pending",
-      "notes": "À classer après lecture de la fiche et vérification des collections."
+      "verification": "editorial-specific-review",
+      "notes": "À classer après lecture de la fiche et vérification des collections.",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "chateau-martainville-musee-traditions-normandes",
@@ -838,13 +915,14 @@
     {
       "slug": "abbaye-graville-le-havre",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "seine-maritime",
+      "ville": "le-havre",
       "themes": [
         "musees-histoire"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-verre-blangy-sur-bresle",
@@ -917,35 +995,40 @@
     {
       "slug": "maison-patrimoine-sourdin-villedieu",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "manche",
+      "ville": "villedieu-les-poeles",
       "themes": [
         "musees-histoire"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-bocage-normand-saint-lo",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
-      "themes": [],
+      "departement": "manche",
+      "ville": "saint-lo",
+      "themes": [
+        "musees-histoire"
+      ],
       "visit_intents": [],
-      "verification": "classification-pending",
-      "notes": "À classer après lecture de la fiche et vérification des collections."
+      "verification": "editorial-specific-review",
+      "notes": "À classer après lecture de la fiche et vérification des collections.",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-instruments-vent-la-couture-boussey",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "eure",
+      "ville": "la-couture-boussey",
       "themes": [
         "musees-sciences",
         "musees-arts-decoratifs"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "manufacture-bohin-saint-sulpice-sur-risle",
@@ -972,13 +1055,14 @@
     {
       "slug": "musee-fernand-leger-andre-mare-argentan",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "orne",
+      "ville": "argentan",
       "themes": [
         "musees-art-moderne-contemporain"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-nicolas-poussin-les-andelys",
@@ -994,35 +1078,41 @@
     {
       "slug": "musee-automates-falaise",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "calvados",
+      "ville": "falaise",
       "themes": [
         "musees-arts-decoratifs",
         "musees-insolites"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "memorial-civils-guerre-falaise",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "calvados",
+      "ville": "falaise",
       "themes": [
         "musees-histoire"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-art-histoire-granville",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
-      "themes": [],
+      "departement": "manche",
+      "ville": "granville",
+      "themes": [
+        "musees-beaux-arts",
+        "musees-histoire"
+      ],
       "visit_intents": [],
-      "verification": "classification-pending",
-      "notes": "À classer après lecture de la fiche et vérification des collections."
+      "verification": "editorial-specific-review",
+      "notes": "À classer après lecture de la fiche et vérification des collections.",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-mobilier-miniature-vendeuvre",
@@ -1041,9 +1131,11 @@
       "region": "normandie",
       "departement": null,
       "ville": null,
-      "themes": [],
+      "themes": [
+        "musees-histoire"
+      ],
       "visit_intents": [],
-      "verification": "classification-pending",
+      "verification": "editorial-specific-review",
       "notes": "À classer après lecture de la fiche et vérification des collections."
     },
     {
@@ -1062,9 +1154,12 @@
       "region": "normandie",
       "departement": null,
       "ville": null,
-      "themes": [],
+      "themes": [
+        "musees-histoire",
+        "musees-insolites"
+      ],
       "visit_intents": [],
-      "verification": "classification-pending",
+      "verification": "editorial-specific-review",
       "notes": "À classer après lecture de la fiche et vérification des collections."
     },
     {
@@ -1072,9 +1167,11 @@
       "region": "normandie",
       "departement": null,
       "ville": null,
-      "themes": [],
+      "themes": [
+        "musees-histoire"
+      ],
       "visit_intents": [],
-      "verification": "classification-pending",
+      "verification": "editorial-specific-review",
       "notes": "À classer après lecture de la fiche et vérification des collections."
     },
     {
@@ -1091,25 +1188,27 @@
     {
       "slug": "museum-emmanuel-liais-cherbourg",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "manche",
+      "ville": "cherbourg",
       "themes": [
         "musees-sciences",
         "musees-histoire-naturelle"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-manufacture-parapluies-cherbourg",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "manche",
+      "ville": "cherbourg",
       "themes": [
         "musees-insolites"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "vieux-la-romaine-musee",
@@ -1150,9 +1249,11 @@
       "region": "normandie",
       "departement": null,
       "ville": null,
-      "themes": [],
+      "themes": [
+        "musees-histoire"
+      ],
       "visit_intents": [],
-      "verification": "classification-pending",
+      "verification": "editorial-specific-review",
       "notes": "À classer après lecture de la fiche et vérification des collections."
     },
     {
@@ -1169,13 +1270,14 @@
     {
       "slug": "musee-poeslerie-villedieu",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "manche",
+      "ville": "villedieu-les-poeles",
       "themes": [
         "musees-arts-decoratifs"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-ecorche-anatomie-neubourg",
@@ -1218,9 +1320,11 @@
       "region": "normandie",
       "departement": null,
       "ville": null,
-      "themes": [],
+      "themes": [
+        "musees-histoire"
+      ],
       "visit_intents": [],
-      "verification": "classification-pending",
+      "verification": "editorial-specific-review",
       "notes": "À classer après lecture de la fiche et vérification des collections."
     },
     {
@@ -1249,163 +1353,177 @@
     {
       "slug": "musee-antiquites-rouen",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "seine-maritime",
+      "ville": "rouen",
       "themes": [
         "musees-histoire",
         "musees-archeologie"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "maison-du-lin-routot",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "eure",
+      "ville": "routot",
       "themes": [
         "musees-arts-decoratifs",
         "musees-mode"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "moulin-pierre-hauville",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "eure",
+      "ville": "hauville",
       "themes": [
         "musees-sciences"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "blackwater-museum-berjou",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "orne",
+      "ville": "berjou",
       "themes": [
         "musees-histoire"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-charles-leandre-conde-en-normandie",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "calvados",
+      "ville": "conde-en-normandie",
       "themes": [
         "musees-beaux-arts"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "parc-musee-granit-saint-michel-de-montjoie",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "manche",
+      "ville": "saint-michel-de-montjoie",
       "themes": [
         "musees-insolites"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "espace-museal-poterie-mesnil-bavent",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "calvados",
+      "ville": "bavent",
       "themes": [
         "musees-arts-decoratifs",
         "musees-insolites"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "le-monde-miniature-clecy",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "calvados",
+      "ville": "clecy",
       "themes": [
         "musees-insolites"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-des-automates-falaise",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "calvados",
+      "ville": "falaise",
       "themes": [
         "musees-arts-decoratifs",
         "musees-insolites"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-numero-4-commando-ouistreham",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "calvados",
+      "ville": "ouistreham",
       "themes": [
         "musees-histoire"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-instruments-a-vent-la-couture-boussey",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "eure",
+      "ville": "la-couture-boussey",
       "themes": [
         "musees-sciences",
         "musees-arts-decoratifs",
         "musees-insolites"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "les-dominicaines-pont-leveque",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "calvados",
+      "ville": "pont-leveque",
       "themes": [
         "musees-art-moderne-contemporain"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "musee-forge-saint-pierre-benouville",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "seine-maritime",
+      "ville": "saint-pierre-benouville",
       "themes": [
         "musees-arts-decoratifs",
         "musees-insolites"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     },
     {
       "slug": "batterie-azeville-musee",
       "region": "normandie",
-      "departement": null,
-      "ville": null,
+      "departement": "manche",
+      "ville": "azeville",
       "themes": [
         "musees-histoire"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "geography_provenance": "curated-locality"
     }
   ]
 }
