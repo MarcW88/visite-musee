@@ -1,0 +1,2 @@
+# Post-write gap check — Musée miniature Vendeuvre
+2026-10-24 NEW_PAGE KEEP_NOINDEX. Site and collection claims tourism supported. Oct hours and Nov 1 closure confirmed. Ticket inclusion difference 11 vs 12 vs 14 clarified. Distinct museum and castle and gardens, regional links: COVERED. Manual editorial review using museum-content-workflow / factuality / SEO / GEO / humanizer / anti-ai-slop criteria; autonomous sub-agent execution not claimed. CI and browser QA pending.

@@ -1,0 +1,18 @@
+{
+  "title": "Musée du mobilier miniature Vendeuvre : horaires et billets 2026",
+  "description": "Musée du mobilier miniature au château de Vendeuvre : plus de 800 meubles, jardins, cuisine, formules à 12 € ou 14 € et horaires d'octobre 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-mobilier-miniature-vendeuvre/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée du mobilier miniature – Château de Vendeuvre",
+    "url": "https://www.normandie-tourisme.fr/sites-lieux-de-visites/musee-du-mobilier-miniature/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "9 rue du Château",
+      "postalCode": "14170",
+      "addressLocality": "Vendeuvre",
+      "addressCountry": "FR"
+    }
+  }
+}
