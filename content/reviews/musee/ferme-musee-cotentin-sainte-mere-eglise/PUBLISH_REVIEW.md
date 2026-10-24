@@ -1,0 +1,9 @@
+# PUBLISH_REVIEW — Ferme-musée du Cotentin
+Date 2026-10-24 | Statut FAIL — KEEP_NOINDEX (contrôles de production et Playwright indisponibles).
+## Sources et factualité
+Site officiel départemental : https://ferme-musee.manche.fr/infos-pratiques/preparer-ma-visite/ ; collections https://ferme-musee.manche.fr/ferme-musee-du-cotentin/les-collections/ ; visite libre https://ferme-musee.manche.fr/visiter-la-ferme-musee/visite-libre-ferme-musee-du-cotentin/ ; réseau normand https://www.musees-normandie.fr/musees-normandie/ferme-musee-du-cotentin/ . Horaires et tarifs saisonniers, atelier payant et groupes confirmés. Collections : chiffre 2700 sur source officielle plus récente que les 2500 cités dans une fiche de réseau, priorité à la source primaire. Accessibilité ponctuelle des bâtiments historiques non testée.
+## Process éditorial
+Research SERP, brief, corps HTML, métadonnées, post-write gap-check disponibles. Couverture des MUST, information gain sur métiers et environnement rural, contexte agricole de Sainte-Mère-Église sans confondre avec les musées militaires. Relecture de voix, fluidité, anti-slop et vérification des affirmations effectuées dans la rédaction ; aucun lancement autonome de skill distant revendiqué.
+## GitHub et QA
+HTML individuel matérialisé commit 5e74d36970914bae14ef9f10d1f2f0f5f379879e ; Normandie 60ef1bafc002c2970609d1c38de39d1bc34dab21 ; annuaire 5579d955819f85322bd49c79cbf60f7c34a6e0ea. Présence de la fiche et noindex,follow confirmés dans les trois fichiers main. GitHub combined statuses : liste vide. Runs pull-request du connecteur : liste vide, ne prouve pas succès Actions. Build local non exécuté ; contrôle production URL inaccessible depuis l'outil web. Playwright desktop/mobile non exécuté, artefacts inexistants. Aucune autre section ni status robots modifié.
+Verdict : publié sur main, contrôle technique complet non démontré, noindex préservé, validation humaine à demander avant suite.
