@@ -860,11 +860,11 @@
       "departement": null,
       "ville": null,
       "themes": [
-        "musees-arts-decoratifs",
-        "musees-mode"
+        "musees-arts-decoratifs"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "notes": "Révision éditoriale : distinction entre discipline centrale et voisinage thématique."
     },
     {
       "slug": "musee-debarquement-utah-beach",
@@ -884,11 +884,11 @@
       "ville": null,
       "themes": [
         "musees-histoire",
-        "musees-sciences",
-        "musees-insolites"
+        "musees-sciences"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "notes": "Révision éditoriale : distinction entre discipline centrale et voisinage thématique."
     },
     {
       "slug": "musee-meunerie-moulin-marcy",
@@ -1262,10 +1262,11 @@
       "departement": null,
       "ville": null,
       "themes": [
-        "musees-art-moderne-contemporain"
+        "musees-beaux-arts"
       ],
       "visit_intents": [],
-      "verification": "editorial-keyword-review"
+      "verification": "editorial-keyword-review",
+      "notes": "Révision éditoriale : distinction entre discipline centrale et voisinage thématique."
     },
     {
       "slug": "musee-poeslerie-villedieu",
@@ -1506,12 +1507,13 @@
       "departement": "seine-maritime",
       "ville": "saint-pierre-benouville",
       "themes": [
-        "musees-arts-decoratifs",
-        "musees-insolites"
+        "musees-insolites",
+        "musees-histoire"
       ],
       "visit_intents": [],
       "verification": "editorial-keyword-review",
-      "geography_provenance": "curated-locality"
+      "geography_provenance": "curated-locality",
+      "notes": "Révision éditoriale : distinction entre discipline centrale et voisinage thématique."
     },
     {
       "slug": "batterie-azeville-musee",
