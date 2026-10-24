@@ -1,5 +1,13 @@
 import fs from 'node:fs';import path from 'node:path';const root=path.resolve(import.meta.dirname,'..');const files=[];function walk(d){for(const e of fs.readdirSync(d,{withFileTypes:true})){if(['.git','node_modules','content'].includes(e.name))continue;const p=path.join(d,e.name);e.isDirectory()?walk(p):e.name.endsWith('.html')&&files.push(p)}}walk(root);const errors=[];for(const f of files){const s=fs.readFileSync(f,'utf8');if(!/assets\/styles\.css/.test(s))errors.push(`${f}: CSS absent`);if(!/noindex,follow/.test(s))errors.push(`${f}: noindex absent`);for(const href of s.matchAll(/href="([^"#]+)"/g)){const u=href[1];if(/^(https?:|mailto:)/.test(u))continue;const target=path.resolve(path.dirname(f),u);if(!fs.existsSync(target)&&!fs.existsSync(path.join(target,'index.html')))errors.push(`${f}: lien cassé ${u}`)}}
 const readPage = route => fs.readFileSync(path.join(root,route,'index.html'),'utf8');
+
+// Central theme taxonomy consistency checks (all pages remain noindex).
+const taxonomy=JSON.parse(fs.readFileSync(path.join(root,'content/taxonomy/museums.json'),'utf8'));
+const museumSet=new Set(taxonomy.museums.map(x=>x.slug));
+if(museumSet.size!==126)errors.push('Taxonomie: attendu 126 identifiants de musées distincts');
+for(const item of taxonomy.museums){if(!/^[a-z0-9-]+$/.test(item.slug))errors.push('Slug mal formé '+item.slug);for(const theme of item.themes){if(!taxonomy.themeSlugs.includes(theme))errors.push('Thème inconnu '+theme+' '+item.slug)}}
+for(const theme of taxonomy.themeSlugs){const html=readPage('themes/'+theme);const links=[...html.matchAll(/href="\.\.\/\.\.\/musee\/([^/]+)\/"/g)].map(m=>m[1]);const expected=taxonomy.museums.filter(item=>item.themes.includes(theme)).map(item=>item.slug);if(links.length!==expected.length||new Set(links).size!==links.length||expected.some(slug=>!links.includes(slug)))errors.push('Thème: incohérence des liens '+theme);if(!/noindex,follow/.test(html))errors.push('Thème: noindex absent '+theme)}
+if(!/noindex,follow/.test(readPage('themes')))errors.push('Hub Thèmes: noindex absent');
 const directoryHtml = readPage('musees');
 const regionalSlugs = {
   'hauts-de-france': ['louvre-lens','palais-beaux-arts-lille','musee-picardie','musee-matisse-cateau','la-piscine-roubaix','musee-conde-chantilly','musee-flandre-cassel','historial-grande-guerre-peronne','familistere-guise','cite-langue-francaise'],
