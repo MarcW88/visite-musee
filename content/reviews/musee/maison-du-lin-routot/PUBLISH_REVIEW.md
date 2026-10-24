@@ -1,0 +1,6 @@
+# PUBLISH_REVIEW — Maison du Lin à Routot
+2026-10-24. Verdict FAIL — KEEP_NOINDEX pending CI, deployment and Playwright.
+NEW_PAGE SEO/GEO, SERP, brief, body, meta and post-write gap check published. Official sources https://www.routot.fr/loisirs-culture/les-musees/ ; https://www.musees-normandie.fr/musees-normandie/maison-du-lin/ ; https://www.normandie-tourisme.fr/sites-lieux-de-visites/ecomusee-maison-du-lin-association-roumois-terres-vivantes-en-normandie/ . Facts: Route textile and tools, 2026 Oct–Nov Sunday 14–18, December Fri–Sun Dec 4–20 14–18, 3€ admission adults, under 16 free. Pass'Musées 9€ per municipality. Address 2 place Général Leclerc, Routot.
+Maillage Musée du Sabot, Normandie, annuaire ; title, canonical, Museum JSON-LD, noindex unchanged. Manual editorial checks, no attested autonomous external agents.
+Materialization by commit 5110000a3354df57cf939c59408aa609e786e1dc. Readback of individual, region and directory files confirmed slug and noindex,follow.
+Combined statuses [] and PR-filtered workflow runs []; not proof CI passed. Build local, production HTTP and Playwright visual were not run by assistant, despite generated commit. No indexation change. Human validation required.
