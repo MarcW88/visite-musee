@@ -1,0 +1,19 @@
+{
+  "title": "Batterie d’Azeville : visite audioguidée, tarifs et horaires 2026",
+  "description": "Visitez la Batterie d'Azeville : galeries souterraines, casemates et histoire d'Utah Beach. Horaires d'automne 2026, tarifs et conseils pratiques.",
+  "canonical": "https://visite-musee.fr/musee/batterie-azeville-musee/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "TouristAttraction",
+    "name": "Batterie d'Azeville",
+    "url": "https://batterie-azeville.manche.fr/",
+    "telephone": "+33 2 33 40 63 05",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "La Rue",
+      "postalCode": "50310",
+      "addressLocality": "Azeville",
+      "addressCountry": "FR"
+    }
+  }
+}
