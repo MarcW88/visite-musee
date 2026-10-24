@@ -1,0 +1,17 @@
+{
+  "title": "Vieux-la-Romaine : musée, vestiges et visite 2026",
+  "description": "Découvrez Vieux-la-Romaine et Aregenua : collections antiques, maisons romaines, forum, horaires, tarifs et accessibilité en 2026.",
+  "canonical": "https://visite-musee.fr/musee/vieux-la-romaine-musee/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Vieux-la-Romaine, musée et sites archéologiques",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue de Feuguerolles",
+      "postalCode": "14930",
+      "addressLocality": "Vieux",
+      "addressCountry": "FR"
+    }
+  }
+}
