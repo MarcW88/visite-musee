@@ -1,0 +1,19 @@
+{
+  "title": "Musée de la Grosse Forge d’Aube : visite, histoire et tarifs",
+  "description": "À Aube dans l’Orne, découvrez la Grosse Forge, patrimoine métallurgique hydraulique, ses collections et les visites sur réservation en 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-grosse-forge-aube/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée de la Grosse Forge d’Aube",
+    "url": "https://www.forgeaube.fr/accueil",
+    "telephone": "+33 2 33 24 60 09",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2 rue de la Vieille Forge",
+      "postalCode": "61270",
+      "addressLocality": "Aube",
+      "addressCountry": "FR"
+    }
+  }
+}
