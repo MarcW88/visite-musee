@@ -1,0 +1,7 @@
+# NEW_PAGE — Blackwater Museum 39/45 Berjou
+2026-10-24 | MUSEUM | KEEP_NOINDEX.
+SERP et intent: Blackwater Museum Berjou horaires tarifs, bataille de Berjou 15 16 17 août 1944, opération Blackwater, randonnée sur le Noireau. Sources principales https://www.blackwaterbersjou3945.com/notrehistoire et https://www.blackwaterbersjou3945.com/horairestarifs ; corroboration https://www.normandie-tourisme.fr/sites-lieux-de-visites/blackwater-museum-39-45-berjou/ et https://acceslibre.beta.gouv.fr/app/61-berjou/a/musee/erp/blackwater-museum-3945/.
+MUST: musée associatif ouvert 2011, objets du champ de bataille / dons des habitants, témoignages et photographies; secteur Noireau, combats du 15 au 17 août 1944 (ne pas présenter 6 juin); ouvert du 1 avril au 31 octobre 2026 mardi-dimanche 10-12 et 14-18, lundi fermé; dernière entrée 30min avant fermeture, visite conseillée 1h; tarifs 6,50€ adulte dès16, 4,50€ 10-15, gratuit moins10 selon tourisme, groupe dès20 personnes 4€; accès PMR indiqué par site/Acceslibre; 1 rue les Cours, 61430 Berjou; 06 66 62 94 09.
+SHOULD: distinguer itinéraire extérieur Berjou août 44 (6,5km fort dénivelé) du musée accessible; événements 2026 passée non reproposés; maillage vers Percée du Bocage.
+INFO GAIN: exposer objets civils, documents et récits des témoins plutôt que catalogue matériel militaire; distinguer accès musée et marche extérieure.
+Gaps: vérifier guides/groupes par téléphone, photos sous droit non intégrées. READY_FOR_BRIEF.
