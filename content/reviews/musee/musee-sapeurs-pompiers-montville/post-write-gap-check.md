@@ -1,0 +1,2 @@
+# Post-write gap check — Pompiers Montville
+NEW_PAGE 2026-10-24 KEEP_NOINDEX. Identity/collection/history covered with municipality/tourism links. Oct 2026 opening and tickets source current city prices rather than older PDF. PMR access works clearly noted. Related industrial heritage links covered. Manual factual/GEO/SEO/editorial review against museum workflows and humanizer/general-writing/anti-ai-slop criteria; autonomous subagents not asserted. CI and browser QA pending.

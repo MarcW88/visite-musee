@@ -1,0 +1,18 @@
+{
+  "title": "Musée des Sapeurs-Pompiers Montville : tarifs et horaires 2026",
+  "description": "Musée des Sapeurs-Pompiers de France à Montville : véhicules, pompes à bras, casques, horaires jusqu'au 31 octobre 2026, tarifs et accès.",
+  "canonical": "https://visite-musee.fr/musee/musee-sapeurs-pompiers-montville/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée des Sapeurs-Pompiers de France",
+    "url": "https://montville.fr/musee-des-sapeurs-pompiers-de-france/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue Baron Bigot",
+      "postalCode": "76710",
+      "addressLocality": "Montville",
+      "addressCountry": "FR"
+    }
+  }
+}
