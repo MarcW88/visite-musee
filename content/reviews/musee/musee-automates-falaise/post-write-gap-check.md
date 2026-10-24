@@ -1,0 +1,2 @@
+# Post-write gap check — Automates Falaise
+2026-10-24 NEW_PAGE KEEP_NOINDEX. Primary entity and 300-object collection / period: COVERED. Museum hours and price source from network and official: COVERED. Differing special Toussaint published elsewhere disclosed; source hierarchy stated. Distinguish nearby closed André Lemaitre: COVERED. Internal links: COVERED. Editorial manual factual/entity/GEO/style and humanizer/anti-ai-slop checks performed on workflow criteria; external autonomous subagents not claimed. CI and browser pending.

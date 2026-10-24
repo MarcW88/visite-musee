@@ -1,0 +1,18 @@
+{
+  "title": "Musée des Automates Falaise : horaires et tarifs 2026",
+  "description": "Musée des Automates de Falaise : 300 automates de vitrines parisiennes, collections Roullet-Decamps, horaires 2026 et entrée adulte 5 €.",
+  "canonical": "https://visite-musee.fr/musee/musee-automates-falaise/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée des Automates de Falaise",
+    "url": "https://www.automates-avenue.fr/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Boulevard de la Libération",
+      "postalCode": "14700",
+      "addressLocality": "Falaise",
+      "addressCountry": "FR"
+    }
+  }
+}

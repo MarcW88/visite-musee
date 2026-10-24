@@ -1,0 +1,5 @@
+# Analyse SEO/GEO — Musée des Automates de Falaise
+2026-10-24 NEW_PAGE. Recherche : musée automates Falaise horaire tarif 2026 enfants vitrines Noël. Institutions: https://www.automates-avenue.fr/ ; https://www.musees-normandie.fr/musees-normandie/musee-des-automates/ ; https://www.normandie-tourisme.fr/sites-lieux-de-visites/musee-des-automates/ ; https://www.falaise-suissenormande.com/explorer/nos-pepites/musee-des-automates/. SERP positions/volumes non mesurés.
+MUST 300 automates, Roullet-Decamps, illustrateurs Peynet Dubout Effel, Paris 1920-1960, accès familial : COVERED.
+MUST official hours Tue 10-12/14-18 Wed 10-12h30/13h30-18 Thu 14-19 Fri 14-18 Sat 9h30-13/14-17, Monday/Sunday/holidays shut, 1 hour before last entry: COVERED.
+MUST pricing 5€ adult, <=12 free, 15€ family: COVERED. Some office lists different holiday hours: qualified in body, museum official prioritized. SHOULD PMR and public transit, micro-folie/fablab and nearby closed André Lemaitre: COVERED. Information gain mechanical automation vs robotics, temporary store displays, hours ambiguity. READY_FOR_BRIEF.
