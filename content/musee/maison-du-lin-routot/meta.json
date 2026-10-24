@@ -1,0 +1,19 @@
+{
+  "title": "Maison du Lin à Routot : visite, horaires et tarifs 2026",
+  "description": "Découvrez la Maison du Lin à Routot, ses outils de récolte, filage et tissage, et préparez votre visite avec les horaires et tarifs 2026.",
+  "canonical": "https://visite-musee.fr/musee/maison-du-lin-routot/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Maison du Lin",
+    "url": "https://www.routot.fr/loisirs-culture/les-musees/",
+    "telephone": "+33 2 32 56 21 76",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2 place du Général Leclerc",
+      "postalCode": "27350",
+      "addressLocality": "Routot",
+      "addressCountry": "FR"
+    }
+  }
+}
