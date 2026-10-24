@@ -1,0 +1,18 @@
+{
+  "title": "Musée maritime de Regnéville-sur-Mer : visite, horaires et fours à chaux",
+  "description": "Musée maritime de Regnéville-sur-Mer : histoire du port, Fours à chaux du Rey, horaires saisonniers, tarifs et précautions pour visiter en 2026.",
+  "canonical": "https://visite-musee.fr/musee/musee-maritime-regneville/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée maritime de Regnéville-sur-Mer",
+    "url": "https://www.regneville-sur-mer.fr/infos-pratiques/infrascructures/musee-des-fours-a-chaux-2.html",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "14 route des Fours à chaux",
+      "postalCode": "50590",
+      "addressLocality": "Regnéville-sur-Mer",
+      "addressCountry": "FR"
+    }
+  }
+}
