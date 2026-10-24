@@ -1,0 +1,7 @@
+# NEW_PAGE — Musée de la Grosse Forge d'Aube
+2026-10-24 / MUSEUM / KEEP_NOINDEX.
+Intent : découvrir forge hydraulique historique de l'Orne, visites et réservation 2026, tarif, architecture et fonctionnement.
+Sources vérifiées : https://www.forgeaube.fr/accueil (réouverture prévue juin 2027, hors saison mercredi après-midi sur réservation ou groupes) ; https://www.forgeaube.fr/horaires-et-tarifs (adulte 5 €, moins de 18 ans gratuit, groupes 4 € dès 15 visiteurs, réserver 72 h avant, billet couplé Comtesse de Ségur 8 €) ; https://www.musees-normandie.fr/musees-normandie/musee-de-la-grosse-forge-d-aube/ (halle et matériel hydraulique ; adresse rue de la Vieille Forge ; accès) ; https://www.normandie-tourisme.fr/sites-lieux-de-visites/musee-de-la-grosse-forge/ (adresse 2 rue Vieille Forge; saison passée juin-septembre 2026).
+Facts : équipements de métallurgie actionnés par force hydraulique ; haut-fourneau / affinerie et marteau sous réserve du vocabulaire propre au site, évolution XVIe-XXe siècles, ensemble Monument historique.
+VOLATILE : visite libre interrompue après septembre 2026, mercredi réservations possibles et groupes ; aucune ouverture spontanée garantie. Horaires réseau mentionnent 16h15 le mercredi : demander confirmation préalable.
+Overlap : Musée Comtesse de Ségur, Aube, récemment publié mais sujet littéraire différent ; billet commun lien pertinent. No other museum treated.
