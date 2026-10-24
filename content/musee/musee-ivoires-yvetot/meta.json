@@ -1,0 +1,19 @@
+{
+  "title": "Musée des Ivoires d’Yvetot : collections et visite 2026",
+  "description": "Musée des Ivoires à Yvetot : donation Louis Féron, sculptures en ivoire, arts décoratifs, horaires 2026 et fermeture pour rénovation à vérifier.",
+  "canonical": "https://visite-musee.fr/musee/musee-ivoires-yvetot/",
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Museum",
+    "name": "Musée municipal des Ivoires",
+    "url": "https://www.yvetot.fr/le-musee-des-ivoires/",
+    "telephone": "+33 2 35 95 08 40",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "8 place du Maréchal Joffre",
+      "postalCode": "76190",
+      "addressLocality": "Yvetot",
+      "addressCountry": "FR"
+    }
+  }
+}
