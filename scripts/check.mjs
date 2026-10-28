@@ -79,4 +79,18 @@ for(const match of normandySource.matchAll(/href="(\.\.\/\.\.\/musee\/[^\"]+)"/g
 for(const match of normandySource.matchAll(/\bid="([^"]+)"/g)){
  if(!normandyPage.includes(`id="${match[1]}"`))errors.push('Normandie: ancre source absente du rendu: '+match[1]);
 }
+// Every displayed documentary photo has a traceable source and local assets.
+const media=JSON.parse(fs.readFileSync(path.join(root,'content/data/museum-images.json'),'utf8'));
+for(const [slug,image] of Object.entries(media)){
+ if((image.author || '').length>160)errors.push('Crédit auteur anormalement long: '+slug);
+ if(!museumSet.has(slug))errors.push('Photo sans musée connu: '+slug);
+ for(const key of ['author','authorUrl','sourceUrl','sourceRevision','license','licenseUrl','alt','caption','checkedAt'])if(!image[key])errors.push('Crédit photo incomplet: '+slug+' '+key);
+ const commonsSource=image.sourceUrl?.startsWith('https://commons.wikimedia.org/wiki/File:');
+ const wikimancheSource=image.sourceUrl?.startsWith('https://www.wikimanche.fr/Fichier:') && image.sourceName==='Wikimanche';
+ if(!commonsSource && !wikimancheSource)errors.push('Source photo invalide: '+slug);
+ if(!/^https?:\/\/creativecommons\.org\/(licenses\/|publicdomain\/zero\/1\.0\/)/.test(image.licenseUrl || '') && !(image.license === 'Domaine public' && image.licenseUrl === image.sourceUrl + '#Licensing' && image.rightsStatement))errors.push('Licence photo invalide: '+slug);
+ for(const file of [image.path,image.thumbnailPath])if(!file?.startsWith('assets/images/museums/')||!fs.existsSync(path.join(root,file)))errors.push('Fichier photo absent: '+slug+' '+file);
+ const page=readPage('musee/'+slug);
+ if(!page.includes(image.sourceUrl.replaceAll('&','&amp;'))||!page.includes(image.licenseUrl))errors.push('Crédit photo absent de la fiche: '+slug);
+}
 if(errors.length){console.error(errors.join('\n'));process.exit(1)}console.log(`${files.length} pages contrôlées : CSS, noindex, liens internes et conservation des textes sources valides.`)

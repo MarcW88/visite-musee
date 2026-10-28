@@ -6,6 +6,7 @@
     "build": "node scripts/build.mjs && node scripts/apply-content.mjs",
     "check": "node scripts/check.mjs",
     "test:discovery": "node scripts/test-discovery.mjs",
-    "test:reflow": "node scripts/test-reflow.mjs"
+    "test:reflow": "node scripts/test-reflow.mjs",
+    "test:images": "node scripts/test-museum-images.mjs"
   }
 }

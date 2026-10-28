@@ -39,6 +39,7 @@ jobs:
           node scripts/museum-visual-qa.mjs
           npm run test:discovery
           npm run test:reflow
+          npm run test:images
       - name: Preserve browser evidence
         if: always()
         uses: actions/upload-artifact@v4
@@ -48,4 +49,5 @@ jobs:
             .artifacts/museum-visual/
             .artifacts/design-review/discovery/
             .artifacts/design-review/reflow/
+            .artifacts/design-review/museum-images/
           if-no-files-found: warn
