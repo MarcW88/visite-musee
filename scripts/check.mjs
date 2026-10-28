@@ -43,4 +43,40 @@ for(const [region,slugs] of Object.entries(regionalSlugs)) {
   if(/Contenu à connecter|sélection issue de la base de données/.test(html))
     errors.push(`regions/${region}/: contenu de remplissage non remplacé`);
 }
-if(errors.length){console.error(errors.join('\n'));process.exit(1)}console.log(`${files.length} pages contrôlées : CSS, noindex et liens internes valides.`)
+// Public pages should never expose empty prototype UI as a completed service.
+for(const file of files){
+ const html=fs.readFileSync(file,'utf8');
+ if(/Contenu à connecter|Vue géographique|Cette page accueillera|Une vue structurée de la future base|<strong>—<\/strong>/.test(html))errors.push(file+': interface de remplissage encore visible');
+}
+// Preserve the full museum articles when presenting practical information first.
+for(const slug of allMuseums){
+ const source=fs.readFileSync(path.join(root,'content/musee',slug,'body.html'),'utf8');
+ const html=readPage('musee/'+slug);
+ const text=html.replace(/<[^>]+>/g,'').replace(/\s+/g,' ').trim();
+ for(const match of source.matchAll(/<(p|h1|h2|h3|strong|span)\b[^>]*>([\s\S]*?)<\/\1>/g)){
+  const expected=match[2].replace(/<[^>]+>/g,'').replace(/\s+/g,' ').trim();
+  if(!text.includes(expected))errors.push(slug+': texte source absent du rendu: '+expected.slice(0,80));
+ }
+ for(const match of source.matchAll(/\b(href|id)="([^"]+)"/g)){
+  if(!html.includes(`${match[1]}="${match[2]}"`))errors.push(slug+': lien ou ancre source absent: '+match[2]);
+ }
+}
+for(const file of files){
+ const html=fs.readFileSync(file,'utf8');
+ if((html.match(/id="main-content"/g)||[]).length!==1||(html.match(/class="skip-link"/g)||[]).length!==1)errors.push(file+': lien d’évitement ou cible manquante/dupliquée');
+}
+// A layout change must not silently discard the regional editorial source.
+const normandySource=fs.readFileSync(path.join(root,'content/regions/normandie/body.html'),'utf8');
+const normandyPage=readPage('regions/normandie');
+const plainText=html=>html.replace(/<[^>]+>/g,'').replace(/\s+/g,' ').trim();
+const publishedText=plainText(normandyPage);
+for(const match of normandySource.matchAll(/<(p|h2|h3)[^>]*>([\s\S]*?)<\/\1>/g)){
+ if(!publishedText.includes(plainText(match[2])))errors.push('Normandie: texte source absent du rendu: '+plainText(match[2]).slice(0,80));
+}
+for(const match of normandySource.matchAll(/href="(\.\.\/\.\.\/musee\/[^\"]+)"/g)){
+ if(!normandyPage.includes(`href="${match[1]}"`))errors.push('Normandie: lien source absent du rendu: '+match[1]);
+}
+for(const match of normandySource.matchAll(/\bid="([^"]+)"/g)){
+ if(!normandyPage.includes(`id="${match[1]}"`))errors.push('Normandie: ancre source absente du rendu: '+match[1]);
+}
+if(errors.length){console.error(errors.join('\n'));process.exit(1)}console.log(`${files.length} pages contrôlées : CSS, noindex, liens internes et conservation des textes sources valides.`)
