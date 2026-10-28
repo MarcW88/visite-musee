@@ -11,3 +11,5 @@
 .museum-page .reason-card{min-height:0;padding:24px}.museum-page .reason-card span{font-size:30px;margin-bottom:18px}.museum-page .practical-grid article{padding:22px}.museum-page .reason-grid:has(>.reason-card:nth-child(4):last-child),.museum-page .practical-grid:has(>article:nth-child(4):last-child){grid-template-columns:repeat(2,minmax(0,1fr))}
 @media(max-width:850px){.museum-overview-grid{grid-template-columns:minmax(0,1fr);gap:28px}.museum-page .reason-grid:has(>.reason-card:nth-child(4):last-child),.museum-page .practical-grid:has(>article:nth-child(4):last-child){grid-template-columns:minmax(0,1fr)}}
 @media(max-width:520px){.museum-page .page-hero h1{font-size:clamp(34px,10.5vw,48px)}.museum-page .section{padding:36px 0}.museum-page .museum-overview{padding-top:8px}.museum-summary .visual{min-height:110px;padding:20px}.museum-page .section h2{font-size:28px}.museum-page .fact{padding:14px 16px}}
+/* Keep portrait documentary photos within the practical overview. */
+.museum-summary .museum-photo img{max-height:520px;object-fit:contain;background:var(--ink)}

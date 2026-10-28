@@ -1,3 +1,4 @@
+import { museumPhoto } from './museum-images.mjs';
 // Render the existing article source: no summaries, dates or claims are generated.
 function divByClass(html, className) {
   const opening = new RegExp('<div\\b[^>]*class="[^\\"]*\\b' + className + '\\b[^\\"]*"[^>]*>').exec(html);
@@ -12,7 +13,7 @@ function divByClass(html, className) {
   }
   throw new Error(`Unclosed museum component: ${className}`);
 }
-export function renderMuseumLayout(source) {
+export function renderMuseumLayout(source, slug) {
   const ids = new Set([...source.matchAll(/\bid="([^"]+)"/g)].map(match => match[1]));
   const freshId = base => {
     let id = base;
@@ -47,7 +48,7 @@ export function renderMuseumLayout(source) {
   else hero = hero.replace(/<\/div><\/section>$/, `<div class="quick">${shortcut}</div></div></section>`);
   hero = hero.replace(/<\/div><\/section>$/, `${toc}</div></section>`);
   if (!hero.includes('museum-toc')) throw new Error('Unsupported museum hero markup');
-  const overview = `<section class="section museum-overview" id="${practicalId}"><div class="wrap museum-overview-grid"><div class="museum-practical"><h2 class="facts-heading">L’essentiel pour visiter</h2>${facts}${notes}</div><div class="museum-summary" id="${introductionId}">${introduction}${visual}</div></div></section>`;
+  const overview = `<section class="section museum-overview" id="${practicalId}"><div class="wrap museum-overview-grid"><div class="museum-practical"><h2 class="facts-heading">L’essentiel pour visiter</h2>${facts}${notes}</div><div class="museum-summary" id="${introductionId}">${introduction}${museumPhoto(slug)}${visual}</div></div></section>`;
   body = body.replace(originalHero, hero + overview).replace(originalOverview, '');
   return `<div class="museum-page">${body}</div>`;
 }

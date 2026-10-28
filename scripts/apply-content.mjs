@@ -1,3 +1,4 @@
+import { illustrateMuseumCards } from './lib/museum-images.mjs';
 import { renderMuseumLayout } from './lib/museum-layout.mjs';
 import { replaceMain } from './lib/shell.mjs';
 import { renderNormandyCatalogue, themeLabels } from './lib/catalogue.mjs';
@@ -49,7 +50,7 @@ for (const entry of fs.readdirSync(museumContentRoot, { withFileTypes: true })) 
 
   if (!fs.existsSync(bodyPath) || !fs.existsSync(outputPath)) continue;
 
-  const body = renderMuseumLayout(fs.readFileSync(bodyPath, 'utf8').trim());
+  const body = renderMuseumLayout(fs.readFileSync(bodyPath, 'utf8').trim(), slug);
   const meta = fs.existsSync(metaPath)
     ? JSON.parse(fs.readFileSync(metaPath, 'utf8'))
     : {};
@@ -122,3 +123,18 @@ if (fs.existsSync(normandyBody) && fs.existsSync(normandyOutput)) {
 }
 
 console.log(`${applied} fiche(s) musée personnalisée(s) appliquée(s).`);
+
+function illustrateDirectory(directory) {
+  for (const entry of fs.readdirSync(directory, {withFileTypes:true})) {
+    if (['.git', 'node_modules', 'content', '.artifacts', '.agents'].includes(entry.name)) continue;
+    const filename = path.join(directory, entry.name);
+    if (entry.isDirectory()) illustrateDirectory(filename);
+    else if (entry.name === 'index.html') {
+      const prefix = path.relative(directory, root).split(path.sep).join('/') + '/';
+      const html = fs.readFileSync(filename, 'utf8');
+      const illustrated = illustrateMuseumCards(html, prefix === '/' ? '' : prefix);
+      if (illustrated !== html) fs.writeFileSync(filename, illustrated);
+    }
+  }
+}
+illustrateDirectory(root);
