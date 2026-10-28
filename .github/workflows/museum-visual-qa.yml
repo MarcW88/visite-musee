@@ -35,11 +35,17 @@ jobs:
       - name: Chromium desktop and mobile checks
         env:
           VISUAL_BASE_URL: http://127.0.0.1:4173
-        run: node scripts/museum-visual-qa.mjs
+        run: |
+          node scripts/museum-visual-qa.mjs
+          npm run test:discovery
+          npm run test:reflow
       - name: Preserve browser evidence
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: museum-chromium-screenshots
-          path: .artifacts/museum-visual/
+          path: |
+            .artifacts/museum-visual/
+            .artifacts/design-review/discovery/
+            .artifacts/design-review/reflow/
           if-no-files-found: warn

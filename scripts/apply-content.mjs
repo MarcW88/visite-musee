@@ -1,3 +1,6 @@
+import { renderMuseumLayout } from './lib/museum-layout.mjs';
+import { replaceMain } from './lib/shell.mjs';
+import { renderNormandyCatalogue, themeLabels } from './lib/catalogue.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 
@@ -15,6 +18,24 @@ const escapeAttr = value => String(value ?? '')
   .replaceAll('<', '&lt;')
   .replaceAll('>', '&gt;');
 
+// Preserved shells are processed on every build: replace managed head entries
+// rather than accumulating duplicate styles, canonical links and entity schemas.
+function cleanManagedHead(html, schema = null) {
+  return html.replace(/<head>[\s\S]*?<\/head>/, head => head
+    .replace(/<link rel="canonical" href="[^"]*">/g, '')
+    .replace(/<link rel="stylesheet" href="\.\.\/\.\.\/assets\/content\.css">/g, '')
+    .replace(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g, (tag, json) => {
+      if (!schema) return tag;
+      try {
+        const existing = JSON.parse(json);
+        return existing['@type'] === schema['@type'] && existing.name === schema.name ? '' : tag;
+      }
+      catch { return tag; }
+    }));
+}
+
+const museumNames = new Map();
+const taxonomy = JSON.parse(fs.readFileSync(path.join(root, 'content/taxonomy/museums.json'), 'utf8')).museums;
 let applied = 0;
 
 for (const entry of fs.readdirSync(museumContentRoot, { withFileTypes: true })) {
@@ -28,11 +49,12 @@ for (const entry of fs.readdirSync(museumContentRoot, { withFileTypes: true })) 
 
   if (!fs.existsSync(bodyPath) || !fs.existsSync(outputPath)) continue;
 
-  const body = fs.readFileSync(bodyPath, 'utf8').trim();
+  const body = renderMuseumLayout(fs.readFileSync(bodyPath, 'utf8').trim());
   const meta = fs.existsSync(metaPath)
     ? JSON.parse(fs.readFileSync(metaPath, 'utf8'))
     : {};
-  let html = fs.readFileSync(outputPath, 'utf8');
+  museumNames.set(slug, meta.schema?.name || slug);
+  let html = cleanManagedHead(fs.readFileSync(outputPath, 'utf8'), meta.schema);
 
   if (meta.title) {
     html = html.replace(/<title>[\s\S]*?<\/title>/, `<title>${escapeAttr(meta.title)} | Visite Musée</title>`);
@@ -52,7 +74,7 @@ for (const entry of fs.readdirSync(museumContentRoot, { withFileTypes: true })) 
   }
 
   html = html.replace('</head>', `${headExtras.join('')}</head>`);
-  html = html.slice(0, html.indexOf('<main>')) + '<main>' + body + '</main>' + html.slice(html.indexOf('</main>') + 7);
+  html = replaceMain(html, body);
 
   fs.writeFileSync(outputPath, html);
   applied += 1;
@@ -61,19 +83,19 @@ for (const entry of fs.readdirSync(museumContentRoot, { withFileTypes: true })) 
 const regionalBody = path.join(root, 'content', 'regions', 'ile-de-france', 'body.html');
 const regionalOutput = path.join(root, 'regions', 'ile-de-france', 'index.html');
 if (fs.existsSync(regionalBody) && fs.existsSync(regionalOutput)) {
-  let html = fs.readFileSync(regionalOutput, 'utf8');
+  let html = cleanManagedHead(fs.readFileSync(regionalOutput, 'utf8'));
   const body = fs.readFileSync(regionalBody, 'utf8').trim();
   html = html.replace(html.slice(html.indexOf('<title>'),html.indexOf('</title>') + 8), '<title>Musées en Île-de-France : où aller selon vos envies ? | Visite Musée</title>');
   html = html.replace(/<meta name="description" content="[^"]*">/, '<meta name="description" content="Découvrez des musées d’art, d’histoire et de mode en Île-de-France, avec une sélection par type de visite et des liens vers les musées.">');
   html = html.replace('</head>', '<link rel="canonical" href="https://visite-musee.fr/regions/ile-de-france/"><link rel="stylesheet" href="../../assets/content.css"></head>');
-  html = html.slice(0, html.indexOf('<main>')) + '<main>' + body + '</main>' + html.slice(html.indexOf('</main>') + 7);
+  html = replaceMain(html, body);
   fs.writeFileSync(regionalOutput, html);
 }
 
 const hautsBody = path.join(root, 'content', 'regions', 'hauts-de-france', 'body.html');
 const hautsOutput = path.join(root, 'regions', 'hauts-de-france', 'index.html');
 if (fs.existsSync(hautsBody) && fs.existsSync(hautsOutput)) {
-  let html = fs.readFileSync(hautsOutput, 'utf8');
+  let html = cleanManagedHead(fs.readFileSync(hautsOutput, 'utf8'));
   const content = fs.readFileSync(hautsBody, 'utf8').trim();
   const titleStart = html.indexOf('<title>');
   const titleEnd = html.indexOf('</title>') + 8;
@@ -82,11 +104,7 @@ if (fs.existsSync(hautsBody) && fs.existsSync(hautsOutput)) {
   }
   html = html.replace(/<meta name="description" content="[^"]*">/, '<meta name="description" content="Quels musées visiter dans les Hauts-de-France ? Lens, Lille, Roubaix, Amiens, Chantilly et une sélection par centres d’intérêt.">');
   html = html.replace('</head>', '<link rel="canonical" href="https://visite-musee.fr/regions/hauts-de-france/"><link rel="stylesheet" href="../../assets/content.css"></head>');
-  const mainStart = html.indexOf('<main>');
-  const mainEnd = html.indexOf('</main>');
-  if (mainStart >= 0 && mainEnd > mainStart) {
-    html = html.slice(0, mainStart) + '<main>' + content + '</main>' + html.slice(mainEnd + 7);
-  }
+  html = replaceMain(html, content);
   fs.writeFileSync(hautsOutput, html);
 }
 
@@ -94,14 +112,12 @@ if (fs.existsSync(hautsBody) && fs.existsSync(hautsOutput)) {
 const normandyBody = path.join(root, 'content', 'regions', 'normandie', 'body.html');
 const normandyOutput = path.join(root, 'regions', 'normandie', 'index.html');
 if (fs.existsSync(normandyBody) && fs.existsSync(normandyOutput)) {
-  let html = fs.readFileSync(normandyOutput, 'utf8');
-  const content = fs.readFileSync(normandyBody, 'utf8').trim();
+  let html = cleanManagedHead(fs.readFileSync(normandyOutput, 'utf8'));
+  const content = renderNormandyCatalogue(fs.readFileSync(normandyBody, 'utf8').trim(), {taxonomy, themes:themeLabels, names:museumNames});
   html = html.replace(/<title>[\s\S]*?<\/title>/, '<title>Musées de Normandie : sélection à Rouen, Caen, Bayeux et Granville | Visite Musée</title>');
   html = html.replace(/<meta name="description" content="[^"]*">/, '<meta name="description" content="Quels musées visiter en Normandie ? Découvrez Rouen, le MuMa, Caen, Bayeux et Granville avec des fiches individuelles et leurs informations pratiques.">');
   html = html.replace('</head>', '<link rel="canonical" href="https://visite-musee.fr/regions/normandie/"><link rel="stylesheet" href="../../assets/content.css"></head>');
-  const mainStart = html.indexOf('<main>');
-  const mainEnd = html.indexOf('</main>');
-  if (mainStart >= 0 && mainEnd > mainStart) html = html.slice(0, mainStart) + '<main>' + content + '</main>' + html.slice(mainEnd + 7);
+  html = replaceMain(html, content);
   fs.writeFileSync(normandyOutput, html);
 }
 
